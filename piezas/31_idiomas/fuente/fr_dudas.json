@@ -1,0 +1,914 @@
+{
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20 charges",
+  "qwen": "20 Étirements",
+  "gemma4": "20 Étirements"
+ },
+ "Attack 30 Shadow Enemies with Shadow-boosted weapons": {
+  "es": "Ataca a 30 enemigos de sombra con mejoras de sombra",
+  "gemma": "Attaque 30 ennemis de l'ombre avec des armes boostées à l'ombre",
+  "qwen": "Attaque 30 ennemis de l'ombre avec des armes avec bonus d'ombre",
+  "gemma4": "Attaque 30 ennemis de l'ombre avec des armes avec bonus d'ombre"
+ },
+ "Baddie Basher": {
+  "es": "Azote de malos",
+  "gemma": "Briseur de monstres",
+  "qwen": "Écraseur de monstres",
+  "gemma4": "Écraseur de monstres"
+ },
+ "Boosted Builder": {
+  "es": "Forjador mejorado",
+  "gemma": "Artisan amélioré",
+  "qwen": "Bâtisseur boosté",
+  "gemma4": "Bâtisseur boosté"
+ },
+ "Bow Builder": {
+  "es": "Forjador de arcos",
+  "gemma": "Artisan d'arcs",
+  "qwen": "Bâtisseur d'arcs",
+  "gemma4": "Bâtisseur d'arcs"
+ },
+ "Bronze Builder": {
+  "es": "Forjador de bronce",
+  "gemma": "Fabricant de bronze",
+  "qwen": "Forgeron de bronze",
+  "gemma4": "Forgeron de bronze"
+ },
+ "Cannonballistic": {
+  "es": "Balística total",
+  "gemma": "Artillerie !",
+  "qwen": "Balistique totale",
+  "gemma4": "Balistique totale"
+ },
+ "Clashing Stones": {
+  "es": "Choque de piedras",
+  "gemma": "Impact de pierres",
+  "qwen": "Choc de pierres",
+  "gemma4": "Choc de pierres"
+ },
+ "Craft any 10 weapons using Iron": {
+  "es": "Forja 10 armas usando hierro",
+  "gemma": "Fabrique 10 armes en utilisant du fer",
+  "qwen": "Fabrique 10 armes en fer",
+  "gemma4": "Fabrique 10 armes en fer"
+ },
+ "Craft any 15 weapons using Steel": {
+  "es": "Forja 15 armas usando acero",
+  "gemma": "Fabrique 15 armes en utilisant de l'acier",
+  "qwen": "Fabrique 15 armes en acier",
+  "gemma4": "Fabrique 15 armes en acier"
+ },
+ "Craft any 20 weapons using Gold": {
+  "es": "Forja 20 armas usando oro",
+  "gemma": "Fabrique 20 armes en utilisant de l'or",
+  "qwen": "Fabrique 20 armes en or",
+  "gemma4": "Fabrique 20 armes en or"
+ },
+ "Craft any 25 weapons using Crystal": {
+  "es": "Forja 25 armas usando cristal",
+  "gemma": "Fabrique 25 armes en utilisant du cristal",
+  "qwen": "Fabrique 25 armes en cristal",
+  "gemma4": "Fabrique 25 armes en cristal"
+ },
+ "Craft any 5 weapons using Bronze": {
+  "es": "Forja 5 armas usando bronce",
+  "gemma": "Fabrique 5 armes en utilisant du bronze",
+  "qwen": "Fabrique 5 armes en bronze",
+  "gemma4": "Fabrique 5 armes en bronze"
+ },
+ "Fallen Gems": {
+  "es": "Gemas caídas",
+  "gemma": "Gemmes Perdues",
+  "qwen": "Gemmes Tombées",
+  "gemma4": "Gemmes Tombées"
+ },
+ "Fight Fire with Fire": {
+  "es": "Fuego contra fuego",
+  "gemma": "Lutter au Feu contre le Feu",
+  "qwen": "L'union fait la force",
+  "gemma4": "L'union fait la force"
+ },
+ "Frequent Fletcher": {
+  "es": "Flechero frecuente",
+  "gemma": "L'archer habituel",
+  "qwen": "Le fabricant de flèches habituel",
+  "gemma4": "Le fabricant de flèches habituel"
+ },
+ "Get 100% Arrows score on any 20 Bows": {
+  "es": "Logra 100% en Flechas en 20 arcos",
+  "gemma": "Obtiens un score de 100% en flèches sur n'importe quel ensemble de 20 arcs",
+  "qwen": "Obtiens un score de 100% en flèches sur 20 arcs",
+  "gemma4": "Obtiens un score de 100% en flèches sur 20 arcs"
+ },
+ "Get 100% Construction score on any 20 Axes, Shields, or Maces": {
+  "es": "Logra 100% en Construcción en 20 hachas, escudos o mazas",
+  "gemma": "Obtiens un score de 100% en construction sur n'importe quel ensemble de 20 haches, boucliers ou masses",
+  "qwen": "Obtiens un score de 100% en construction sur 20 haches, boucliers ou masses",
+  "gemma4": "Obtiens un score de 100% en construction sur 20 haches, boucliers ou masses"
+ },
+ "Get 100% Forging score on any 20 weapons": {
+  "es": "Logra 100% en Forjado en 20 armas",
+  "gemma": "Obtiens un score de 100% en forge sur n'importe quel ensemble de 20 armes",
+  "qwen": "Obtiens un score de 100% en forge sur 20 armes",
+  "gemma4": "Obtiens un score de 100% en forge sur 20 armes"
+ },
+ "Get 100% Hammering score on any 20 Swords or Pikes": {
+  "es": "Logra 100% en Martillado en 20 espadas o lanzas",
+  "gemma": "Obtiens un score de 100% en martelage sur n'importe quel ensemble de 20 épées ou piques",
+  "qwen": "Obtiens un score de 100% en martelage sur 20 épées ou piques",
+  "gemma4": "Obtiens un score de 100% en martelage sur 20 épées ou piques"
+ },
+ "Get 100% Handle score on any 20 weapons": {
+  "es": "Logra 100% en Agarre en 20 armas",
+  "gemma": "Obtiens un score de 100% en manche sur n'importe quel ensemble de 20 armes",
+  "qwen": "Obtiens un score de 100% en manche sur 20 armes",
+  "gemma4": "Obtiens un score de 100% en manche sur 20 armes"
+ },
+ "Get 100% Painting score on any 20 Shields": {
+  "es": "Logra 100% en Pintura en 20 escudos",
+  "gemma": "Obtiens un score de 100% en peinture sur n'importe quel ensemble de 20 boucliers",
+  "qwen": "Obtiens un score de 100% en peinture sur 20 boucliers",
+  "gemma4": "Obtiens un score de 100% en peinture sur 20 boucliers"
+ },
+ "Get 100% Stretching score on any 20 Bows": {
+  "es": "Logra 100% en Tensado en 20 arcos",
+  "gemma": "Obtiens un score de 100% en tension sur n'importe quel ensemble de 20 arcs",
+  "qwen": "Obtiens un score de 100% en tension sur 20 arcs",
+  "gemma4": "Obtiens un score de 100% en tension sur 20 arcs"
+ },
+ "Get 3 different Weapon Designs for Bows": {
+  "es": "Consigue 3 diseños distintos de arcos",
+  "gemma": "Obtiens 3 modèles d'arme différents pour les arcs",
+  "qwen": "Obtiens 3 modèles d'armes différents pour les arcs",
+  "gemma4": "Obtiens 3 modèles d'armes différents pour les arcs"
+ },
+ "Get 3 different Weapon Designs for Maces": {
+  "es": "Consigue 3 diseños distintos de mazas",
+  "gemma": "Obtiens 3 modèles d'arme différents pour les masses",
+  "qwen": "Obtiens 3 modèles d'armes différents pour les masses",
+  "gemma4": "Obtiens 3 modèles d'armes différents pour les masses"
+ },
+ "Get 3 different Weapon Designs for Pikes": {
+  "es": "Consigue 3 diseños distintos de lanzas",
+  "gemma": "Obtiens 3 modèles d'arme différents pour les piques",
+  "qwen": "Obtiens 3 modèles d'armes différents pour les piques",
+  "gemma4": "Obtiens 3 modèles d'armes différents pour les piques"
+ },
+ "Get 3 different Weapon Designs for Shields": {
+  "es": "Consigue 3 diseños distintos de escudos",
+  "gemma": "Obtiens 3 modèles d'arme différents pour les boucliers",
+  "qwen": "Obtiens 3 modèles d'armes différents pour les boucliers",
+  "gemma4": "Obtiens 3 modèles d'armes différents pour les boucliers"
+ },
+ "Getting Started": {
+  "es": "Primeros pasos",
+  "gemma": "Bienvenue !",
+  "qwen": "Premiers pas",
+  "gemma4": "Premiers pas"
+ },
+ "Go for the Gold": {
+  "es": "Tras el oro",
+  "gemma": "À la recherche de l'or",
+  "qwen": "Vise l'or",
+  "gemma4": "Vise l'or"
+ },
+ "Kill all enemies on a trail on 20 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 20 días",
+  "gemma": "Élimine tous les ennemis sur un chemin pendant 20 jours différents",
+  "qwen": "Tue tous les ennemis d'un chemin sur 20 jours différents",
+  "gemma4": "Tue tous les ennemis d'un chemin sur 20 jours différents"
+ },
+ "Kill all enemies on a trail on 5 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 5 días",
+  "gemma": "Élimine tous les ennemis sur un chemin pendant 5 jours différents",
+  "qwen": "Tue tous les ennemis d'un chemin sur 5 jours différents",
+  "gemma4": "Tue tous les ennemis d'un chemin sur 5 jours différents"
+ },
+ "Maxed Out": {
+  "es": "Al máximo",
+  "gemma": "Niveau maximal",
+  "qwen": "Au maximum",
+  "gemma4": "Au maximum"
+ },
+ "Ore Forager": {
+  "es": "Buscador de mineral",
+  "gemma": "Mineur de minerai",
+  "qwen": "Chercheur de minerai",
+  "gemma4": "Chercheur de minerai"
+ },
+ "Overkill": {
+  "es": "Excesivo",
+  "gemma": "Excès",
+  "qwen": "Trop puissant",
+  "gemma4": "Trop puissant"
+ },
+ "Pick up 250 pieces of ore dropped by enemies in battle": {
+  "es": "Recoge 250 minerales soltados por enemigos en batalla",
+  "gemma": "Récupère 250 morceaux de minerai lâchés par les ennemis au combat",
+  "qwen": "Récupère 250 minerai lâchés par les ennemis au combat",
+  "gemma4": "Récupère 250 minerai lâchés par les ennemis au combat"
+ },
+ "Pick up 50 weapon parts dropped by enemies in battle": {
+  "es": "Recoge 50 piezas de arma soltadas por enemigos en batalla",
+  "gemma": "Récupère 50 pièces d'armes lâchées par les ennemis au combat",
+  "qwen": "Récupère 50 pièces d'arme lâchées par les ennemis au combat",
+  "gemma4": "Récupère 50 pièces d'arme lâchées par les ennemis au combat"
+ },
+ "Powered Up": {
+  "es": "Potenciado",
+  "gemma": "Amélioration",
+  "qwen": "Amélioré",
+  "gemma4": "Amélioré"
+ },
+ "Silver Starter": {
+  "es": "Inicio de plata",
+  "gemma": "Débutant en argent",
+  "qwen": "Pack de départ en argent",
+  "gemma4": "Pack de départ en argent"
+ },
+ "Silver Stats": {
+  "es": "Estadísticas de plata",
+  "gemma": "Statistiques de l'argent",
+  "qwen": "Stats d'argent",
+  "gemma4": "Stats d'argent"
+ },
+ "Field Dragon": {
+  "es": "Dragón de campo",
+  "gemma": "Dragon des plaines",
+  "qwen": "Dragon de champ",
+  "gemma4": "Dragon de champ"
+ },
+ "Pine Recluse": {
+  "es": "Reclusa del pino",
+  "gemma": "Araignée des pins",
+  "qwen": "Reclus du pin",
+  "gemma4": "Reclus du pin"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "Tentative",
+  "qwen": "Temps",
+  "gemma4": "Temps"
+ },
+ "Times": {
+  "es": "veces",
+  "gemma": "Tentatives",
+  "qwen": "Temps",
+  "gemma4": "Temps"
+ },
+ "Weapon Boosts:": {
+  "es": "Mejoras de armas:",
+  "gemma": "Bonus pour armes :",
+  "qwen": "Bonus d'armes :",
+  "gemma4": "Bonus d'armes :"
+ },
+ "Swordsmith": {
+  "es": "Espadero",
+  "gemma": "Espadon",
+  "qwen": "Forgeron d'épées",
+  "gemma4": "Forgeron d'épées"
+ },
+ "You must launch normally\nfrom the installed program\nto play the game.": {
+  "es": "Para jugar, inicia el juego de forma normal desde el programa instalado.",
+  "gemma": "Pour jouer, tu dois lancer le jeu normalement depuis le programme installé.",
+  "qwen": "Tu dois lancer le jeu normalement depuis le programme installé pour y jouer.",
+  "gemma4": "Tu dois lancer le jeu normalement depuis le programme installé pour y jouer."
+ },
+ "Erase Game": {
+  "es": "Borrar partida",
+  "gemma": "Effacer la partie",
+  "qwen": "Supprimer la partie",
+  "gemma4": "Supprimer la partie"
+ },
+ "Name Here": {
+  "es": "Tu nombre",
+  "gemma": "Nom ici",
+  "qwen": "Ton nom",
+  "gemma4": "Ton nom"
+ },
+ "What happened to my saved games? Click here for help.": {
+  "es": "¿Qué pasó con mis partidas guardadas? Haz clic aquí para ver la ayuda.",
+  "gemma": "Qu'est-ce qui est arrivé à mes sauvegardes ? Cliquez ici pour obtenir de l'aide.",
+  "qwen": "Qu'est-ce qui est arrivé à mes sauvegardes ? Clique ici pour obtenir de l'aide.",
+  "gemma4": "Qu'est-ce qui est arrivé à mes sauvegardes ? Clique ici pour obtenir de l'aide."
+ },
+ "ONE MOMENT...": {
+  "es": "UN MOMENTO...",
+  "gemma": "ATTENDEZ...",
+  "qwen": "UN INSTANT...",
+  "gemma4": "UN INSTANT..."
+ },
+ "TIME BONUS": {
+  "es": "BONO DE TIEMPO",
+  "gemma": "BONUS TEMPS",
+  "qwen": "BONUS DE TEMPS",
+  "gemma4": "BONUS DE TEMPS"
+ },
+ "Full Screen:": {
+  "es": "Pantalla completa:",
+  "gemma": "Écran plein :",
+  "qwen": "Plein écran :",
+  "gemma4": "Plein écran :"
+ },
+ "Out of Stock!": {
+  "es": "¡Agotado!",
+  "gemma": "Rupture de stock !",
+  "qwen": "Épuisé !",
+  "gemma4": "Épuisé !"
+ },
+ "Click to visit\nGander's shop!": {
+  "es": "¡Clic para visitar la tienda de Gander!",
+  "gemma": "Clique ici pour visiter la boutique de Gander !",
+  "qwen": "Clique pour visiter la boutique de Gander !",
+  "gemma4": "Clique pour visiter la boutique de Gander !"
+ },
+ "eet Jacksmith, a very talented Blacksmith,\nand his furry apprentice, Scout.": {
+  "es": "ira a Jacksmith, un herrero muy talentoso, y a su peludo aprendiz, Scout.",
+  "gemma": "Voici Jacksmith, un forgeron très talentueux, et son apprenti, Scout.",
+  "qwen": "Voici Jacksmith, un forgeron très talentueux, et son apprenti à fourrure, Scout.",
+  "gemma4": "Voici Jacksmith, un forgeron très talentueux, et son apprenti à fourrure, Scout."
+ },
+ "Scrap": {
+  "es": "Tirar",
+  "gemma": "Démontrer",
+  "qwen": "Démonter",
+  "gemma4": "Démonter"
+ },
+ "You have collected": {
+  "es": "Has conseguido",
+  "gemma": "Tu as collecté",
+  "qwen": "Tu as ramassé",
+  "gemma4": "Tu as ramassé"
+ },
+ "You will collect": {
+  "es": "Conseguirás",
+  "gemma": "Tu collecteras",
+  "qwen": "Tu récolteras",
+  "gemma4": "Tu récolteras"
+ },
+ "Don't forget about me,\nJacksmith! I've always\ngot new items in\nstock!": {
+  "es": "¡No te olvides de mí, Jacksmith! ¡Siempre tengo artículos nuevos!",
+  "gemma": "N'oublie pas de moi, Jacksmith ! J'ai toujours de nouveaux articles en stock !",
+  "qwen": "Ne m'oublie pas, Jacksmith ! J'ai toujours de nouveaux articles en stock !",
+  "gemma4": "Ne m'oublie pas, Jacksmith ! J'ai toujours de nouveaux articles en stock !"
+ },
+ "New Enemy Approaching": {
+  "es": "Se acerca un enemigo nuevo",
+  "gemma": "Nouveau ennemi approchant",
+  "qwen": "Un nouvel ennemi approche",
+  "gemma4": "Un nouvel ennemi approche"
+ },
+ "Epic Weapon Something": {
+  "es": "Arma épica (ejemplo)",
+  "gemma": "Arme épique (exemple)",
+  "qwen": "Arme épique Quelque chose",
+  "gemma4": "Arme épique Quelque chose"
+ },
+ "Killed 99 times": {
+  "es": "Derrotado 99 veces",
+  "gemma": "Tu as été vaincu 99 fois",
+  "qwen": "Éliminé 99 fois",
+  "gemma4": "Éliminé 99 fois"
+ },
+ "Basics:": {
+  "es": "Básico:",
+  "gemma": "Bases :",
+  "qwen": "Bases",
+  "gemma4": "Bases"
+ },
+ "Crafting:": {
+  "es": "Forja:",
+  "gemma": "Fabrication :",
+  "qwen": "Forge",
+  "gemma4": "Forge"
+ },
+ "Battle:": {
+  "es": "Batalla:",
+  "gemma": "Bataille :",
+  "qwen": "Combat",
+  "gemma4": "Combat"
+ },
+ "Epic Weapons:": {
+  "es": "Armas épicas:",
+  "gemma": "Armes épiques :",
+  "qwen": "Armes épiques",
+  "gemma4": "Armes épiques"
+ },
+ "Game Design, Programming,\nAnimation, Music and Sound": {
+  "es": "Diseño, programación, animación, música y sonido",
+  "gemma": "Conception, programmation, animation, musique et effets sonores",
+  "qwen": "Game Design, programmation, animation, musique et sons",
+  "gemma4": "Game Design, programmation, animation, musique et sons"
+ },
+ "Game Design, Art, Animation,\nand Character Design": {
+  "es": "Diseño, arte, animación y diseño de personajes",
+  "gemma": "Conception, graphismes, animations et design des personnages",
+  "qwen": "Conception, graphismes, animations et modèles de personnages",
+  "gemma4": "Conception, graphismes, animations et modèles de personnages"
+ },
+ "You've called the local soldiers\nto your cause!": {
+  "es": "¡Los soldados de la zona\nse unen a tu causa!",
+  "gemma": "Tu as appelé les soldats locaux pour qu'ils rejoignent ta cause !",
+  "qwen": "Tu as appelé les soldats locaux à ta cause !",
+  "gemma4": "Tu as appelé les soldats locaux à ta cause !"
+ },
+ "First choose this station to use.": {
+  "es": "Primero elige esta estación.",
+  "gemma": "Choisis d'abord ce poste pour l'utiliser.",
+  "qwen": "Choisis d'abord la station à utiliser.",
+  "gemma4": "Choisis d'abord la station à utiliser."
+ },
+ "You can only crafts swords right now.\n\nClick the icon to start building!": {
+  "es": "Por ahora solo puedes forjar espadas.\n\n¡Haz clic en el icono para empezar!",
+  "gemma": "Tu ne peux forger que des épées pour le moment. Clique sur l'icône pour commencer la fabrication !",
+  "qwen": "Tu ne peux forger que des épées pour le moment. Clique sur l'icône pour commencer !",
+  "gemma4": "Tu ne peux forger que des épées pour le moment. Clique sur l'icône pour commencer !"
+ },
+ "You'll earn molds for other swords as you travel.": {
+  "es": "Ganarás moldes de otras espadas durante tu viaje.",
+  "gemma": "Tu obtiendras des moules pour d'autres épées au fur et à mesure de ton voyage.",
+  "qwen": "Tu gagneras des moules pour d'autres épées au cours de ton voyage.",
+  "gemma4": "Tu gagneras des moules pour d'autres épées au cours de ton voyage."
+ },
+ "You first need to choose a metal.\n\nYou'll earn metal ores to use later,\nbut right now you have an unlimited\nsupply of copper to use.": {
+  "es": "Primero debes elegir un metal.\n\nMás adelante ganarás minerales, pero por ahora tienes cobre ilimitado para usar.",
+  "gemma": "Tu dois d'abord choisir un métal. Tu gagneras des minerai de métal plus tard, mais pour l'instant, tu as du cuivre en quantité illimitée.",
+  "qwen": "Tu dois d'abord choisir un métal. Tu gagneras des minerais plus tard, mais pour l'instant, tu as une réserve illimitée de cuivre.",
+  "gemma4": "Tu dois d'abord choisir un métal. Tu gagneras des minerais plus tard, mais pour l'instant, tu as une réserve illimitée de cuivre."
+ },
+ "The metal is ready! Slowly pull the chain downwards to pour into the sword mold.": {
+  "es": "¡El metal está listo! Tira despacio de la cadena hacia abajo para verterlo en el molde.",
+  "gemma": "Le métal est prêt ! Tire lentement sur la chaîne pour verser le métal dans le moule de l'épée.",
+  "qwen": "Le métal est prêt ! Tire lentement sur la chaîne vers le bas pour le verser dans le moule de l'épée.",
+  "gemma4": "Le métal est prêt ! Tire lentement sur la chaîne vers le bas pour le verser dans le moule de l'épée."
+ },
+ "Next drop a Grip onto the sword. Try to line up the parts correctly to make the sword more durable.": {
+  "es": "Ahora suelta un mango. Alinea bien las piezas para que la espada sea más duradera.",
+  "gemma": "Ensuite, ajoute un manche à l'épée. Essaie d'aligner les pièces correctement pour rendre l'épée plus résistante.",
+  "qwen": "Tu dois ajouter une poignée à l'épée. Essaie d'aligner les pièces correctement pour rendre l'épée plus résistante.",
+  "gemma4": "Tu dois ajouter une poignée à l'épée. Essaie d'aligner les pièces correctement pour rendre l'épée plus résistante."
+ },
+ "Click Finish to deliver this sword to a waiting swordsman!": {
+  "es": "¡Haz clic en Terminar para entregar la espada al espadachín que espera!",
+  "gemma": "Clique sur \"Terminé\" pour livrer cette épée à un guerrier qui l'attend !",
+  "qwen": "Clique sur Terminer pour livrer cette épée au soldat qui attend !",
+  "gemma4": "Clique sur Terminer pour livrer cette épée au soldat qui attend !"
+ },
+ "Monsters will drop Loot when attacked.": {
+  "es": "Los monstruos sueltan botín al ser atacados.",
+  "gemma": "Les monstres laisseront tomber du butin lorsqu'ils seront attaqués.",
+  "qwen": "Les monstres lâchent du butin lorsqu'ils sont attaqués.",
+  "gemma4": "Les monstres lâchent du butin lorsqu'ils sont attaqués."
+ },
+ "You'll earn Experience Points (XP) whena monster is defeated, and they spray extraloot further down the trail!": {
+  "es": "Ganarás puntos de experiencia (XP) al derrotar a un monstruo, ¡y este lanzará más botín por el sendero!",
+  "gemma": "Tu gagneras des points d'expérience (XP) lorsque tu vaincras un monstre, et ils projettent du butin supplémentaire plus loin sur le chemin !",
+  "qwen": "Tu gagneras des points d'expérience (XP) quand un monstre est vaincu, et il projettera du butin supplémentaire plus loin sur le chemin !",
+  "gemma4": "Tu gagneras des points d'expérience (XP) quand un monstre est vaincu, et il projettera du butin supplémentaire plus loin sur le chemin !"
+ },
+ "Be sure to collect it!": {
+  "es": "¡No olvides recogerlo!",
+  "gemma": "N'oublie pas de les ramasser !",
+  "qwen": "N'oublie pas de le ramasser !",
+  "gemma4": "N'oublie pas de le ramasser !"
+ },
+ "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!": {
+  "es": "Si derrotas a todos los monstruos del sendero del día, ¡obtendrás un diseño de arma épica y sus piezas de un cofre del tesoro!",
+  "gemma": "Si tu bats tous les monstres d'un jour, tu peux obtenir un modèle d'arme épique et ses pièces dans un coffre au trésor !",
+  "qwen": "Si tu bats tous les monstres du chemin du jour, tu peux récupérer un modèle d'arme épique et ses pièces dans un coffre au trésor !",
+  "gemma4": "Si tu bats tous les monstres du chemin du jour, tu peux récupérer un modèle d'arme épique et ses pièces dans un coffre au trésor !"
+ },
+ "Click here to drop a Repair Pack onyour troops, which restores some durabilityto all weapons!": {
+  "es": "Haz clic aquí para lanzar un paquete de reparación a tus tropas; ¡devuelve algo de durabilidad a todas las armas!",
+  "gemma": "Clique ici pour lancer un kit de réparation sur tes troupes, ce qui restaure une partie de la durabilité de toutes les armes !",
+  "qwen": "Clique ici pour déposer un kit de réparation sur tes troupes, ce qui restaure une partie de la durabilité de toutes les armes !",
+  "gemma4": "Clique ici pour déposer un kit de réparation sur tes troupes, ce qui restaure une partie de la durabilité de toutes les armes !"
+ },
+ "Keep building better weapons\nto keep making progress!": {
+  "es": "¡Sigue forjando mejores armas para seguir avanzando!",
+  "gemma": "Continue à fabriquer de meilleures armes pour progresser !",
+  "qwen": "Continue à fabriquer de meilleures armes pour continuer à progresser !",
+  "gemma4": "Continue à fabriquer de meilleures armes pour continuer à progresser !"
+ },
+ "You can Scrap a weapon at any time during crafting,which will destroy that weapon and restore allmetal and parts to your inventory.": {
+  "es": "Puedes desechar un arma en cualquier momento de la forja: se destruirá y todo el metal y las piezas volverán a tu inventario.",
+  "gemma": "Tu peux démonter une arme à tout moment pendant la fabrication, ce qui la détruira et rendra tout le métal et les pièces à ton inventaire.",
+  "qwen": "Tu peux démonter une arme à tout moment pendant la fabrication, ce qui détruira cette arme et restaurera tout le métal et les pièces dans ton inventaire.",
+  "gemma4": "Tu peux démonter une arme à tout moment pendant la fabrication, ce qui détruira cette arme et restaurera tout le métal et les pièces dans ton inventaire."
+ },
+ "Drag both arms of the bow upwards to stretch the string.\nTry to make it straight to earn the maximum Power for a Bow.": {
+  "es": "Arrastra ambos brazos del arco hacia arriba para tensar la cuerda. Déjala recta para lograr el poder máximo del arco.",
+  "gemma": "Faites glisser les deux bras de l'arc vers le haut pour tendre la corde. Essayez de la maintenir droite pour obtenir la puissance maximale pour un arc.",
+  "qwen": "Fais glisser les deux bras de l'arc vers le haut pour tendre la corde. Essaie de la garder droite pour obtenir la puissance maximale pour un arc.",
+  "gemma4": "Fais glisser les deux bras de l'arc vers le haut pour tendre la corde. Essaie de la garder droite pour obtenir la puissance maximale pour un arc."
+ },
+ "Line it up with arrow shaft\nto get maximum Durability!": {
+  "es": "¡Alinéala con la vara de la flecha para lograr la durabilidad máxima!",
+  "gemma": "Alignez-la avec la tige de la flèche pour une durabilité maximale !",
+  "qwen": "Aligne-la avec la tige de la flèche pour une durabilité maximale !",
+  "gemma4": "Aligne-la avec la tige de la flèche pour une durabilité maximale !"
+ },
+ "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.": {
+  "es": "Arma la cabeza del hacha uniendo las tres piezas al centro. Arrastra cada hoja y púa, y suéltala cuando toque el centro. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Crée la tête de la hache en fixant les trois parties au centre. Fais glisser chaque lame et chaque pointe, et relâche lorsque c'est contre le centre. Garde-les droites pour une puissance maximale de la hache.",
+  "qwen": "Fabrique la tête de la hache en fixant les trois pièces au centre. Fais glisser chaque lame et chaque pointe, et relâche-les lorsqu'elles sont contre le centre. Garde-les droites pour obtenir une puissance maximale pour la hache.",
+  "gemma4": "Fabrique la tête de la hache en fixant les trois pièces au centre. Fais glisser chaque lame et chaque pointe, et relâche-les lorsqu'elles sont contre le centre. Garde-les droites pour obtenir une puissance maximale pour la hache."
+ },
+ "All of the Epic Weapon Designs you find are shown here! Click the Bows icon to see your design.": {
+  "es": "¡Aquí se muestran todos los diseños de armas épicas que encuentres! Haz clic en el icono de arcos para ver tu diseño.",
+  "gemma": "Tous les modèles d'armes épiques que tu trouves sont affichés ici ! Clique sur l'icône \"arc\" pour voir ton modèle.",
+  "qwen": "Tous les modèles d'armes épiques que tu trouves sont affichés ici ! Clique sur l'icône des arcs pour voir ton modèle.",
+  "gemma4": "Tous les modèles d'armes épiques que tu trouves sont affichés ici ! Clique sur l'icône des arcs pour voir ton modèle."
+ },
+ "Click on the Design tab to\nsee the recipe for this weapon.": {
+  "es": "Haz clic en la pestaña Diseño para ver la receta de esta arma.",
+  "gemma": "Clique sur l'onglet \"Modèle\" pour voir la recette de cette arme.",
+  "qwen": "Clique sur l'onglet Modèle pour voir la recette de cette arme.",
+  "gemma4": "Clique sur l'onglet Modèle pour voir la recette de cette arme."
+ },
+ "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.": {
+  "es": "Puedes ver las piezas necesarias para forjar esta arma, y una marca si ya las tienes.",
+  "gemma": "Tu peux voir les pièces nécessaires pour fabriquer cette arme, et un indicateur si tu les as déjà.",
+  "qwen": "Tu peux voir les pièces nécessaires pour fabriquer cette arme, ainsi qu'un indicateur si tu les as déjà.",
+  "gemma4": "Tu peux voir les pièces nécessaires pour fabriquer cette arme, ainsi qu'un indicateur si tu les as déjà."
+ },
+ "You can see the Bonus Effectthis weapon will give you here.": {
+  "es": "Aquí puedes ver el efecto extra que te dará esta arma.",
+  "gemma": "Tu peux voir l'effet de bonus que cette arme te donnera ici.",
+  "qwen": "Tu peux voir ici l'effet de bonus que cette arme te donnera.",
+  "gemma4": "Tu peux voir ici l'effet de bonus que cette arme te donnera."
+ },
+ "You can Bookmark the parts to keep track of what you're saving or building.": {
+  "es": "Puedes marcar las piezas para llevar el control de lo que guardas o forjas.",
+  "gemma": "Tu peux marquer les pièces pour suivre ce que tu économises ou ce que tu fabriques.",
+  "qwen": "Tu peux marquer les pièces pour suivre ce que tu économises ou fabriques.",
+  "gemma4": "Tu peux marquer les pièces pour suivre ce que tu économises ou fabriques."
+ },
+ "When you craft great weapons and earn points on a weapon's\nStar Meter, you can unlock extra Elemental Boosts\nfor each weapon type!": {
+  "es": "Si forjas grandes armas y ganas puntos en el medidor de estrellas de un arma, ¡desbloquearás mejoras elementales extra para cada tipo de arma!",
+  "gemma": "Lorsque tu fabriques de superbes armes et que tu gagnes des points sur la jauge d'étoiles d'une arme, tu peux débloquer des bonus élémentaires supplémentaires pour chaque type d'arme !",
+  "qwen": "Quand tu forges de superbes armes et que tu gagnes des points sur la jauge d'étoiles d'une arme, tu peux débloquer des bonus élémentaires supplémentaires pour chaque type d'arme !",
+  "gemma4": "Quand tu forges de superbes armes et que tu gagnes des points sur la jauge d'étoiles d'une arme, tu peux débloquer des bonus élémentaires supplémentaires pour chaque type d'arme !"
+ },
+ "Want to multitask?Click the Back button to take otherweapon orders and switch to other stations!": {
+  "es": "¿Quieres hacer varias cosas a la vez? ¡Haz clic en el botón Atrás para tomar otros pedidos y cambiar de estación!",
+  "gemma": "Tu veux faire plusieurs choses à la fois ? Clique sur le bouton \"Retour\" pour accepter d'autres commandes d'armes et changer de poste !",
+  "qwen": "Tu veux faire plusieurs choses à la fois ? Clique sur le bouton Retour pour prendre d'autres commandes et passer à d'autres stations !",
+  "gemma4": "Tu veux faire plusieurs choses à la fois ? Clique sur le bouton Retour pour prendre d'autres commandes et passer à d'autres stations !"
+ },
+ "Scouting and Orders": {
+  "es": "Exploración y pedidos",
+  "gemma": "Reconnaissance et commandes",
+  "qwen": "Exploration et commandes",
+  "gemma4": "Exploration et commandes"
+ },
+ "As you travel down the road, many different enemies\nwill be blocking your path!": {
+  "es": "Al viajar por el camino, ¡muchos enemigos distintos te cerrarán el paso!",
+  "gemma": "En chemin, de nombreux ennemis bloqueront ton passage !",
+  "qwen": "En chemin, de nombreux ennemis différents bloqueront ton passage !",
+  "gemma4": "En chemin, de nombreux ennemis différents bloqueront ton passage !"
+ },
+ "Parts that you collect or buy will also have additional\nStat Boosts, to make your weapon even stronger.": {
+  "es": "Las piezas que reúnas o compres también tienen mejoras de estadísticas, para que tu arma sea aún más fuerte.",
+  "gemma": "Les pièces que tu collectes ou achètes auront également des bonus de statistiques, pour rendre ton arme encore plus puissante.",
+  "qwen": "Les pièces que tu collectes ou achètes auront également des bonus de statistiques pour rendre ton arme encore plus puissante.",
+  "gemma4": "Les pièces que tu collectes ou achètes auront également des bonus de statistiques pour rendre ton arme encore plus puissante."
+ },
+ "Weapons and parts can also have Elemental Boostsin addition to their regular stats. Check the \"Element Chart\"section for more information.": {
+  "es": "Las armas y piezas también pueden tener mejoras elementales además de sus estadísticas. Consulta la sección \"Tabla de elementos\" para saber más.",
+  "gemma": "Les armes et les pièces peuvent également avoir des bonus élémentaires, en plus de leurs statistiques habituelles. Consulte la section \"Tableau des éléments\" pour plus d'informations.",
+  "qwen": "Les armes et les pièces peuvent également avoir des bonus élémentaires en plus de leurs statistiques habituelles. Consulte la section « Tableau des éléments » pour plus d'informations.",
+  "gemma4": "Les armes et les pièces peuvent également avoir des bonus élémentaires en plus de leurs statistiques habituelles. Consulte la section « Tableau des éléments » pour plus d'informations."
+ },
+ "Use the Gems you collect ( ) to buy\nweapon parts from Gander’s shop.": {
+  "es": "Usa tus gemas (             ) para comprar piezas en la tienda de Gander.",
+  "gemma": "Utilise les Gemmes que tu collectes pour acheter des pièces d'armes dans la boutique de Gander.",
+  "qwen": "Utilise les gemmes que tu collectes ( ) pour acheter des pièces d'armes dans la boutique de Gander.",
+  "gemma4": "Utilise les gemmes que tu collectes ( ) pour acheter des pièces d'armes dans la boutique de Gander."
+ },
+ "Monsters will drop loot when attacked.\nMove your mouse over the dropped items to collect them!": {
+  "es": "Los monstruos sueltan botín al ser atacados. ¡Pasa el ratón sobre los objetos caídos para recogerlos!",
+  "gemma": "Les monstres laissent tomber du butin lorsqu'ils sont attaqués. Passe ta souris sur les objets pour les collecter !",
+  "qwen": "Les monstres lâchent du butin lorsqu'ils sont attaqués. Passe ta souris sur les objets au sol pour les ramasser !",
+  "gemma4": "Les monstres lâchent du butin lorsqu'ils sont attaqués. Passe ta souris sur les objets au sol pour les ramasser !"
+ },
+ "View the separate topics in the \"Battle\" section to learn\nmore details about the battle.": {
+  "es": "Consulta los temas de la sección \"Batalla\" para conocer más detalles de la batalla.",
+  "gemma": "Consulte les différentes sections de la partie \"Bataille\" pour plus de détails.",
+  "qwen": "Consulte les différents sujets dans la section « Bataille » pour en savoir plus sur le combat.",
+  "gemma4": "Consulte les différents sujets dans la section « Bataille » pour en savoir plus sur le combat."
+ },
+ "You build the handle of a sword by dropping parts onto it.\nFirst drag and release a GUARD onto the sword's end,\nthen a GRIP, then a CAP.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una GUARDA en el extremo, luego un MANGO y luego un POMO.",
+  "gemma": "Tu fabriques le manche d'une épée en déposant des pièces dessus. Fais glisser et relâche d'abord une garde à l'extrémité de l'épée, puis un manche, puis un pommeau.",
+  "qwen": "Tu fabriques le manche d'une épée en déposant des pièces dessus. Fais glisser et relâche d'abord une garde à l'extrémité de l'épée, puis une poignée, puis un pommeau.",
+  "gemma4": "Tu fabriques le manche d'une épée en déposant des pièces dessus. Fais glisser et relâche d'abord une garde à l'extrémité de l'épée, puis une poignée, puis un pommeau."
+ },
+ "Drag one of your Grips onto the middle of the Bow.\nMany weapons use the same parts, like Grips.": {
+  "es": "Arrastra uno de tus mangos al centro del arco. Muchas armas usan las mismas piezas, como los mangos.",
+  "gemma": "Fais glisser l'un de tes manches au milieu de l'arc. De nombreuses armes utilisent les mêmes pièces, comme les manches.",
+  "qwen": "Fais glisser l'une de tes poignées au milieu de l'arc. De nombreuses armes utilisent les mêmes pièces, comme les poignées.",
+  "gemma4": "Fais glisser l'une de tes poignées au milieu de l'arc. De nombreuses armes utilisent les mêmes pièces, comme les poignées."
+ },
+ "Drag each blade and spike, and release when it's against\nthe center piece. Keep them straight to get maximum\nPower for the axe.": {
+  "es": "Arrastra cada hoja y púa, y suéltala cuando toque la pieza central. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Fais glisser chaque lame et chaque pointe, et relâche lorsque c'est contre la pièce centrale. Garde-les droites pour obtenir une puissance maximale pour la hache.",
+  "qwen": "Fais glisser chaque lame et pointe, puis relâche quand elles touchent la pièce centrale. Garde-les droites pour obtenir la puissance maximale de la hache.",
+  "gemma4": "Fais glisser chaque lame et pointe, puis relâche quand elles touchent la pièce centrale. Garde-les droites pour obtenir la puissance maximale de la hache."
+ },
+ "Keep each part centered when you drop it for maximum\nDurability. If it's not centered, it will land crooked, and\nwon't be as durable!": {
+  "es": "Mantén cada pieza centrada al soltarla para la durabilidad máxima. Si no está centrada, quedará torcida ¡y durará menos!",
+  "gemma": "Garde chaque partie centrée lorsque tu la lâches pour une durabilité maximale. Si ce n'est pas centré, ça atterrira tordu, et ça ne sera pas aussi durable !",
+  "qwen": "Garde chaque pièce centrée au moment de la lâcher pour une durabilité maximale. Si elle n'est pas centrée, elle sera tordue et sera moins durable !",
+  "gemma4": "Garde chaque pièce centrée au moment de la lâcher pour une durabilité maximale. Si elle n'est pas centrée, elle sera tordue et sera moins durable !"
+ },
+ "Keep dragging and painting until the \"Paint Meter\" above\nthe Shield is completely empty. Don't leave any blank spots!": {
+  "es": "Sigue arrastrando y pintando hasta que el \"medidor de pintura\" sobre el escudo quede vacío. ¡No dejes huecos sin pintar!",
+  "gemma": "Continue de faire glisser et de peindre jusqu'à ce que le \"compteur de peinture\" au-dessus du bouclier soit complètement vide. Ne laisse pas de zones blanches !",
+  "qwen": "Continue de peindre jusqu'à ce que le \"compteur de peinture\" au-dessus du bouclier soit complètement vide. Ne laisse aucune zone vide !",
+  "gemma4": "Continue de peindre jusqu'à ce que le \"compteur de peinture\" au-dessus du bouclier soit complètement vide. Ne laisse aucune zone vide !"
+ },
+ "You build a Pike handle just like an Axe handle, but it's\nmuch longer! You'll need to use more Poles and Grips\nto build one.": {
+  "es": "El agarre de una lanza se arma igual que el de un hacha, ¡pero es mucho más largo! Necesitarás más astas y mangos para armarlo.",
+  "gemma": "Tu fabriques une poignée de pique comme tu le fais pour une hache, mais elle est beaucoup plus longue ! Tu auras besoin de plus de hampes et de poignées pour en fabriquer une.",
+  "qwen": "Tu fabriques une hampe de pique comme tu le fais pour une hampe de hache, mais elle est beaucoup plus longue ! Tu auras besoin de plus de hampes et de poignées pour en fabriquer une.",
+  "gemma4": "Tu fabriques une hampe de pique comme tu le fais pour une hampe de hache, mais elle est beaucoup plus longue ! Tu auras besoin de plus de hampes et de poignées pour en fabriquer une."
+ },
+ "Plant Boosts only deal extra damage to\nPlant Enemies": {
+  "es": "La mejora de planta solo daña más a enemigos de planta",
+  "gemma": "Les bonus de type \"plante\" infligent des dégâts supplémentaires uniquement aux ennemis de type \"plante\"",
+  "qwen": "Les bonus de plante infligent des dégâts supplémentaires uniquement aux ennemis de type plante",
+  "gemma4": "Les bonus de plante infligent des dégâts supplémentaires uniquement aux ennemis de type plante"
+ },
+ "Shadow Boosts only deal extra damage to\nShadow Enemies": {
+  "es": "La mejora de sombra solo daña más a enemigos de sombra",
+  "gemma": "Les bonus de type \"ombre\" infligent des dégâts supplémentaires uniquement aux ennemis de type \"ombre\"",
+  "qwen": "Les bonus d'ombre infligent des dégâts supplémentaires uniquement aux ennemis de type ombre",
+  "gemma4": "Les bonus d'ombre infligent des dégâts supplémentaires uniquement aux ennemis de type ombre"
+ },
+ "If you attach a part poorly, you may not get the full\nElemental Boost amount, so be careful!": {
+  "es": "Si colocas mal una pieza, quizá no recibas toda la mejora elemental, ¡así que ten cuidado!",
+  "gemma": "Si tu attaches une pièce incorrectement, tu pourrais ne pas obtenir le bonus élémentaire maximum, alors fais attention !",
+  "qwen": "Si tu attaches mal une pièce, tu pourrais ne pas obtenir le bonus élémentaire maximum, alors fais attention !",
+  "gemma4": "Si tu attaches mal une pièce, tu pourrais ne pas obtenir le bonus élémentaire maximum, alors fais attention !"
+ },
+ "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.": {
+  "es": "Consulta el libro \"Bestiario\" para ver todos los tipos de monstruos que ya encontraste.",
+  "gemma": "Consulte le \"Bestiaire\" pour voir tous les types de monstres que tu as déjà rencontrés.",
+  "qwen": "Consulte le livre « Bêtes » pour voir tous les types de monstres que tu as déjà rencontrés.",
+  "gemma4": "Consulte le livre « Bêtes » pour voir tous les types de monstres que tu as déjà rencontrés."
+ },
+ "Enemies will drop loot every time a soldier attacks!\nMove your mouse over dropped loot to collect it.": {
+  "es": "¡Los enemigos sueltan botín cada vez que un soldado ataca! Pasa el ratón sobre el botín caído para recogerlo.",
+  "gemma": "Les ennemis laisseront tomber du butin à chaque attaque d'un soldat ! Passe ta souris sur le butin pour le ramasser.",
+  "qwen": "Les ennemis laisseront tomber du butin à chaque attaque d'un soldat ! Passe ton curseur sur le butin au sol pour le ramasser.",
+  "gemma4": "Les ennemis laisseront tomber du butin à chaque attaque d'un soldat ! Passe ton curseur sur le butin au sol pour le ramasser."
+ },
+ "When you defeat an enemy, they'll spray extra loot down\nthe trail. This loot usually contains better metals and\nweapon parts.": {
+  "es": "Al derrotar a un enemigo, lanzará más botín por el sendero. Ese botín suele traer mejores metales y piezas de armas.",
+  "gemma": "Quand tu bats un ennemi, il laissera tomber du butin supplémentaire sur le chemin. Ce butin contient généralement de meilleurs métaux et des pièces d'armes.",
+  "qwen": "Quand tu vaincs un ennemi, il laissera tomber du butin supplémentaire sur le chemin. Ce butin contient généralement de meilleurs métaux et des pièces d'armes.",
+  "gemma4": "Quand tu vaincs un ennemi, il laissera tomber du butin supplémentaire sur le chemin. Ce butin contient généralement de meilleurs métaux et des pièces d'armes."
+ },
+ "If you craft stronger weapons, enemies may drop\nbetter metal ores as loot! When you start crafting Bronze\nweapons, enemies will start dropping some Iron Ore.": {
+  "es": "Si forjas armas más fuertes, ¡los enemigos pueden soltar mejores minerales! Cuando empieces a forjar armas de bronce, los enemigos soltarán algo de mineral de hierro.",
+  "gemma": "Si tu fabriques des armes plus puissantes, les ennemis peuvent laisser tomber de meilleurs minerai comme butin ! Lorsque tu commences à fabriquer des armes en bronze, les ennemis commenceront à laisser tomber du minerai de fer.",
+  "qwen": "Si tu forges des armes plus puissantes, les ennemis peuvent laisser tomber de meilleurs minerai comme butin ! Quand tu commenceras à forger des armes en bronze, les ennemis commenceront à laisser tomber du minerai de fer.",
+  "gemma4": "Si tu forges des armes plus puissantes, les ennemis peuvent laisser tomber de meilleurs minerai comme butin ! Quand tu commenceras à forger des armes en bronze, les ennemis commenceront à laisser tomber du minerai de fer."
+ },
+ "If you defeat all of the enemies on a trail, you'll reach\na Treasure Chest that has special loot: An Epic Weapon Design\nand the parts required to build it!": {
+  "es": "Si derrotas a todos los enemigos de un sendero, llegarás a un cofre del tesoro con botín especial: ¡un diseño de arma épica y las piezas para forjarla!",
+  "gemma": "Si tu bats tous les ennemis d'un chemin, tu atteindras un Coffre au Trésor qui contient un butin spécial : un modèle d'arme épique et les pièces nécessaires pour le fabriquer !",
+  "qwen": "Si tu vaincs tous les ennemis d'un chemin, tu atteindras un coffre au trésor contenant un butin spécial : un modèle d'arme épique et les pièces nécessaires pour le fabriquer !",
+  "gemma4": "Si tu vaincs tous les ennemis d'un chemin, tu atteindras un coffre au trésor contenant un butin spécial : un modèle d'arme épique et les pièces nécessaires pour le fabriquer !"
+ },
+ "Don't worry if you don't reach the Treasure Chest each day!\nThe Design and parts in that Treasure Chest will be\navailable in other Treasure Chests during future battles.": {
+  "es": "¡No te preocupes si no llegas al cofre del tesoro cada día! El diseño y las piezas de ese cofre estarán en otros cofres del tesoro en batallas futuras.",
+  "gemma": "Ne t'inquiète pas si tu n'atteins pas le Coffre au Trésor chaque jour ! Le modèle et les pièces de ce Coffre au Trésor seront disponibles dans d'autres Coffres au Trésor lors de futures batailles.",
+  "qwen": "Ne t'inquiète pas si tu n'atteins pas le coffre au trésor chaque jour ! Le modèle et les pièces de ce coffre seront disponibles dans d'autres coffres au trésor lors de futures batailles.",
+  "gemma4": "Ne t'inquiète pas si tu n'atteins pas le coffre au trésor chaque jour ! Le modèle et les pièces de ce coffre seront disponibles dans d'autres coffres au trésor lors de futures batailles."
+ },
+ "Click on one of the Cannonball buttons to launch\na cannonball into the field.": {
+  "es": "Haz clic en uno de los botones de bala de cañón para lanzarla al campo.",
+  "gemma": "Clique sur l'un des boutons de boulet de canon pour lancer un boulet de canon sur le champ de bataille.",
+  "qwen": "Clique sur l'un des boutons de boulet de canon pour lancer un boulet de canon sur le champ.",
+  "gemma4": "Clique sur l'un des boutons de boulet de canon pour lancer un boulet de canon sur le champ."
+ },
+ "After you use your cannon, it will need to recharge\nbefore you can fire that type of cannonball again.": {
+  "es": "Tras usar tu cañón, deberá recargarse antes de que puedas disparar otra vez ese tipo de bala.",
+  "gemma": "Après avoir utilisé ton canon, il devra se recharger avant que tu puisses tirer à nouveau ce type de boulet de canon.",
+  "qwen": "Une fois que tu as utilisé ton canon, il devra se recharger avant que tu puisses tirer à nouveau ce type de boulet de canon.",
+  "gemma4": "Une fois que tu as utilisé ton canon, il devra se recharger avant que tu puisses tirer à nouveau ce type de boulet de canon."
+ },
+ "You will unlock some cannonballs that fire at\nyour troops instead of the enemy!\n\nThe Repair Bomb will repair some of\nthe durability on all of your weapons.\n\nThe Booster Bomb will give all of your soldiers a\nboosted attack power for a limited time!": {
+  "es": "¡Desbloquearás balas de cañón que se disparan a tus tropas y no al enemigo!\n\nLa bomba reparadora repara parte de la durabilidad de todas tus armas.\n\n¡La bomba potenciadora da a todos tus soldados más poder de ataque por un tiempo!",
+  "gemma": "Tu débloqueras certains boulets de canon qui s'abattent sur tes troupes au lieu des ennemis ! La bombe de réparation réparera une partie de la durabilité de toutes tes armes. La bombe de renfort donnera à tous tes soldats un bonus d'attaque temporaire !",
+  "qwen": "Tu débloqueras certains boulets de canon qui tirent sur tes troupes au lieu des ennemis ! La bombe de réparation réparera une partie de la durabilité de toutes tes armes. La bombe de renfort donnera à tous tes soldats une puissance d'attaque accrue pendant un temps limité !",
+  "gemma4": "Tu débloqueras certains boulets de canon qui tirent sur tes troupes au lieu des ennemis ! La bombe de réparation réparera une partie de la durabilité de toutes tes armes. La bombe de renfort donnera à tous tes soldats une puissance d'attaque accrue pendant un temps limité !"
+ },
+ "Finding and Browsing": {
+  "es": "Buscar y consultar",
+  "gemma": "Recherche et navigation",
+  "qwen": "Recherche et consultation",
+  "gemma4": "Recherche et consultation"
+ },
+ "If you defeat all of the monsters on a trail, you'll reach a\nTreasure Chest that contains an Epic Weapon Design and the\nparts needed to build it. Be sure to collect everything\nthat drops out of the chest!": {
+  "es": "Si derrotas a todos los monstruos de un sendero, llegarás a un cofre del tesoro con un diseño de arma épica y las piezas para forjarla. ¡Recoge todo lo que salga del cofre!",
+  "gemma": "Si tu bats tous les monstres sur un chemin, tu atteindras un coffre au trésor contenant un modèle d'arme épique et les pièces nécessaires pour le fabriquer. Assure-toi de récupérer tout ce qui sort du coffre !",
+  "qwen": "Si tu bats tous les monstres sur un chemin, tu atteindras un coffre au trésor contenant un modèle d'arme épique et les pièces nécessaires pour le fabriquer. Assure-toi de ramasser tout ce qui sort du coffre !",
+  "gemma4": "Si tu bats tous les monstres sur un chemin, tu atteindras un coffre au trésor contenant un modèle d'arme épique et les pièces nécessaires pour le fabriquer. Assure-toi de ramasser tout ce qui sort du coffre !"
+ },
+ "Click the \"Designs\" book to browse through any\nWeapon Designs you've collected.\nYou can also press D on the keyboard, or go to the\nDesigns page from the MENU button.": {
+  "es": "Haz clic en el libro \"Diseños\" para consultar los diseños de armas que reuniste. También puedes pulsar D en el teclado, o ir a la página Diseños desde el botón MENÚ.",
+  "gemma": "Clique sur le livre \"Modèles\" pour consulter les modèles d'armes que tu as collectés. Tu peux également appuyer sur la touche D de ton clavier, ou aller à la page \"Modèles\" depuis le bouton MENU.",
+  "qwen": "Clique sur le livre \"Modèles\" pour consulter les modèles d'armes que tu as collectés. Tu peux aussi appuyer sur D sur le clavier, ou aller à la page \"Modèles\" depuis le bouton MENU.",
+  "gemma4": "Clique sur le livre \"Modèles\" pour consulter les modèles d'armes que tu as collectés. Tu peux aussi appuyer sur D sur le clavier, ou aller à la page \"Modèles\" depuis le bouton MENU."
+ },
+ "A: Tabs for different weapon types\nB: List of designs found for this weapon type\nC: Parts needed to build this weapon\nD: Bonus Effect given to soldiers when you build this\nE: Bookmark Button": {
+  "es": "A: Pestañas de los tipos de arma\nB: Lista de diseños encontrados de este tipo de arma\nC: Piezas necesarias para forjar esta arma\nD: Efecto extra que reciben los soldados al forjarla\nE: Botón de marcador",
+  "gemma": "A : Onglets pour les différents types d'armes B : Liste des modèles trouvés pour ce type d'arme C : Pièces nécessaires pour fabriquer cette arme D : Bonus accordé aux soldats lorsque tu fabriques cette arme E : Bouton \"Marquer",
+  "qwen": "A : Onglets pour différents types d'armes B : Liste des modèles trouvés pour ce type d'arme C : Pièces nécessaires pour fabriquer cette arme D : Effet bonus accordé aux soldats lorsque tu la fabriques E : Bouton de marquage",
+  "gemma4": "A : Onglets pour différents types d'armes B : Liste des modèles trouvés pour ce type d'arme C : Pièces nécessaires pour fabriquer cette arme D : Effet bonus accordé aux soldats lorsque tu la fabriques E : Bouton de marquage"
+ },
+ "Design names will be shown in GREEN in the list if youcurrently have all of the parts and metals needed to build it.": {
+  "es": "Los nombres de los diseños salen en VERDE en la lista si tienes todas las piezas y metales necesarios para forjarlos.",
+  "gemma": "Les noms des modèles seront affichés en VERT dans la liste si tu as actuellement toutes les pièces et le métal nécessaires pour le fabriquer.",
+  "qwen": "Les noms des modèles seront affichés en VERT dans la liste si tu as actuellement toutes les pièces et le métal nécessaires pour les fabriquer.",
+  "gemma4": "Les noms des modèles seront affichés en VERT dans la liste si tu as actuellement toutes les pièces et le métal nécessaires pour les fabriquer."
+ },
+ "Bookmarks": {
+  "es": "Marcadores",
+  "gemma": "Favoris",
+  "qwen": "Marquer",
+  "gemma4": "Marquer"
+ },
+ "You can \"Bookmark\" a design's parts so you don't\naccidentally use them on a different weapon.": {
+  "es": "Puedes \"marcar\" las piezas de un diseño para no usarlas por error en otra arma.",
+  "gemma": "Tu peux \"Marquer\" les pièces d'un modèle pour ne pas les utiliser accidentellement sur une autre arme.",
+  "qwen": "Vous pouvez \"marquer\" les pièces d'un modèle pour ne pas les utiliser accidentellement sur une autre arme.",
+  "gemma4": "Vous pouvez \"marquer\" les pièces d'un modèle pour ne pas les utiliser accidentellement sur une autre arme."
+ },
+ "Bookmarked parts will show a striped background and\nBookmark icon when you're building and browsing\nyour inventory:": {
+  "es": "Las piezas marcadas tendrán un fondo a rayas y el icono de marcador al forjar y al ver tu inventario:",
+  "gemma": "Les pièces marquées afficheront un fond rayé et l'icône de \"marquer\" lorsque tu construis et que tu parcoures ton inventaire",
+  "qwen": "Les pièces marquées afficheront un fond rayé et une icône de marqueur lorsque vous forgez et parcourez votre inventaire :",
+  "gemma4": "Les pièces marquées afficheront un fond rayé et une icône de marqueur lorsque vous forgez et parcourez votre inventaire :"
+ },
+ "You can have multiple designs bookmarked at once,\nand you can remove a bookmark whenever you like.": {
+  "es": "Puedes tener varios diseños marcados a la vez, y quitar un marcador cuando quieras.",
+  "gemma": "Tu peux marquer plusieurs modèles en même temps, et tu peux supprimer un marque-page quand tu veux.",
+  "qwen": "Vous pouvez avoir plusieurs modèles marqués en même temps, et vous pouvez supprimer un marqueur à tout moment.",
+  "gemma4": "Vous pouvez avoir plusieurs modèles marqués en même temps, et vous pouvez supprimer un marqueur à tout moment."
+ },
+ "Bookmark ribbons will be colored to match the type\nof weapon that the part is needed for.": {
+  "es": "Las cintas de marcador tienen el color del tipo de arma para el que se necesita la pieza.",
+  "gemma": "Les rubans de favori seront colorés pour correspondre au type d'arme pour lequel la pièce est nécessaire.",
+  "qwen": "Les rubans de marqueur seront colorés pour correspondre au type d'arme pour lequel la pièce est nécessaire.",
+  "gemma4": "Les rubans de marqueur seront colorés pour correspondre au type d'arme pour lequel la pièce est nécessaire."
+ },
+ "Molds will also show a Bookmark icon if they're bookmarked,\nand Metal Ores will show an icon and the amount needed.": {
+  "es": "Los moldes también muestran el icono de marcador si están marcados, y los minerales muestran un icono y la cantidad necesaria.",
+  "gemma": "Les moules afficheront également une icône de \"marquer\" s'ils ont été marqués, et les minerais afficheront une icône ainsi que la quantité nécessaire.",
+  "qwen": "Les moules afficheront également une icône de marqueur s'ils sont marqués, et les minerais de métal afficheront une icône ainsi que la quantité nécessaire.",
+  "gemma4": "Les moules afficheront également une icône de marqueur s'ils sont marqués, et les minerais de métal afficheront une icône ainsi que la quantité nécessaire."
+ },
+ "Any parts that are used in an Epic Weapon Design\nyou have collected, even if it isn't currently\nbookmarked, will also show this icon:": {
+  "es": "Toda pieza usada en un diseño de arma épica que hayas conseguido, aunque no esté marcado ahora, también mostrará este icono:",
+  "gemma": "Toute pièce utilisée dans un modèle d'arme épique que tu as collecté, même si elle n'est pas actuellement marquée, affichera également cette icône",
+  "qwen": "Toutes les pièces utilisées dans un modèle d'arme épique que tu as collectées, même si elles ne sont pas actuellement marquées, afficheront également cette icône :",
+  "gemma4": "Toutes les pièces utilisées dans un modèle d'arme épique que tu as collectées, même si elles ne sont pas actuellement marquées, afficheront également cette icône :"
+ },
+ "After you craft an Epic Weapon, it will automatically\nremove that bookmark (if it was bookmarked).": {
+  "es": "Tras forjar un arma épica, su marcador se quita automáticamente (si estaba marcada).",
+  "gemma": "Une fois qu'une arme épique est forgée, le \"marquer\" est automatiquement supprimé (s'il était marqué).",
+  "qwen": "Une fois qu'une arme épique est forgée, le marqueur est automatiquement supprimé (s'il était marqué).",
+  "gemma4": "Une fois qu'une arme épique est forgée, le marqueur est automatiquement supprimé (s'il était marqué)."
+ },
+ "If a part is used in Epic Weapon Designs you have\ncollected, but you've already made those designs at\nleast once, it will instead show this icon:": {
+  "es": "Si una pieza se usa en diseños de armas épicas que conseguiste, pero ya forjaste esos diseños al menos una vez, mostrará este otro icono:",
+  "gemma": "Si une pièce est utilisée dans des modèles d'armes épiques que tu as collectés, mais que tu as déjà fabriqué ces modèles au moins une fois, elle affichera plutôt cette icône",
+  "qwen": "Si une pièce est utilisée dans des modèles d'armes épiques que tu as collectés, mais que tu as déjà fabriqué ces modèles au moins une fois, elle affichera cette autre icône :",
+  "gemma4": "Si une pièce est utilisée dans des modèles d'armes épiques que tu as collectés, mais que tu as déjà fabriqué ces modèles au moins une fois, elle affichera cette autre icône :"
+ },
+ "Use those small scroll symbols to decide if you want to save\na part to use in a Design later, or if something is safe\nto use in your current weapon.": {
+  "es": "Usa esos pequeños símbolos de pergamino para decidir si guardas una pieza para un diseño futuro o si puedes usarla en tu arma actual.",
+  "gemma": "Utilise ces petits symboles de parchemin pour décider si tu veux enregistrer une pièce pour l'utiliser dans un modèle plus tard, ou si elle est sûre à utiliser dans ton arme actuelle.",
+  "qwen": "Utilise ces petits symboles de parchemin pour décider si tu veux enregistrer une pièce pour l'utiliser dans un modèle plus tard, ou si quelque chose peut être utilisé dans ton arme actuelle.",
+  "gemma4": "Utilise ces petits symboles de parchemin pour décider si tu veux enregistrer une pièce pour l'utiliser dans un modèle plus tard, ou si quelque chose peut être utilisé dans ton arme actuelle."
+ },
+ "Saving": {
+  "es": "Guardado",
+  "gemma": "Enregistrer",
+  "qwen": "Sauvegardé",
+  "gemma4": "Sauvegardé"
+ },
+ "After you start a game, your progress is automatically\nsaved after completing each battle!": {
+  "es": "Tras iniciar una partida, ¡tu progreso se guarda automáticamente al completar cada batalla!",
+  "gemma": "Après avoir commencé une partie, ta progression est automatiquement enregistrée après chaque bataille !",
+  "qwen": "Une fois que tu lances une partie, ta progression est automatiquement enregistrée après chaque bataille !",
+  "gemma4": "Une fois que tu lances une partie, ta progression est automatiquement enregistrée après chaque bataille !"
+ },
+ "Your game progress is saved directly to your computer.": {
+  "es": "El progreso del juego se guarda directamente en tu computadora.",
+  "gemma": "Ta progression dans le jeu est enregistrée directement sur ton ordinateur.",
+  "qwen": "Ta progression de jeu est enregistrée directement sur ton ordinateur.",
+  "gemma4": "Ta progression de jeu est enregistrée directement sur ton ordinateur."
+ },
+ "If you are having trouble saving your progress, make sure\nyou have plenty of storage space available so there is room\nfor your game progress to be saved.": {
+  "es": "Si tienes problemas para guardar tu progreso, comprueba que tengas bastante espacio de almacenamiento libre para que se pueda guardar.",
+  "gemma": "Si tu as des problèmes pour enregistrer ta progression, assure-toi d'avoir suffisamment d'espace de stockage disponible pour que ta progression puisse être enregistrée.",
+  "qwen": "Si tu as des problèmes pour sauvegarder ta progression, assure-toi d'avoir suffisamment d'espace de stockage disponible pour que ta progression puisse être sauvegardée.",
+  "gemma4": "Si tu as des problèmes pour sauvegarder ta progression, assure-toi d'avoir suffisamment d'espace de stockage disponible pour que ta progression puisse être sauvegardée."
+ },
+ "Press the button while playing to open App Settings.": {
+  "es": "Pulsa               mientras juegas para abrir los Ajustes.",
+  "gemma": "Appuie sur ce bouton pendant que tu joues pour ouvrir l'écran des paramètres de l'application.",
+  "qwen": "Appuie sur le bouton pendant le jeu pour ouvrir les paramètres de l'application.",
+  "gemma4": "Appuie sur le bouton pendant le jeu pour ouvrir les paramètres de l'application."
+ },
+ "You can also press the Escape key on your keyboard to open\nthe App Settings screen at any time, and you can also find\nthe button on the title screen.": {
+  "es": "También puedes pulsar la tecla Escape del teclado para abrir la pantalla de Ajustes en cualquier momento, y el botón está también en la pantalla de título.",
+  "gemma": "Tu peux également appuyer sur la touche Échap de ton clavier pour ouvrir l'écran des paramètres de l'application à tout moment, et tu peux également trouver ce bouton sur l'écran de titre.",
+  "qwen": "Tu peux également appuyer sur la touche Échap de ton clavier pour ouvrir l'écran des paramètres de l'application à tout moment, et tu peux aussi trouver le bouton sur l'écran de titre.",
+  "gemma4": "Tu peux également appuyer sur la touche Échap de ton clavier pour ouvrir l'écran des paramètres de l'application à tout moment, et tu peux aussi trouver le bouton sur l'écran de titre."
+ },
+ "You can change whether you want the game to appear\nFull Screen, and can change the window size between\nvarious widescreen and classic (square) sizes.": {
+  "es": "Puedes elegir si el juego se ve en pantalla completa, y cambiar el tamaño de ventana entre varios tamaños panorámicos y clásicos (cuadrados).",
+  "gemma": "Tu peux choisir si tu veux que le jeu s'affiche en plein écran, et tu peux modifier la taille de la fenêtre parmi différents formats panoramiques et classiques (carrés).",
+  "qwen": "Tu peux choisir si tu veux que le jeu s'affiche en plein écran, et modifier la taille de la fenêtre parmi différents formats panoramiques et classiques (carrés).",
+  "gemma4": "Tu peux choisir si tu veux que le jeu s'affiche en plein écran, et modifier la taille de la fenêtre parmi différents formats panoramiques et classiques (carrés)."
+ },
+ "If your computer is having issues where the game is\nrunning slowly, you can change the Graphics Quality to\nlower settings to improve performance.": {
+  "es": "Si el juego va lento en tu computadora, puedes bajar la calidad gráfica para mejorar el rendimiento.",
+  "gemma": "Si ton ordinateur a des problèmes et que le jeu rame, tu peux réduire la qualité graphique pour améliorer les performances.",
+  "qwen": "Si ton ordinateur a des problèmes et que le jeu fonctionne lentement, tu peux réduire la qualité graphique pour améliorer les performances.",
+  "gemma4": "Si ton ordinateur a des problèmes et que le jeu fonctionne lentement, tu peux réduire la qualité graphique pour améliorer les performances."
+ },
+ "You can also display the game in smaller window sizes\nif you are having performance issues with how the game\nis running on your computer.": {
+  "es": "También puedes mostrar el juego en ventanas más pequeñas si tienes problemas de rendimiento en tu computadora.",
+  "gemma": "Tu peux aussi afficher le jeu dans des fenêtres plus petites si tu rencontres des problèmes de performance.",
+  "qwen": "Tu peux également afficher le jeu dans des fenêtres plus petites si tu rencontres des problèmes de performances avec le fonctionnement du jeu sur ton ordinateur.",
+  "gemma4": "Tu peux également afficher le jeu dans des fenêtres plus petites si tu rencontres des problèmes de performances avec le fonctionnement du jeu sur ton ordinateur."
+ },
+ "There are options to mute the music, mute sound effects,\nchange master volume, and quit the app from this menu.": {
+  "es": "En este menú hay opciones para silenciar la música, silenciar los efectos, cambiar el volumen general y salir del juego.",
+  "gemma": "Ce menu propose des options pour désactiver la musique, les effets sonores, modifier le volume général et quitter l'application.",
+  "qwen": "Ce menu propose des options pour couper la musique, couper les effets sonores, modifier le volume général et quitter l'application.",
+  "gemma4": "Ce menu propose des options pour couper la musique, couper les effets sonores, modifier le volume général et quitter l'application."
+ },
+ "You can adjust some gameplay settings\nfrom the SETTINGS menu.": {
+  "es": "Puedes ajustar algunas opciones de juego desde el menú OPCIONES.",
+  "gemma": "Tu peux ajuster certains paramètres de jeu dans le menu OPTIONS.",
+  "qwen": "Tu peux ajuster certains paramètres de jeu dans le menu PARAMÈTRES.",
+  "gemma4": "Tu peux ajuster certains paramètres de jeu dans le menu PARAMÈTRES."
+ },
+ "If you disable \"Screen Shake\", the screen will no longer\nshake when hammering weapons or during battle.": {
+  "es": "Si desactivas \"Sacudir pantalla\", la pantalla ya no temblará al martillar armas ni durante la batalla.",
+  "gemma": "Si tu désactives \"Vibrations de l'écran\", l'écran ne vibrera plus lorsque tu martèles des armes ou pendant les combats.",
+  "qwen": "Si tu désactives \"Secousse d'écran\", l'écran ne vibrera plus lors du martelage des armes ou pendant les combats.",
+  "gemma4": "Si tu désactives \"Secousse d'écran\", l'écran ne vibrera plus lors du martelage des armes ou pendant les combats."
+ },
+ "When forging metals, the Pull Chain is tailored for easy\nmouse controls, especially when playing at full screen.": {
+  "es": "Al forjar metales, la cadena está adaptada para un control fácil con el ratón, sobre todo en pantalla completa.",
+  "gemma": "Lors de la forge des métaux, la chaîne est conçue pour une utilisation facile avec la souris, surtout en plein écran.",
+  "qwen": "Lorsque tu forges des métaux, la chaîne de traction est conçue pour une manipulation facile à la souris, surtout en plein écran.",
+  "gemma4": "Lorsque tu forges des métaux, la chaîne de traction est conçue pour une manipulation facile à la souris, surtout en plein écran."
+ },
+ "If you'd like to make the chain follow your mouse exactly,\nor if you're using a touch screen, you can disable\nthe \"Easy-to-Drag Forge Chain\" option.": {
+  "es": "Si prefieres que la cadena siga tu ratón con exactitud, o si usas pantalla táctil, puedes desactivar la opción \"Cadena de fragua fácil de arrastrar\".",
+  "gemma": "Si tu veux que la chaîne suive exactement le mouvement de ta souris, ou si tu utilises un écran tactile, tu peux désactiver l'option \"Chaîne de forge facile à déplacer\".",
+  "qwen": "Si tu préfères que la chaîne suive exactement ta souris, ou si tu utilises un écran tactile, tu peux désactiver l'option \"Chaîne de forge facile à déplacer\".",
+  "gemma4": "Si tu préfères que la chaîne suive exactement ta souris, ou si tu utilises un écran tactile, tu peux désactiver l'option \"Chaîne de forge facile à déplacer\"."
+ },
+ "You can use Keyboard Shortcuts to switch between screens\nwhile crafting weapons.": {
+  "es": "Puedes usar atajos de teclado para cambiar de pantalla mientras forjas armas.",
+  "gemma": "Tu peux utiliser des raccourcis clavier pour passer d'une fenêtre à l'autre pendant que tu fabriques des armes.",
+  "qwen": "Tu peux utiliser les raccourcis clavier pour passer d'un écran à l'autre pendant que tu fabriques des armes.",
+  "gemma4": "Tu peux utiliser les raccourcis clavier pour passer d'un écran à l'autre pendant que tu fabriques des armes."
+ },
+ "to open the Info Menu": {
+  "es": "para abrir el menú Info",
+  "gemma": "pour ouvrir le menu Informations",
+  "qwen": "pour ouvrir le menu Info",
+  "gemma4": "pour ouvrir le menu Info"
+ },
+ "You can also use Keyboard Shortcuts during battle to fire\nyour cannon.": {
+  "es": "También puedes usar atajos de teclado en batalla para disparar tu cañón.",
+  "gemma": "Tu peux aussi utiliser des raccourcis clavier pendant les combats pour faire feu avec ton canon.",
+  "qwen": "Tu peux aussi utiliser les raccourcis clavier pendant les combats pour faire feu avec ton canon.",
+  "gemma4": "Tu peux aussi utiliser les raccourcis clavier pendant les combats pour faire feu avec ton canon."
+ },
+ "to change pages of weapon parts": {
+  "es": "para cambiar de página de piezas",
+  "gemma": "Pour changer de page d'éléments",
+  "qwen": "Pour changer de page de pièces d'armes",
+  "gemma4": "Pour changer de page de pièces d'armes"
+ },
+ "Wing Bow": {
+  "es": "Arco alado",
+  "gemma": "Arc alé",
+  "qwen": "Arc ailé",
+  "gemma4": "Arc ailé"
+ }
+}

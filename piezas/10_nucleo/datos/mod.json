@@ -1,0 +1,6 @@
+{
+ "id": "00_nucleo",
+ "nombre": "Núcleo de mods de Jacksmith",
+ "version": "1.0.0",
+ "descripcion": "Capa común: idiomas, ajustes guardados, volumen separado y registro de mods."
+}

@@ -1,0 +1,6 @@
+{
+ "id": "20_volumen",
+ "nombre": "Volumen por grupos de sonido",
+ "version": "1.0.0",
+ "requiere": ["00_nucleo"]
+}

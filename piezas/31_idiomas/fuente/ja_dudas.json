@@ -1,0 +1,782 @@
+{
+ "Lowers an enemy's strength with an electric zap.": {
+  "es": "Reduce la fuerza de un enemigo con una descarga.",
+  "gemma": "敵の能力値を電気で低下させる",
+  "qwen": "電気の衝撃で敵の強さを低下させる。",
+  "gemma4": "電気の衝撃で敵の強さを低下させる。"
+ },
+ "Repairs your soldiers' weapons": {
+  "es": "Repara las armas de tus soldados",
+  "gemma": "兵士たちの武器を修理する",
+  "qwen": "兵士の武器を修理する",
+  "gemma4": "兵士の武器を修理する"
+ },
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20回強化",
+  "qwen": "20回ストレッチ",
+  "gemma4": "20回ストレッチ"
+ },
+ "Assembler": {
+  "es": "Ensamblador",
+  "gemma": "アッセンブラ",
+  "qwen": "アセンブラ",
+  "gemma4": "アセンブラ"
+ },
+ "Attack 30 Shadow Enemies with Shadow-boosted weapons": {
+  "es": "Ataca a 30 enemigos de sombra con mejoras de sombra",
+  "gemma": "闇属性の敵30匹を、闇属性の強化が付いた武器で攻撃しよう！",
+  "qwen": "闇のブーストが付いた武器で、闇の敵を30匹攻撃しよう",
+  "gemma4": "闇のブーストが付いた武器で、闇の敵を30匹攻撃しよう"
+ },
+ "Batch of Bronze": {
+  "es": "Lote de bronce",
+  "gemma": "ブロンズの材料セット",
+  "qwen": "ブロンズの束",
+  "gemma4": "ブロンズの束"
+ },
+ "Cannonballistic": {
+  "es": "Balística total",
+  "gemma": "大砲特化",
+  "qwen": "大砲の弾丸",
+  "gemma4": "大砲の弾丸"
+ },
+ "Clear a trail on 5 days without breaking any weapons": {
+  "es": "Despeja un sendero 5 días sin romper ningún arma",
+  "gemma": "武器を1本も壊さずに、5日間連続で作業を完了する",
+  "qwen": "武器を壊さずに5日間道を進む",
+  "gemma4": "武器を壊さずに5日間道を進む"
+ },
+ "Defeat Dudley and rescue Princess Liliana": {
+  "es": "Derrota a Dudley y rescata a la princesa Liliana",
+  "gemma": "ダ Dudleyを倒して、リリリアナ姫を救出しよう",
+  "qwen": "Dudleyを倒してリリリアナ姫を救い出そう",
+  "gemma4": "Dudleyを倒してリリリアナ姫を救い出そう"
+ },
+ "Electrically Charged": {
+  "es": "Carga eléctrica",
+  "gemma": "電気エネルギー充填",
+  "qwen": "電気充電",
+  "gemma4": "電気充電"
+ },
+ "Epic Arms": {
+  "es": "Arsenal épico",
+  "gemma": "伝説の武器",
+  "qwen": "伝説の武器庫",
+  "gemma4": "伝説の武器庫"
+ },
+ "Expert Forger": {
+  "es": "Forjador experto",
+  "gemma": "エキスパート鍛冶",
+  "qwen": "熟練の鍛冶師",
+  "gemma4": "熟練の鍛冶師"
+ },
+ "Expert Handling": {
+  "es": "Manejo experto",
+  "gemma": "エキスパート操作",
+  "qwen": "熟練の操作",
+  "gemma4": "熟練の操作"
+ },
+ "Fallen Gems": {
+  "es": "Gemas caídas",
+  "gemma": "落ちているジェム",
+  "qwen": "ドロップしたジェム",
+  "gemma4": "ドロップしたジェム"
+ },
+ "Field Surgeon": {
+  "es": "Cirujano de campo",
+  "gemma": "野戦救護兵",
+  "qwen": "野戦外科医",
+  "gemma4": "野戦外科医"
+ },
+ "Fight Fire with Fire": {
+  "es": "Fuego contra fuego",
+  "gemma": "炎で炎を消せ",
+  "qwen": "炎には炎を",
+  "gemma4": "炎には炎を"
+ },
+ "Fill a mold's Star Meter and unlock an extra Element Boost on any weapon": {
+  "es": "Llena el medidor de estrellas de un molde y desbloquea una mejora elemental extra",
+  "gemma": "鋳型のスターメーターを埋めて、どの武器にも追加の属性ブーストをアンロック",
+  "qwen": "鋳型のスターメーターを最大にして、好きな武器に属性ブーストを追加で解放しよう",
+  "gemma4": "鋳型のスターメーターを最大にして、好きな武器に属性ブーストを追加で解放しよう"
+ },
+ "Finishing Blow": {
+  "es": "Golpe final",
+  "gemma": "最後の攻撃",
+  "qwen": "とどめの一撃",
+  "gemma4": "とどめの一撃"
+ },
+ "Frequent Fletcher": {
+  "es": "Flechero frecuente",
+  "gemma": "頻繁に弓を作る人",
+  "qwen": "弓職人",
+  "gemma4": "弓職人"
+ },
+ "Getting Started": {
+  "es": "Primeros pasos",
+  "gemma": "はじめの一歩",
+  "qwen": "はじめに",
+  "gemma4": "はじめに"
+ },
+ "Maxed Out": {
+  "es": "Al máximo",
+  "gemma": "最大レベル",
+  "qwen": "最大",
+  "gemma4": "最大"
+ },
+ "Nature vs. Nature": {
+  "es": "Naturaleza vs. naturaleza",
+  "gemma": "自然との調和",
+  "qwen": "自然 vs 自然",
+  "gemma4": "自然 vs 自然"
+ },
+ "Overkill": {
+  "es": "Excesivo",
+  "gemma": "余裕綽々",
+  "qwen": "オーバーキル",
+  "gemma4": "オーバーキル"
+ },
+ "Set of Silver": {
+  "es": "Juego de plata",
+  "gemma": "シルバーセット",
+  "qwen": "銀のセット",
+  "gemma4": "銀のセット"
+ },
+ "Shield Designer": {
+  "es": "Diseñador de escudos",
+  "gemma": "盾のデザイン",
+  "qwen": "盾の設計",
+  "gemma4": "盾の設計"
+ },
+ "Silver Starter": {
+  "es": "Inicio de plata",
+  "gemma": "シルバー入門",
+  "qwen": "シルバーのスターター",
+  "gemma4": "シルバーのスターター"
+ },
+ "Spectator": {
+  "es": "Espectador",
+  "gemma": "見物人",
+  "qwen": "観戦者",
+  "gemma4": "観戦者"
+ },
+ "Sword Collection": {
+  "es": "Colección de espadas",
+  "gemma": "剣コレクション",
+  "qwen": "剣デザイナー",
+  "gemma4": "剣デザイナー"
+ },
+ "Sword Designer": {
+  "es": "Diseñador de espadas",
+  "gemma": "剣デザイン",
+  "qwen": "剣デザイナー",
+  "gemma4": "剣デザイナー"
+ },
+ "Unlock all of the Cannon Balls": {
+  "es": "Desbloquea todas las balas de cañón",
+  "gemma": "すべての大砲弾をアンロック",
+  "qwen": "すべての大砲弾を解放",
+  "gemma4": "すべての大砲弾を解放"
+ },
+ "Unlock the Silver Element Boost on 9 weapons": {
+  "es": "Desbloquea la mejora elemental de plata en 9 armas",
+  "gemma": "武器9個で、銀の属性ブーストをアンロック！",
+  "qwen": "武器9個で銀の属性ブーストをアンロック！",
+  "gemma4": "武器9個で銀の属性ブーストをアンロック！"
+ },
+ "Unstoppable": {
+  "es": "Imparable",
+  "gemma": "unstoppable",
+  "qwen": "阻止不能",
+  "gemma4": "阻止不能"
+ },
+ "Water Weapons": {
+  "es": "Armas de agua",
+  "gemma": "水属性の武器",
+  "qwen": "水の武器",
+  "gemma4": "水の武器"
+ },
+ "Wind Warriors": {
+  "es": "Guerreros del viento",
+  "gemma": "風属性の戦士",
+  "qwen": "風の戦士",
+  "gemma4": "風の戦士"
+ },
+ "End of Day": {
+  "es": "Fin del día",
+  "gemma": "1日の終わりに",
+  "qwen": "1日の終わり",
+  "gemma4": "1日の終わり"
+ },
+ "Burning Longlegs": {
+  "es": "Patilargo ardiente",
+  "gemma": "Burning Longlegs",
+  "qwen": "バーニング・ロングレッグス",
+  "gemma4": "バーニング・ロングレッグス"
+ },
+ "Common Dragon": {
+  "es": "Dragón común",
+  "gemma": "コモン・ドラゴン",
+  "qwen": "ドラゴン（コモン）",
+  "gemma4": "ドラゴン（コモン）"
+ },
+ "Fire Dragon": {
+  "es": "Dragón de fuego",
+  "gemma": "ファイア・ドラゴン",
+  "qwen": "炎のドラゴン",
+  "gemma4": "炎のドラゴン"
+ },
+ "Glacier Goat": {
+  "es": "Cabra glaciar",
+  "gemma": "グレイシャー・ヤギ",
+  "qwen": "氷のヤギ",
+  "gemma4": "氷のヤギ"
+ },
+ "Ice Dragon": {
+  "es": "Dragón de hielo",
+  "gemma": "アイス・ドラゴン",
+  "qwen": "氷のドラゴン",
+  "gemma4": "氷のドラゴン"
+ },
+ "Phoenix Hen": {
+  "es": "Gallina fénix",
+  "gemma": "フェニックス・ニワトリ",
+  "qwen": "フェニックスのニワトリ",
+  "gemma4": "フェニックスのニワトリ"
+ },
+ "Sea Dragon": {
+  "es": "Dragón marino",
+  "gemma": "シー・ドラゴン",
+  "qwen": "海のドラゴン",
+  "gemma4": "海のドラゴン"
+ },
+ "Stone Dragon": {
+  "es": "Dragón de piedra",
+  "gemma": "ストーン・ドラゴン",
+  "qwen": "岩のドラゴン",
+  "gemma4": "岩のドラゴン"
+ },
+ "Storm Dragon": {
+  "es": "Dragón de tormenta",
+  "gemma": "ストーム・ドラゴン",
+  "qwen": "嵐のドラゴン",
+  "gemma4": "嵐のドラゴン"
+ },
+ "Wind Dragon": {
+  "es": "Dragón de viento",
+  "gemma": "ウィンド・ドラゴン",
+  "qwen": "風のドラゴン",
+  "gemma4": "風のドラゴン"
+ },
+ "High": {
+  "es": "Alta",
+  "gemma": "高",
+  "qwen": "高い",
+  "gemma4": "高い"
+ },
+ "Low": {
+  "es": "Baja",
+  "gemma": "低",
+  "qwen": "低い",
+  "gemma4": "低い"
+ },
+ "Medium": {
+  "es": "Media",
+  "gemma": "中",
+  "qwen": "中程度",
+  "gemma4": "中程度"
+ },
+ "% Complete": {
+  "es": "% completado",
+  "gemma": "完了率 %",
+  "qwen": "% 完了",
+  "gemma4": "% 完了"
+ },
+ "None Created Yet": {
+  "es": "Ninguna creada aún",
+  "gemma": "まだ作成されていません",
+  "qwen": "まだ作成されていない",
+  "gemma4": "まだ作成されていない"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "回",
+  "qwen": "時間",
+  "gemma4": "時間"
+ },
+ "<B>You crafted": {
+  "es": "<B>¡Forjaste",
+  "gemma": "<B>あなたは作成しました</B>",
+  "qwen": "<B>作成した</B>",
+  "gemma4": "<B>作成した</B>"
+ },
+ "Choose a Slot": {
+  "es": "Elige una ranura",
+  "gemma": "スロットを選択",
+  "qwen": "スロットを選択してください",
+  "gemma4": "スロットを選択してください"
+ },
+ "Defeated Dudley": {
+  "es": "Dudley derrotado",
+  "gemma": "ダ Dudleyを倒した",
+  "qwen": "Dudleyを撃破",
+  "gemma4": "Dudleyを撃破"
+ },
+ "Cannoneer": {
+  "es": "Cañonero",
+  "gemma": "大砲兵士",
+  "qwen": "大砲兵",
+  "gemma4": "大砲兵"
+ },
+ "Chargebomber": {
+  "es": "Bombardero eléctrico",
+  "gemma": "チャージ爆撃兵",
+  "qwen": "チャージボマー",
+  "gemma4": "チャージボマー"
+ },
+ "Forest Trekker": {
+  "es": "Caminante del bosque",
+  "gemma": "森の歩兵",
+  "qwen": "フォレストトレッカー",
+  "gemma4": "フォレストトレッカー"
+ },
+ "Journeyman": {
+  "es": "Oficial",
+  "gemma": "見習い",
+  "qwen": "職人",
+  "gemma4": "職人"
+ },
+ "Pike Pro": {
+  "es": "Experto en lanzas",
+  "gemma": "パイク・プロ",
+  "qwen": "槍の達人",
+  "gemma4": "槍の達人"
+ },
+ "Polearm Pro": {
+  "es": "Experto en lanzas",
+  "gemma": "ポールアーム・プロ",
+  "qwen": "長柄武器の達人",
+  "gemma4": "長柄武器の達人"
+ },
+ "Sheepshearer": {
+  "es": "Esquilador",
+  "gemma": "シープシェアラ",
+  "qwen": "羊毛刈り",
+  "gemma4": "羊毛刈り"
+ },
+ "Smith": {
+  "es": "Herrero",
+  "gemma": "スミス",
+  "qwen": "鍛冶屋",
+  "gemma4": "鍛冶屋"
+ },
+ "Stonemason": {
+  "es": "Picapedrero",
+  "gemma": "ストーンメイソン",
+  "qwen": "石工",
+  "gemma4": "石工"
+ },
+ "Swordsmith": {
+  "es": "Espadero",
+  "gemma": "ソードスミス",
+  "qwen": "剣鍛冶",
+  "gemma4": "剣鍛冶"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "左に振る",
+  "qwen": "残りの攻撃",
+  "gemma4": "残りの攻撃"
+ },
+ "Erase Game": {
+  "es": "Borrar partida",
+  "gemma": "ゲームを消去",
+  "qwen": "セーブデータを消去",
+  "gemma4": "セーブデータを消去"
+ },
+ "Enter your name below:": {
+  "es": "Escribe tu nombre abajo:",
+  "gemma": "下に名前を入力してください：",
+  "qwen": "名前を入力してください",
+  "gemma4": "名前を入力してください"
+ },
+ "Choose Save Slot": {
+  "es": "Elige una ranura",
+  "gemma": "セーブデータを選択",
+  "qwen": "セーブスロットを選択",
+  "gemma4": "セーブスロットを選択"
+ },
+ "Leave Shop": {
+  "es": "Salir",
+  "gemma": "ショップから出る",
+  "qwen": "ショップを閉じる",
+  "gemma4": "ショップを閉じる"
+ },
+ "Description of the badge goes here with more text in here and more and more.": {
+  "es": "Aquí va la descripción de la insignia, con más texto aquí y más y más.",
+  "gemma": "バッジの説明文をここに記載します。さらに詳しい説明文をここに。",
+  "qwen": "ここにバッジの説明文が入ります。さらにテキストを追加。",
+  "gemma4": "ここにバッジの説明文が入ります。さらにテキストを追加。"
+ },
+ "Jacksmith, you have\nproven yourself to be\na very talented and\nbrave Donkey.": {
+  "es": "Jacksmith, has\ndemostrado ser un\nburro muy hábil\ny valiente.",
+  "gemma": "ジャックスミス、君は非常に才能があり、勇敢なロバであることを証明した。",
+  "qwen": "ジャックスミス、君はとても才能があり、勇敢なロバだと証明したね。",
+  "gemma4": "ジャックスミス、君はとても才能があり、勇敢なロバだと証明したね。"
+ },
+ "You have collected": {
+  "es": "Has conseguido",
+  "gemma": "あなたは、",
+  "qwen": "集めた",
+  "gemma4": "集めた"
+ },
+ "on the trail during battles!": {
+  "es": "en el sendero durante las batallas.",
+  "gemma": "戦闘中に道で収集しました！",
+  "qwen": "戦闘中の道で！",
+  "gemma4": "戦闘中の道で！"
+ },
+ "You will collect": {
+  "es": "Conseguirás",
+  "gemma": "あなたは、",
+  "qwen": "集める",
+  "gemma4": "集める"
+ },
+ "Don't forget about me,\nJacksmith! I've always\ngot new items in\nstock!": {
+  "es": "¡No te olvides de mí, Jacksmith! ¡Siempre tengo artículos nuevos!",
+  "gemma": "私のことを忘れないで、ジャックスミス！ 常に新しいアイテムを取り揃えています！",
+  "qwen": "私を忘れないでね、Jacksmith！新しいアイテムはいつでも入荷してるよ！",
+  "gemma4": "私を忘れないでね、Jacksmith！新しいアイテムはいつでも入荷してるよ！"
+ },
+ "200 XP to Next Level": {
+  "es": "200 XP al próximo nivel",
+  "gemma": "次のレベルまで200経験値",
+  "qwen": "次のレベルまであと200 XP",
+  "gemma4": "次のレベルまであと200 XP"
+ },
+ "You Found": {
+  "es": "Encontraste",
+  "gemma": "発見！",
+  "qwen": "見つけた！",
+  "gemma4": "見つけた！"
+ },
+ "-Gold Trident": {
+  "es": "-Tridente de oro",
+  "gemma": "-金色のトライデント",
+  "qwen": "金のトライデント",
+  "gemma4": "金のトライデント"
+ },
+ "Killed 99 times": {
+  "es": "Derrotado 99 veces",
+  "gemma": "99回倒されました",
+  "qwen": "99回撃破",
+  "gemma4": "99回撃破"
+ },
+ "EASY-TO-DRAG": {
+  "es": "FÁCIL DE ARRASTRAR",
+  "gemma": "簡単ドラッグ",
+  "qwen": "ドラッグ操作",
+  "gemma4": "ドラッグ操作"
+ },
+ "You'll need to craft him a sword.": {
+  "es": "Tendrás que forjarle una espada.",
+  "gemma": "彼は剣が必要だ。",
+  "qwen": "彼に剣を製作してあげよう。",
+  "gemma4": "彼に剣を製作してあげよう。"
+ },
+ "Wait for the copper to melt!\n\nYou can also pump the bellows to make\nthe metal melt faster.": {
+  "es": "¡Espera a que el cobre se funda!\n\nTambién puedes accionar el fuelle para que el metal se funda más rápido.",
+  "gemma": "銅が溶けるまで待って！ ブロワーを動かすと、金属が早く溶けます。",
+  "qwen": "銅が溶けるまで待って！ ふいごを動かすと、金属がより早く溶けるよ。",
+  "gemma4": "銅が溶けるまで待って！ ふいごを動かすと、金属がより早く溶けるよ。"
+ },
+ "You need to hammer a sword to sharpen its edges. Click along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "剣の刃を鋭くするために、叩き込み作業が必要。剣の縁に沿ってクリックして叩いてみて。",
+  "qwen": "剣の刃を鋭くするために、打ち込みが必要だよ。剣の縁に沿ってクリックして叩いてね。",
+  "gemma4": "剣の刃を鋭くするために、打ち込みが必要だよ。剣の縁に沿ってクリックして叩いてね。"
+ },
+ "Power = How much damage it deals": {
+  "es": "Poder = Cuánto daño causa",
+  "gemma": "パワー = ダメージ量",
+  "qwen": "パワー = 与ダメージ",
+  "gemma4": "パワー = 与ダメージ"
+ },
+ "How long it lasts\nbefore breaking": {
+  "es": "Cuánto dura antes de romperse",
+  "gemma": "壊れるまでの期間",
+  "qwen": "壊れるまでの耐久力",
+  "gemma4": "壊れるまでの耐久力"
+ },
+ "If you complete the day's weapons quickly,any time remaining on your Bonus Meterwill reward you with Gems!": {
+  "es": "Si terminas rápido las armas del día, ¡el tiempo que quede en tu medidor de bonificación te dará gemas!",
+  "gemma": "1日の武器を早く作り終えると、ボーナスメーターに残った時間がジェムとしてあなたに与えられます！",
+  "qwen": "1日の武器を早く作り終えると、ボーナスメーターの残り時間に応じてジェムがもらえます！",
+  "gemma4": "1日の武器を早く作り終えると、ボーナスメーターの残り時間に応じてジェムがもらえます！"
+ },
+ "These are stronger elemental enemies, but some\nweapons and parts will help with different elements...": {
+  "es": "Son enemigos elementales más fuertes, pero algunas armas y piezas ayudan contra cada elemento...",
+  "gemma": "これらの敵は、より強力な元素を持つ敵です。しかし、武器やパーツの中には、特定の元素に対抗できるものがあります。",
+  "qwen": "これらはより強力な元素の敵ですが、いくつかの武器やパーツは異なる属性に対抗するのに役立ちます…",
+  "gemma4": "これらはより強力な元素の敵ですが、いくつかの武器やパーツは異なる属性に対抗するのに役立ちます…"
+ },
+ "You won't always defeat all of the\nmonsters on a trail.": {
+  "es": "No siempre derrotarás a todos los monstruos de un sendero.",
+  "gemma": "トレイル（道）には、必ずしもすべてのモンスターを倒せるわけじゃないよ。",
+  "qwen": "道のモンスターをすべて倒せるとは限らないよ。",
+  "gemma4": "道のモンスターをすべて倒せるとは限らないよ。"
+ },
+ "Drag both arms of the bow upwards to stretch the string.\nTry to make it straight to earn the maximum Power for a Bow.": {
+  "es": "Arrastra ambos brazos del arco hacia arriba para tensar la cuerda. Déjala recta para lograr el poder máximo del arco.",
+  "gemma": "弓の弦を引くために、弓の両側のグリップを上にドラッグして伸ばそう。弦がまっすぐになるようにすると、弓のパワーが最大になるよ。",
+  "qwen": "弓の両方の腕を上にドラッグして弦を引こう。弓のパワーを最大にするために、まっすぐになるように調整してね。",
+  "gemma4": "弓の両方の腕を上にドラッグして弦を引こう。弓のパワーを最大にするために、まっすぐになるように調整してね。"
+ },
+ "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.": {
+  "es": "Arma la cabeza del hacha uniendo las tres piezas al centro. Arrastra cada hoja y púa, y suéltala cuando toque el centro. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "斧の頭を作るには、3つのパーツをすべて中央に取り付けよう。それぞれの刃とスパイクをドラッグし、中央に近づいたら離してください。斧のパワーを最大にするには、まっすぐに配置しよう。",
+  "qwen": "それぞれの刃とスパイクをドラッグし、中央に重なったら離そう。斧のパワーを最大にするには、まっすぐに配置しよう。",
+  "gemma4": "それぞれの刃とスパイクをドラッグし、中央に重なったら離そう。斧のパワーを最大にするには、まっすぐに配置しよう。"
+ },
+ "You need to Build the Handle for the Axe. First drag a Pole and drop it onto the axe. Keep it centered for maximum Durability, otherwise it will land crooked!": {
+  "es": "Debes armar el agarre del hacha. Primero arrastra un asta y suéltala sobre el hacha. Mantenla centrada para la durabilidad máxima; ¡si no, quedará torcida!",
+  "gemma": "斧の柄を作る必要があります。まず、柄をドラッグして斧に配置しよう。耐久力を最大にするには、中央に配置してください。そうしないと、斜めに配置されてしまいます！",
+  "qwen": "斧の柄を作る必要があるよ。まず、柄をドラッグして斧に配置しよう。耐久力を最大にするには、中央に配置してね。そうしないと、斜めに配置されてしまうよ！",
+  "gemma4": "斧の柄を作る必要があるよ。まず、柄をドラッグして斧に配置しよう。耐久力を最大にするには、中央に配置してね。そうしないと、斜めに配置されてしまうよ！"
+ },
+ "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.": {
+  "es": "Puedes ver las piezas necesarias para forjar esta arma, y una marca si ya las tienes.",
+  "gemma": "この武器を作るために必要なパーツと、すでに持っているかどうかを確認できます。",
+  "qwen": "この武器を作るために必要なパーツと、すでに持っているかどうかの印を確認できます。",
+  "gemma4": "この武器を作るために必要なパーツと、すでに持っているかどうかの印を確認できます。"
+ },
+ "Parts that are Bookmarked will show this icon:": {
+  "es": "Las piezas marcadas mostrarán este icono:",
+  "gemma": "ブックマークされたパーツには、このアイコンが表示されます",
+  "qwen": "ブックマークされたパーツには、このアイコンが表示されます：",
+  "gemma4": "ブックマークされたパーツには、このアイコンが表示されます："
+ },
+ "Stats": {
+  "es": "Estadísticas",
+  "gemma": "性能",
+  "qwen": "ステータス",
+  "gemma4": "ステータス"
+ },
+ "Each weapon has two main stats:": {
+  "es": "Cada arma tiene dos estadísticas:",
+  "gemma": "各武器には、主に2つのステータスがあります",
+  "qwen": "各武器には2つの主要なステータスがあります",
+  "gemma4": "各武器には2つの主要なステータスがあります"
+ },
+ "If you craft a weapon poorly, the stats will go down, and it\nwon't do as well in battle. Craft a great weapon to get the\nmaximum Power and Durability!": {
+  "es": "Si forjas mal un arma, sus estadísticas bajarán y rendirá menos en batalla. ¡Forja una gran arma para lograr el poder y la durabilidad máximos!",
+  "gemma": "武器を粗雑に作成すると、ステータスが低下し、戦闘での性能が悪くなります。最高の武器を作成して、最大レベルのパワーと耐久力を手に入れましょう！",
+  "qwen": "武器の製作に失敗するとステータスが下がり、戦闘での性能が悪くなります。最高の武器を製作して、最大級のパワーと耐久力を手に入れよう！",
+  "gemma4": "武器の製作に失敗するとステータスが下がり、戦闘での性能が悪くなります。最高の武器を製作して、最大級のパワーと耐久力を手に入れよう！"
+ },
+ "Some parts will have a Luck Stat:": {
+  "es": "Algunas piezas tienen suerte:",
+  "gemma": "一部のパーツには、運のステータスがあります",
+  "qwen": "一部のパーツには運のステータスがあります：",
+  "gemma4": "一部のパーツには運のステータスがあります："
+ },
+ "Weapons and parts can also have Elemental Boostsin addition to their regular stats. Check the \"Element Chart\"section for more information.": {
+  "es": "Las armas y piezas también pueden tener mejoras elementales además de sus estadísticas. Consulta la sección \"Tabla de elementos\" para saber más.",
+  "gemma": "武器やパーツには、通常のステータスに加えて、エレメンタルブーストが付いている場合があります。詳細については、「エレメント表」のセクションをご覧ください。",
+  "qwen": "武器やパーツには、通常のステータスに加えてエレメンタルブーストが付いていることもあります。詳細は「エレメント表」のセクションを確認してね。",
+  "gemma4": "武器やパーツには、通常のステータスに加えてエレメンタルブーストが付いていることもあります。詳細は「エレメント表」のセクションを確認してね。"
+ },
+ "Use the Gems you collect ( ) to buy\nweapon parts from Gander’s shop.": {
+  "es": "Usa tus gemas (             ) para comprar piezas en la tienda de Gander.",
+  "gemma": "集めたジェムを使って、ガンダーのショップで武器パーツを購入しよう。",
+  "qwen": "集めたジェム ( ) を使って、ガンダーのショップで武器パーツを購入しよう。",
+  "gemma4": "集めたジェム ( ) を使って、ガンダーのショップで武器パーツを購入しよう。"
+ },
+ "You can also buy some extra metal ore when it's in stock.": {
+  "es": "También puedes comprar mineral extra cuando haya.",
+  "gemma": "時々、追加の鉱石も購入できるよ。",
+  "qwen": "在庫がある時は、追加の鉱石も購入できるよ。",
+  "gemma4": "在庫がある時は、追加の鉱石も購入できるよ。"
+ },
+ "Each weapon’s Durability goes down when it’s used,\nand also goes down when an enemy attacks.\nWhen Durability reaches zero, the weapon will break\nand that soldier will retreat.": {
+  "es": "La durabilidad de cada arma baja al usarla, y también cuando un enemigo ataca. Cuando llegue a cero, el arma se romperá y ese soldado se retirará.",
+  "gemma": "武器の耐久値は、使用するたびに減り、敵からの攻撃を受けるたびに、それも減る。 耐久値が0になると、武器は壊れて、その兵士は退却する。",
+  "qwen": "武器の耐久力は、使用するたびに減り、敵からの攻撃を受けるたびに、それも減る。耐久力が0になると、武器は壊れてその兵士は退却する。",
+  "gemma4": "武器の耐久力は、使用するたびに減り、敵からの攻撃を受けるたびに、それも減る。耐久力が0になると、武器は壊れてその兵士は退却する。"
+ },
+ "If you hammer poorly, the sword won't have as much\nPower in battle. Hammer evenly around the edges to get\nthe maximum Power for your sword.": {
+  "es": "Si martillas mal, la espada no tendrá tanto poder en batalla. Martilla parejo por los bordes para lograr el poder máximo de tu espada.",
+  "gemma": "叩き込みが不十分だと、剣の攻撃力が低下します。 刃の縁を均等に叩き込み、剣の最大攻撃力を引き出しましょう。",
+  "qwen": "叩き込みが不十分だと、剣のパワーが低下します。刃の縁を均等に叩き込み、剣の最大パワーを引き出しましょう。",
+  "gemma4": "叩き込みが不十分だと、剣のパワーが低下します。刃の縁を均等に叩き込み、剣の最大パワーを引き出しましょう。"
+ },
+ "You build the handle of a sword by dropping parts onto it.\nFirst drag and release a GUARD onto the sword's end,\nthen a GRIP, then a CAP.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una GUARDA en el extremo, luego un MANGO y luego un POMO.",
+  "gemma": "剣の柄は、パーツを組み合わせて作ります。 まず、剣の先に鍔（ガード）を、次にグリップ、そして柄頭（キャップ）を取り付けます。",
+  "qwen": "剣の柄は、パーツを重ねて作ります。まず、剣の端に鍔を、次にグリップ、そして柄頭をドラッグして離します。",
+  "gemma4": "剣の柄は、パーツを重ねて作ります。まず、剣の端に鍔を、次にグリップ、そして柄頭をドラッグして離します。"
+ },
+ "You need to stretch a bow before a soldier can use it.\nDrag both \"arms\" of the bow upwards to stretch the string.\nTry to make it straight to earn the maximum Power for the bow.": {
+  "es": "Debes tensar el arco antes de que un soldado lo use. Arrastra ambos \"brazos\" del arco hacia arriba para tensar la cuerda. Déjala recta para lograr el poder máximo del arco.",
+  "gemma": "兵士が弓を使う前に、弓を引っ張る必要があります。 弓の両側の「腕」を上にドラッグして弦を引っ張ります。 弦がまっすぐになるようにすると、弓の攻撃力が最大になります。",
+  "qwen": "兵士が弓を使う前に、弓を張る必要があります。弓の「腕」の両方を上にドラッグして弦を張ります。弦をまっすぐに張ると、弓のパワーが最大になります。",
+  "gemma4": "兵士が弓を使う前に、弓を張る必要があります。弓の「腕」の両方を上にドラッグして弦を張ります。弦をまっすぐに張ると、弓のパワーが最大になります。"
+ },
+ "You need to build the Axe head by attaching all three parts\nto the center.": {
+  "es": "Debes armar la cabeza del hacha uniendo las tres piezas al centro.",
+  "gemma": "斧の刃を、3つのパーツを中央に取り付けることで作成しよう。",
+  "qwen": "斧の柄頭を、3つのパーツをすべて中央に取り付けて作成しよう。",
+  "gemma4": "斧の柄頭を、3つのパーツをすべて中央に取り付けて作成しよう。"
+ },
+ "Keep dragging and painting until the \"Paint Meter\" above\nthe Shield is completely empty. Don't leave any blank spots!": {
+  "es": "Sigue arrastrando y pintando hasta que el \"medidor de pintura\" sobre el escudo quede vacío. ¡No dejes huecos sin pintar!",
+  "gemma": "「塗料メーター」が盾の上にあるので、完全に空になるまでドラッグ＆ペイントを続けよう。何も塗られていない部分を残さないで！",
+  "qwen": "盾の上の「塗料メーター」が完全に空になるまで、ドラッグと塗装を続けよう。塗り残しがないように注意してね！",
+  "gemma4": "盾の上の「塗料メーター」が完全に空になるまで、ドラッグと塗装を続けよう。塗り残しがないように注意してね！"
+ },
+ "You build a Pike handle just like an Axe handle, but it's\nmuch longer! You'll need to use more Poles and Grips\nto build one.": {
+  "es": "El agarre de una lanza se arma igual que el de un hacha, ¡pero es mucho más largo! Necesitarás más astas y mangos para armarlo.",
+  "gemma": "斧の柄と同じように槍の柄を作るけど、ずっと長いんだ！ 槍の柄を作るには、もっと多くの柄とグリップが必要になるよ。",
+  "qwen": "斧の柄と同じように槍の柄を作るけど、ずっと長いんだ！作るには、もっと多くの柄とグリップが必要になるよ。",
+  "gemma4": "斧の柄と同じように槍の柄を作るけど、ずっと長いんだ！作るには、もっと多くの柄とグリップが必要になるよ。"
+ },
+ "Drag all of the Pegs or Spikes onto the\nMace head to attach them.": {
+  "es": "Arrastra todos los clavos o púas a la cabeza de la maza para fijarlos.",
+  "gemma": "スパイクをすべてメイスの頭にドラッグして、取り付けよう。",
+  "qwen": "スパイクをすべてメイスの頭にドラッグして固定しよう。",
+  "gemma4": "スパイクをすべてメイスの頭にドラッグして固定しよう。"
+ },
+ "Each variation starts with one Boost,\nand has three extra Boosts to unlock\n(Bronze, Silver, and Gold)": {
+  "es": "Cada variante empieza con una mejora y tiene tres mejoras extra por desbloquear (bronce, plata y oro)",
+  "gemma": "各武器は、初期状態で1つのブーストを持ち、さらに3つのブースト（ブロンズ、シルバー、ゴールド）をアンロックできます",
+  "qwen": "各武器は初期状態で1つのブーストを持ち、さらに3つのブースト（ブロンズ、シルバー、ゴールド）をアンロックできます",
+  "gemma4": "各武器は初期状態で1つのブーストを持ち、さらに3つのブースト（ブロンズ、シルバー、ゴールド）をアンロックできます"
+ },
+ "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.": {
+  "es": "Consulta el libro \"Bestiario\" para ver todos los tipos de monstruos que ya encontraste.",
+  "gemma": "「モンスター図鑑」で、これまでに出会ったモンスターの種類を確認できます。",
+  "qwen": "「モンスター図鑑」で、これまでに遭遇したすべてのモンスターの種類を確認しましょう。",
+  "gemma4": "「モンスター図鑑」で、これまでに遭遇したすべてのモンスターの種類を確認しましょう。"
+ },
+ "Click on one of the Cannonball buttons to launch\na cannonball into the field.": {
+  "es": "Haz clic en uno de los botones de bala de cañón para lanzarla al campo.",
+  "gemma": "砲弾ボタンをクリックして、砲弾をフィールドに発射します。",
+  "qwen": "砲弾ボタンのいずれかをクリックして、フィールドに砲弾を発射します。",
+  "gemma4": "砲弾ボタンのいずれかをクリックして、フィールドに砲弾を発射します。"
+ },
+ "After you use your cannon, it will need to recharge\nbefore you can fire that type of cannonball again.": {
+  "es": "Tras usar tu cañón, deberá recargarse antes de que puedas disparar otra vez ese tipo de bala.",
+  "gemma": "大砲を使用した後は、同じ種類の砲弾を再び発射する前に、リチャージが必要です。",
+  "qwen": "大砲を使用した後は、同じ種類の砲弾を再び発射する前にリチャージが必要です。",
+  "gemma4": "大砲を使用した後は、同じ種類の砲弾を再び発射する前にリチャージが必要です。"
+ },
+ "If you defeat all of the monsters on a trail, you'll reach a\nTreasure Chest that contains an Epic Weapon Design and the\nparts needed to build it. Be sure to collect everything\nthat drops out of the chest!": {
+  "es": "Si derrotas a todos los monstruos de un sendero, llegarás a un cofre del tesoro con un diseño de arma épica y las piezas para forjarla. ¡Recoge todo lo que salga del cofre!",
+  "gemma": "ある道で全てのモンスターを倒すと、伝説の武器のデザインと、それを製作するために必要なパーツが入った宝箱にたどり着きます。 宝箱から出てくるアイテムは、全て回収しましょう！",
+  "qwen": "道のすべてのモンスターを倒すと、伝説の武器のデザインと、それを製作するために必要なパーツが入った宝箱にたどり着きます。 宝箱から出るものはすべて回収しましょう！",
+  "gemma4": "道のすべてのモンスターを倒すと、伝説の武器のデザインと、それを製作するために必要なパーツが入った宝箱にたどり着きます。 宝箱から出るものはすべて回収しましょう！"
+ },
+ "Press": {
+  "es": "Pulsa",
+  "gemma": "を押すと",
+  "qwen": "[キー]を押す",
+  "gemma4": "[キー]を押す"
+ },
+ "to open the Info Menu": {
+  "es": "para abrir el menú Info",
+  "gemma": "インフォメーションメニューが開きます",
+  "qwen": "インフォメーションメニューを開く",
+  "gemma4": "インフォメーションメニューを開く"
+ },
+ "to open the Inventory Menu": {
+  "es": "para abrir el Inventario",
+  "gemma": "を押すと",
+  "qwen": "インベントリメニューを開く",
+  "gemma4": "インベントリメニューを開く"
+ },
+ "to open the Bestiary Menu": {
+  "es": "para abrir el Bestiario",
+  "gemma": "インベントリメニューが開きます",
+  "qwen": "モンスター図鑑メニューを開く",
+  "gemma4": "モンスター図鑑メニューを開く"
+ },
+ "to open the Designs Menu": {
+  "es": "para abrir los Diseños",
+  "gemma": "を押すと",
+  "qwen": "デザインメニューを開く",
+  "gemma4": "デザインメニューを開く"
+ },
+ "to open the Help Menu": {
+  "es": "para abrir la Ayuda",
+  "gemma": "モンスター図鑑メニューが開きます",
+  "qwen": "ヘルプメニューを開く",
+  "gemma4": "ヘルプメニューを開く"
+ },
+ "You can also use Keyboard Shortcuts during battle to fire\nyour cannon.": {
+  "es": "También puedes usar atajos de teclado en batalla para disparar tu cañón.",
+  "gemma": "を押すと",
+  "qwen": "戦闘中にキーボードショートカットを使って大砲を発射できます。",
+  "gemma4": "戦闘中にキーボードショートカットを使って大砲を発射できます。"
+ },
+ "for each cannonball type": {
+  "es": "para cada tipo de bala",
+  "gemma": "デザインメニューが開きます",
+  "qwen": "砲弾のタイプごとに",
+  "gemma4": "砲弾のタイプごとに"
+ },
+ "Broad Axe": {
+  "es": "Hacha ancha",
+  "gemma": "ワイドアックス",
+  "qwen": "広刃の斧",
+  "gemma4": "広刃の斧"
+ },
+ "Dragon Axe": {
+  "es": "Hacha dragón",
+  "gemma": "ドラゴンアックス",
+  "qwen": "ドラゴン斧",
+  "gemma4": "ドラゴン斧"
+ },
+ "Pointed Shield": {
+  "es": "Escudo en punta",
+  "gemma": "ポイントシールド",
+  "qwen": "先尖り盾",
+  "gemma4": "先尖り盾"
+ },
+ "Round Shield": {
+  "es": "Escudo redondo",
+  "gemma": "ラウンドシールド",
+  "qwen": "円形盾",
+  "gemma4": "円形盾"
+ },
+ "Box Shield": {
+  "es": "Escudo cuadrado",
+  "gemma": "ボックスシールド",
+  "qwen": "四角盾",
+  "gemma4": "四角盾"
+ },
+ "Pegged Mace": {
+  "es": "Maza de clavos",
+  "gemma": "釘メイス",
+  "qwen": "釘付きメイス",
+  "gemma4": "釘付きメイス"
+ },
+ "Spiked Mace": {
+  "es": "Maza de púas",
+  "gemma": "スパイクメイス",
+  "qwen": "棘付きメイス",
+  "gemma4": "棘付きメイス"
+ },
+ "Battle Mace": {
+  "es": "Maza de batalla",
+  "gemma": "バトルメイス",
+  "qwen": "戦闘用メイス",
+  "gemma4": "戦闘用メイス"
+ },
+ "Jingles:": {
+  "es": "Melodías:",
+  "gemma": "ジングルズ：",
+  "qwen": "旋律：",
+  "gemma4": "旋律："
+ }
+}

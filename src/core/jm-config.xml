@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flex-config>
+   <target-player>32.0</target-player>
+   <swf-version>37</swf-version>
+   <compiler>
+      <accessible>false</accessible>
+      <debug>false</debug>
+      <optimize>true</optimize>
+      <strict>true</strict>
+      <external-library-path>
+         <path-element>../../tools/flex/frameworks/libs/player/32.0/playerglobal.swc</path-element>
+      </external-library-path>
+      <source-path>
+         <path-element>.</path-element>
+      </source-path>
+   </compiler>
+   <static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+</flex-config>

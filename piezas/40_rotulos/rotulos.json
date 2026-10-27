@@ -1,0 +1,1143 @@
+[
+ {
+  "id": 3802,
+  "en": "Skip",
+  "es": "Saltar",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Salta",
+  "pt": "Pular",
+  "fr": "Passer",
+  "de": "Weiter",
+  "ru": "Пропуск",
+  "ja": "スキップ",
+  "zh_hans": "跳过",
+  "zh_hant": "跳過"
+ },
+ {
+  "id": 4220,
+  "en": "Skip",
+  "es": "Saltar",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Salta",
+  "pt": "Pular",
+  "fr": "Passer",
+  "de": "Weiter",
+  "ru": "Пропуск",
+  "ja": "スキップ",
+  "zh_hans": "跳过",
+  "zh_hant": "跳過"
+ },
+ {
+  "id": 5241,
+  "en": "Craft",
+  "es": "Forjar",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Forgia",
+  "pt": "Forjar",
+  "fr": "Forger",
+  "de": "Schmieden",
+  "ru": "Ковать",
+  "ja": "鍛造",
+  "zh_hans": "锻造",
+  "zh_hant": "鍛造"
+ },
+ {
+  "id": 5298,
+  "en": "Order",
+  "es": "Pedido",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Ordine",
+  "pt": "Pedido",
+  "fr": "Commande",
+  "de": "Auftrag",
+  "ru": "Заказ",
+  "ja": "注文",
+  "zh_hans": "订单",
+  "zh_hant": "訂單"
+ },
+ {
+  "id": 384,
+  "en": "You Own",
+  "es": "Tienes",
+  "fuente": "Lilita One",
+  "condensa": true,
+  "cara": [
+   1,
+   2
+  ],
+  "alinea": "der",
+  "it": "Hai",
+  "pt": "Você tem",
+  "fr": "Tu as",
+  "de": "Du hast",
+  "ru": "У тебя",
+  "ja": "所持",
+  "zh_hans": "拥有",
+  "zh_hant": "擁有"
+ },
+ {
+  "id": 5203,
+  "en": "Shop",
+  "es": "Tienda",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "hueco": [
+   10,
+   60
+  ],
+  "it": "Negozio",
+  "pt": "Loja",
+  "fr": "Boutique",
+  "de": "Laden",
+  "ru": "Магазин",
+  "ja": "ショップ",
+  "zh_hans": "商店",
+  "zh_hant": "商店"
+ },
+ {
+  "id": 5204,
+  "en": "Shop",
+  "es": "Tienda",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "hueco": [
+   10,
+   60
+  ],
+  "it": "Negozio",
+  "pt": "Loja",
+  "fr": "Boutique",
+  "de": "Laden",
+  "ru": "Магазин",
+  "ja": "ショップ",
+  "zh_hans": "商店",
+  "zh_hant": "商店"
+ },
+ {
+  "id": 5223,
+  "en": "SWORD",
+  "es": "ESPADA",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "SPADA",
+  "pt": "ESPADA",
+  "fr": "ÉPÉE",
+  "de": "SCHWERT",
+  "ru": "МЕЧ",
+  "ja": "剣",
+  "zh_hans": "剑",
+  "zh_hant": "劍"
+ },
+ {
+  "id": 5224,
+  "en": "BOW",
+  "es": "ARCO",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "ARCO",
+  "pt": "ARCO",
+  "fr": "ARC",
+  "de": "BOGEN",
+  "ru": "ЛУК",
+  "ja": "弓",
+  "zh_hans": "弓",
+  "zh_hant": "弓"
+ },
+ {
+  "id": 5225,
+  "en": "SHIELD",
+  "es": "ESCUDO",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "SCUDO",
+  "pt": "ESCUDO",
+  "fr": "BOUCLIER",
+  "de": "SCHILD",
+  "ru": "ЩИТ",
+  "ja": "盾",
+  "zh_hans": "盾",
+  "zh_hant": "盾"
+ },
+ {
+  "id": 5226,
+  "en": "AXE",
+  "es": "HACHA",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "ASCIA",
+  "pt": "MACHADO",
+  "fr": "HACHE",
+  "de": "AXT",
+  "ru": "ТОПОР",
+  "ja": "斧",
+  "zh_hans": "斧",
+  "zh_hant": "斧"
+ },
+ {
+  "id": 5227,
+  "en": "PIKE",
+  "es": "LANZA",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "PICCA",
+  "pt": "LANÇA",
+  "fr": "PIQUE",
+  "de": "SPIESS",
+  "ru": "КОПЬЁ",
+  "ja": "槍",
+  "zh_hans": "长枪",
+  "zh_hant": "長槍"
+ },
+ {
+  "id": 5228,
+  "en": "MACE",
+  "es": "MAZA",
+  "fuente": "CelticHoof Regular",
+  "vertical": true,
+  "huecoy": [
+   40,
+   122
+  ],
+  "it": "MAZZA",
+  "pt": "MAÇA",
+  "fr": "MASSE",
+  "de": "KEULE",
+  "ru": "БУЛАВА",
+  "ja": "メイス",
+  "zh_hans": "锤",
+  "zh_hant": "錘"
+ },
+ {
+  "id": 5657,
+  "en": "New Cannonball",
+  "es": "Nueva Bala de Cañón",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "quitar": "todo",
+  "hueco": [
+   -260,
+   260
+  ],
+  "it": "Nuova Palla di Cannone",
+  "pt": "Nova Bala de Canhão",
+  "fr": "Nouveau Boulet",
+  "de": "Neue Kanonenkugel",
+  "ru": "Новое ядро",
+  "ja": "新しい砲弾",
+  "zh_hans": "新炮弹",
+  "zh_hant": "新砲彈"
+ },
+ {
+  "id": 5658,
+  "en": "New Weapon",
+  "es": "Nueva Arma",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "quitar": "todo",
+  "hueco": [
+   -260,
+   260
+  ],
+  "it": "Nuova Arma",
+  "pt": "Nova Arma",
+  "fr": "Nouvelle Arme",
+  "de": "Neue Waffe",
+  "ru": "Новое оружие",
+  "ja": "新しい武器",
+  "zh_hans": "新武器",
+  "zh_hant": "新武器"
+ },
+ {
+  "id": 5659,
+  "en": "Beware",
+  "es": "¡Cuidado!",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "quitar": "todo",
+  "hueco": [
+   -260,
+   260
+  ],
+  "it": "Attenzione!",
+  "pt": "Cuidado!",
+  "fr": "Attention !",
+  "de": "Vorsicht!",
+  "ru": "Осторожно!",
+  "ja": "気をつけて！",
+  "zh_hans": "小心！",
+  "zh_hant": "小心！"
+ },
+ {
+  "id": 5660,
+  "en": "New Shop Item",
+  "es": "Nuevo en la Tienda",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "quitar": "todo",
+  "hueco": [
+   -260,
+   260
+  ],
+  "it": "Nuovo nel Negozio",
+  "pt": "Novo na Loja",
+  "fr": "Nouveau en Boutique",
+  "de": "Neu im Laden",
+  "ru": "Новинка в магазине",
+  "ja": "ショップに新商品",
+  "zh_hans": "商店新品",
+  "zh_hant": "商店新品"
+ },
+ {
+  "id": 1501,
+  "en": "LeVeL",
+  "es": "NiVeL",
+  "fuente": "CelticHoof Regular",
+  "versalitas": 0.8,
+  "cara": [
+   [
+    1,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "it": "LiVeLLo",
+  "pt": "NíVeL",
+  "fr": "NiVeAu",
+  "de": "StUfE",
+  "ru": "УрОвЕнЬ",
+  "ja": "レベル",
+  "zh_hans": "等级",
+  "zh_hant": "等級"
+ },
+ {
+  "id": 460,
+  "en": "AWESOME",
+  "es": "GENIAL",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   1,
+   2
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "FANTASTICO",
+  "pt": "INCRÍVEL",
+  "fr": "GÉNIAL",
+  "de": "KLASSE",
+  "ru": "ПОТРЯСАЮЩЕ",
+  "ja": "最高",
+  "zh_hans": "太棒了",
+  "zh_hant": "太棒了"
+ },
+ {
+  "id": 461,
+  "en": "GREAT",
+  "es": "MUY BIEN",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   1,
+   2
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "OTTIMO",
+  "pt": "ÓTIMO",
+  "fr": "SUPER",
+  "de": "SUPER",
+  "ru": "ОТЛИЧНО",
+  "ja": "すごい",
+  "zh_hans": "很棒",
+  "zh_hant": "很棒"
+ },
+ {
+  "id": 462,
+  "en": "GOOD",
+  "es": "BIEN",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   1,
+   2
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "BENE",
+  "pt": "BOM",
+  "fr": "BIEN",
+  "de": "GUT",
+  "ru": "ХОРОШО",
+  "ja": "いいね",
+  "zh_hans": "不错",
+  "zh_hant": "不錯"
+ },
+ {
+  "id": 467,
+  "en": "PERFECT!",
+  "es": "¡PERFECTO!",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   1,
+   2
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "PERFETTO!",
+  "pt": "PERFEITO!",
+  "fr": "PARFAIT !",
+  "de": "PERFEKT!",
+  "ru": "ИДЕАЛЬНО!",
+  "ja": "完璧！",
+  "zh_hans": "完美！",
+  "zh_hant": "完美！"
+ },
+ {
+  "id": 464,
+  "en": "OKAY",
+  "es": "REGULAR",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   1,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "DISCRETO",
+  "pt": "OK",
+  "fr": "PASSABLE",
+  "de": "OKAY",
+  "ru": "НОРМАЛЬНО",
+  "ja": "まあまあ",
+  "zh_hans": "还行",
+  "zh_hant": "還行"
+ },
+ {
+  "id": 465,
+  "en": "HMM...",
+  "es": "MMM...",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   1,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "HMM...",
+  "pt": "HMM...",
+  "fr": "HMM...",
+  "de": "HMM...",
+  "ru": "ХММ...",
+  "ja": "うーん…",
+  "zh_hans": "嗯……",
+  "zh_hant": "嗯……"
+ },
+ {
+  "id": 466,
+  "en": "TOO|BAD",
+  "es": "QUÉ|MAL",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   1,
+   1
+  ],
+  "hueco": [
+   8,
+   88
+  ],
+  "it": "CHE|PECCATO",
+  "pt": "QUE|PENA",
+  "fr": "PAS|TOP",
+  "de": "SO|SCHADE",
+  "ru": "ОЧЕНЬ|ПЛОХО",
+  "ja": "ざん|ねん",
+  "zh_hans": "太|糟了",
+  "zh_hant": "太|糟了"
+ },
+ {
+  "id": 2772,
+  "en": "Good!",
+  "es": "¡Bien!",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   [
+    0,
+    3
+   ],
+   [
+    0,
+    5
+   ]
+  ],
+  "afin": [
+   1,
+   0,
+   -0.2,
+   1
+  ],
+  "versalitas": 0.8,
+  "it": "Bene!",
+  "pt": "Bom!",
+  "fr": "Bien !",
+  "de": "Gut!",
+  "ru": "Хорошо!",
+  "ja": "いいね！",
+  "zh_hans": "不错！",
+  "zh_hant": "不錯！"
+ },
+ {
+  "id": 2774,
+  "en": "Great!",
+  "es": "¡Genial!",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   [
+    0,
+    2
+   ],
+   [
+    0,
+    5
+   ]
+  ],
+  "afin": [
+   1,
+   0,
+   -0.2,
+   1
+  ],
+  "versalitas": 0.8,
+  "it": "Ottimo!",
+  "pt": "Ótimo!",
+  "fr": "Super !",
+  "de": "Super!",
+  "ru": "Отлично!",
+  "ja": "すごい！",
+  "zh_hans": "很棒！",
+  "zh_hant": "很棒！"
+ },
+ {
+  "id": 3785,
+  "en": "MENU",
+  "es": "MENÚ",
+  "fuente": "Protest Strike Regular",
+  "cara": [
+   2,
+   1
+  ],
+  "techo": 2.6,
+  "it": "MENU",
+  "pt": "MENU",
+  "fr": "MENU",
+  "de": "MENÜ",
+  "ru": "МЕНЮ",
+  "ja": "メニュー",
+  "zh_hans": "菜单",
+  "zh_hant": "選單"
+ },
+ {
+  "id": 3786,
+  "en": "MENU",
+  "es": "MENÚ",
+  "fuente": "Protest Strike Regular",
+  "cara": [
+   2,
+   1
+  ],
+  "techo": 2.6,
+  "it": "MENU",
+  "pt": "MENU",
+  "fr": "MENU",
+  "de": "MENÜ",
+  "ru": "МЕНЮ",
+  "ja": "メニュー",
+  "zh_hans": "菜单",
+  "zh_hant": "選單"
+ },
+ {
+  "id": 3788,
+  "en": "MENU",
+  "es": "MENÚ",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   0,
+   2
+  ],
+  "techo": 3.1,
+  "it": "MENU",
+  "pt": "MENU",
+  "fr": "MENU",
+  "de": "MENÜ",
+  "ru": "МЕНЮ",
+  "ja": "メニュー",
+  "zh_hans": "菜单",
+  "zh_hant": "選單"
+ },
+ {
+  "id": 5555,
+  "en": "SKIP",
+  "es": "SALTAR",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   2,
+   3
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   -1.2,
+   46.2
+  ],
+  "it": "SALTA",
+  "pt": "PULAR",
+  "fr": "PASSER",
+  "de": "WEITER",
+  "ru": "ПРОПУСК",
+  "ja": "スキップ",
+  "zh_hans": "跳过",
+  "zh_hant": "跳過"
+ },
+ {
+  "id": 5556,
+  "en": "SKIP",
+  "es": "SALTAR",
+  "fuente": "Protest Strike Regular",
+  "quitar": [
+   2,
+   3
+  ],
+  "cara": [
+   2,
+   1
+  ],
+  "hueco": [
+   -1.2,
+   46.2
+  ],
+  "it": "SALTA",
+  "pt": "PULAR",
+  "fr": "PASSER",
+  "de": "WEITER",
+  "ru": "ПРОПУСК",
+  "ja": "スキップ",
+  "zh_hans": "跳过",
+  "zh_hant": "跳過"
+ },
+ {
+  "id": 5557,
+  "en": "SKIP",
+  "es": "SALTAR",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   0,
+   2
+  ],
+  "hueco": [
+   -1.2,
+   46.2
+  ],
+  "it": "SALTA",
+  "pt": "PULAR",
+  "fr": "PASSER",
+  "de": "WEITER",
+  "ru": "ПРОПУСК",
+  "ja": "スキップ",
+  "zh_hans": "跳过",
+  "zh_hant": "跳過"
+ },
+ {
+  "id": 2345,
+  "en": "BACK",
+  "es": "ATRÁS",
+  "fuente": "Protest Strike Regular",
+  "cara": [
+   3,
+   1
+  ],
+  "hueco": [
+   -22,
+   31
+  ],
+  "quitar_x": [
+   -25.5,
+   40
+  ],
+  "capas": [
+   {
+    "color": [
+     18,
+     0,
+     0,
+     255
+    ],
+    "dx": 0.55,
+    "dy": 0.55
+   },
+   {
+    "color": [
+     70,
+     0,
+     0,
+     255
+    ]
+   }
+  ],
+  "techo": -9.0,
+  "it": "INDIETRO",
+  "pt": "VOLTAR",
+  "fr": "RETOUR",
+  "de": "ZURÜCK",
+  "ru": "НАЗАД",
+  "ja": "戻る",
+  "zh_hans": "返回",
+  "zh_hant": "返回"
+ },
+ {
+  "id": 1710,
+  "en": "PULL",
+  "es": "TIRA",
+  "fuente": "Alegreya Sans Black",
+  "it": "TIRA",
+  "pt": "PUXE",
+  "fr": "TIRE",
+  "de": "ZIEH",
+  "ru": "ТЯНИ",
+  "ja": "引く",
+  "zh_hans": "拉",
+  "zh_hant": "拉"
+ },
+ {
+  "id": 1714,
+  "en": "PULL",
+  "es": "TIRA",
+  "fuente": "Alegreya Sans Black",
+  "it": "TIRA",
+  "pt": "PUXE",
+  "fr": "TIRE",
+  "de": "ZIEH",
+  "ru": "ТЯНИ",
+  "ja": "引く",
+  "zh_hans": "拉",
+  "zh_hant": "拉"
+ },
+ {
+  "id": 1715,
+  "en": "PULL",
+  "es": "TIRA",
+  "fuente": "Alegreya Sans Black",
+  "it": "TIRA",
+  "pt": "PUXE",
+  "fr": "TIRE",
+  "de": "ZIEH",
+  "ru": "ТЯНИ",
+  "ja": "引く",
+  "zh_hans": "拉",
+  "zh_hant": "拉"
+ },
+ {
+  "id": 5250,
+  "en": "HELP",
+  "es": "AYUDA",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "AIUTO",
+  "pt": "AJUDA",
+  "fr": "AIDE",
+  "de": "HILFE",
+  "ru": "ПОМОЩЬ",
+  "ja": "ヘルプ",
+  "zh_hans": "帮助",
+  "zh_hant": "說明"
+ },
+ {
+  "id": 5251,
+  "en": "HELP",
+  "es": "AYUDA",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "AIUTO",
+  "pt": "AJUDA",
+  "fr": "AIDE",
+  "de": "HILFE",
+  "ru": "ПОМОЩЬ",
+  "ja": "ヘルプ",
+  "zh_hans": "帮助",
+  "zh_hant": "說明"
+ },
+ {
+  "id": 5257,
+  "en": "Designs",
+  "es": "Diseños",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Progetti",
+  "pt": "Projetos",
+  "fr": "Modèles",
+  "de": "Entwürfe",
+  "ru": "Чертежи",
+  "ja": "デザイン",
+  "zh_hans": "设计",
+  "zh_hant": "設計"
+ },
+ {
+  "id": 5258,
+  "en": "Designs",
+  "es": "Diseños",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Progetti",
+  "pt": "Projetos",
+  "fr": "Modèles",
+  "de": "Entwürfe",
+  "ru": "Чертежи",
+  "ja": "デザイン",
+  "zh_hans": "设计",
+  "zh_hant": "設計"
+ },
+ {
+  "id": 5261,
+  "en": "Beasts",
+  "es": "Bestias",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "it": "Bestie",
+  "pt": "Feras",
+  "fr": "Bêtes",
+  "de": "Bestien",
+  "ru": "Звери",
+  "ja": "モンスター",
+  "zh_hans": "怪物",
+  "zh_hant": "怪物"
+ },
+ {
+  "id": 5262,
+  "en": "Beasts",
+  "es": "Bestias",
+  "fuente": "Alegreya Sans SC ExtraBold",
+  "quitar": "todo",
+  "it": "Bestie",
+  "pt": "Feras",
+  "fr": "Bêtes",
+  "de": "Bestien",
+  "ru": "Звери",
+  "ja": "モンスター",
+  "zh_hans": "怪物",
+  "zh_hant": "怪物"
+ },
+ {
+  "id": 2335,
+  "en": "Preparing for Battle!",
+  "es": "¡Preparando la Batalla!",
+  "fuente": "Protest Strike Regular",
+  "quitar": "todo",
+  "cara": [
+   0,
+   1
+  ],
+  "afin": [
+   1,
+   0,
+   -0.2,
+   1
+  ],
+  "versalitas": 0.8,
+  "it": "Pronti alla Battaglia!",
+  "pt": "Preparando para a Batalha!",
+  "fr": "Préparation au Combat !",
+  "de": "Bereit zur Schlacht!",
+  "ru": "Готовимся к битве!",
+  "ja": "戦いの準備中！",
+  "zh_hans": "准备战斗！",
+  "zh_hant": "準備戰鬥！"
+ },
+ {
+  "id": 355,
+  "en": "PUT|AWAY",
+  "es": "GUARDAR",
+  "fuente": "Archivo Black Regular",
+  "cara": [
+   1,
+   2
+  ],
+  "it": "METTI|VIA",
+  "pt": "GUARDAR",
+  "fr": "RANGER",
+  "de": "WEG|LEGEN",
+  "ru": "УБРАТЬ",
+  "ja": "しまう",
+  "zh_hans": "收起",
+  "zh_hant": "收起"
+ },
+ {
+  "id": 6112,
+  "en": "PUT|AWAY",
+  "es": "GUARDAR",
+  "fuente": "Archivo Black Regular",
+  "cara": [
+   1,
+   2
+  ],
+  "it": "METTI|VIA",
+  "pt": "GUARDAR",
+  "fr": "RANGER",
+  "de": "WEG|LEGEN",
+  "ru": "УБРАТЬ",
+  "ja": "しまう",
+  "zh_hans": "收起",
+  "zh_hant": "收起"
+ },
+ {
+  "id": 5268,
+  "en": "NEW!",
+  "es": "NUEVO",
+  "fuente": "Archivo Black Regular",
+  "quitar": "todo",
+  "afin": [
+   1,
+   0,
+   -0.15,
+   1
+  ],
+  "it": "NUOVO!",
+  "pt": "NOVO!",
+  "fr": "NOUVEAU !",
+  "de": "NEU!",
+  "ru": "НОВОЕ!",
+  "ja": "新着！",
+  "zh_hans": "新品！",
+  "zh_hant": "新品！"
+ },
+ {
+  "id": 4953,
+  "en": "Epic Weapon Designs",
+  "es": "Diseños de armas épicas",
+  "fuente": "CelticHoof Regular",
+  "quitar": "todo",
+  "cara": [
+   3,
+   1
+  ],
+  "it": "Progetti di Armi Epiche",
+  "pt": "Projetos de Armas Épicas",
+  "fr": "Modèles d'Armes Épiques",
+  "de": "Epische Waffenentwürfe",
+  "ru": "Чертежи эпического оружия",
+  "ja": "伝説の武器デザイン",
+  "zh_hans": "史诗武器设计",
+  "zh_hant": "史詩武器設計"
+ },
+ {
+  "id": 4294,
+  "en": "REWARD",
+  "es": "RECOMPENSA",
+  "fuente": "CelticHoof Regular",
+  "quitar": [],
+  "caja": [
+   219,
+   29,
+   409,
+   69
+  ],
+  "parche": {
+   "caja": [
+    206,
+    27.6,
+    423,
+    71
+   ],
+   "grad": [
+    [
+     26,
+     [
+      226,
+      224,
+      219
+     ]
+    ],
+    [
+     35,
+     [
+      219,
+      217,
+      210
+     ]
+    ],
+    [
+     44,
+     [
+      214,
+      212,
+      204
+     ]
+    ],
+    [
+     59,
+     [
+      210,
+      207,
+      198
+     ]
+    ],
+    [
+     72,
+     [
+      210,
+      207,
+      198
+     ]
+    ]
+   ]
+  },
+  "capas": [
+   {
+    "grad": [
+     [
+      29,
+      [
+       163,
+       159,
+       154
+      ]
+     ],
+     [
+      41,
+      [
+       142,
+       137,
+       133
+      ]
+     ],
+     [
+      50,
+      [
+       130,
+       124,
+       118
+      ]
+     ],
+     [
+      62,
+      [
+       123,
+       117,
+       111
+      ]
+     ],
+     [
+      70,
+      [
+       123,
+       117,
+       111
+      ]
+     ]
+    ]
+   }
+  ],
+  "hueco": [
+   190,
+   432
+  ],
+  "nota": "cartel del rey en la historia inicial; las letras van pintadas en el mapa de bits 4293",
+  "it": "RICOMPENSA",
+  "pt": "RECOMPENSA",
+  "fr": "RÉCOMPENSE",
+  "de": "BELOHNUNG",
+  "ru": "НАГРАДА",
+  "ja": "報酬",
+  "zh_hans": "奖励",
+  "zh_hant": "獎勵"
+ },
+ {
+  "id": 2618,
+  "en": "OFF",
+  "es": "NO",
+  "fuente": "Alegreya Sans ExtraBold",
+  "quitar": "todo",
+  "techo": 0.9,
+  "it": "NO",
+  "pt": "NÃO",
+  "fr": "NON",
+  "de": "AUS",
+  "ru": "ВЫКЛ",
+  "ja": "オフ",
+  "zh_hans": "关",
+  "zh_hant": "關"
+ },
+ {
+  "id": 2620,
+  "en": "ON",
+  "es": "SÍ",
+  "fuente": "Alegreya Sans ExtraBold",
+  "quitar": "todo",
+  "techo": -1.6,
+  "it": "SÌ",
+  "pt": "SIM",
+  "fr": "OUI",
+  "de": "AN",
+  "ru": "ВКЛ",
+  "ja": "オン",
+  "zh_hans": "开",
+  "zh_hant": "開"
+ }
+]

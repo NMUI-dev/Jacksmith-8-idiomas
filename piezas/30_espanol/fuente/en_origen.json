@@ -1,0 +1,7421 @@
+[
+ {
+  "en": "App Settings Screen Done: Remove",
+  "donde": [
+   "AppSettingsScreen"
+  ]
+ },
+ {
+  "en": "Build",
+  "donde": [
+   "AppSettingsScreen"
+  ],
+  "en_exacto": "Build "
+ },
+ {
+  "en": "Choose Dropdown (Quality):",
+  "donde": [
+   "AppSettingsScreen"
+  ],
+  "en_exacto": "Choose Dropdown (Quality): "
+ },
+ {
+  "en": "Choose Dropdown (Window):",
+  "donde": [
+   "AppSettingsScreen"
+  ],
+  "en_exacto": "Choose Dropdown (Window): "
+ },
+ {
+  "en": "Click Volume Slider",
+  "donde": [
+   "AppSettingsScreen"
+  ]
+ },
+ {
+  "en": "Release Volume Slider",
+  "donde": [
+   "AppSettingsScreen"
+  ]
+ },
+ {
+  "en": "Version",
+  "donde": [
+   "AppSettingsScreen"
+  ],
+  "en_exacto": "Version "
+ },
+ {
+  "en": ". Accuracy:",
+  "donde": [
+   "ArrowPart",
+   "MaceHandlePart",
+   "SwordHandlePart",
+   "ShieldPart"
+  ],
+  "en_exacto": ".  Accuracy: "
+ },
+ {
+  "en": "GOOD ENOUGH, NUDGE IT!",
+  "donde": [
+   "ArrowPart",
+   "MaceHandlePart"
+  ]
+ },
+ {
+  "en": "Location:",
+  "donde": [
+   "ArrowPart",
+   "MaceHandlePart"
+  ],
+  "en_exacto": "Location: "
+ },
+ {
+  "en": "Part is still in the panel area, return it!",
+  "donde": [
+   "ArrowPart",
+   "BowHandlePart",
+   "MaceHandlePart"
+  ]
+ },
+ {
+  "en": "ARROW STAGE - BACK TO HUB!",
+  "donde": [
+   "ArrowStage"
+  ]
+ },
+ {
+  "en": "ArrowStage: Handle Page Key:",
+  "donde": [
+   "ArrowStage"
+  ],
+  "en_exacto": "ArrowStage: Handle Page Key: "
+ },
+ {
+  "en": "ArrowStage: Handle Wheel, Delta:",
+  "donde": [
+   "ArrowStage"
+  ],
+  "en_exacto": "ArrowStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "AXE STAGE - BACK TO HUB!",
+  "donde": [
+   "AxeStage"
+  ]
+ },
+ {
+  "en": "Blade Rotation > 50% of range, 1/2 it.",
+  "donde": [
+   "AxeStage"
+  ]
+ },
+ {
+  "en": "Blade Rotation > 75% of range, 0 it.",
+  "donde": [
+   "AxeStage"
+  ]
+ },
+ {
+  "en": "Blade Score ---",
+  "donde": [
+   "AxeStage"
+  ],
+  "en_exacto": "Blade Score --- "
+ },
+ {
+  "en": "DISTY:",
+  "donde": [
+   "AxeStage"
+  ],
+  "en_exacto": "DISTY: "
+ },
+ {
+  "en": "Intersecting Side - Snap X (useX =",
+  "donde": [
+   "AxeStage"
+  ],
+  "en_exacto": "Intersecting Side - Snap X (useX = "
+ },
+ {
+  "en": "Intersecting Top - Snap Y (useY =",
+  "donde": [
+   "AxeStage"
+  ],
+  "en_exacto": "Intersecting Top - Snap Y (useY = "
+ },
+ {
+  "en": "Move spike, too close",
+  "donde": [
+   "AxeStage"
+  ]
+ },
+ {
+  "en": "Spike Dist > 12, 0 it.",
+  "donde": [
+   "AxeStage"
+  ]
+ },
+ {
+  "en": "Spike Score ---",
+  "donde": [
+   "AxeStage"
+  ],
+  "en_exacto": "Spike Score --- "
+ },
+ {
+  "en": "ENEMY IS OFF-SCREEN. DO NOT DAMAGE THEM WITH THIS ARROW.",
+  "donde": [
+   "BattleArrow"
+  ]
+ },
+ {
+  "en": "--- SOLDIERS START MOVING!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "---- Battle Screen: Re-render graphics ----",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Add Enemy",
+  "donde": [
+   "BattleScreen"
+  ],
+  "en_exacto": "Add Enemy "
+ },
+ {
+  "en": "Finish battle!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Finished all enemies!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Null design, nothing to drop!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "RE-RENDER CANNON BITMAPS",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Ready!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Remove new-enemy popup.",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "SETUP CANNON BITMAPS",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Set up loot bitmaps",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Show a NEW ENEMY popup!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Sprite is ready, do the next!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "Start Battle! -- Prep Time =",
+  "donde": [
+   "BattleScreen"
+  ],
+  "en_exacto": "Start Battle! -- Prep Time = "
+ },
+ {
+  "en": "Start finishing battle!",
+  "donde": [
+   "BattleScreen"
+  ]
+ },
+ {
+  "en": "ms.",
+  "donde": [
+   "BattleScreen"
+  ],
+  "en_exacto": " ms."
+ },
+ {
+  "en": "% (Angle Score:",
+  "donde": [
+   "BowStage"
+  ],
+  "en_exacto": "% (Angle Score: "
+ },
+ {
+  "en": ", Slack Score:",
+  "donde": [
+   "BowStage"
+  ],
+  "en_exacto": ", Slack Score: "
+ },
+ {
+  "en": "BOW STAGE - BACK TO HUB!",
+  "donde": [
+   "BowStage"
+  ]
+ },
+ {
+  "en": "Bow Score:",
+  "donde": [
+   "BowStage"
+  ],
+  "en_exacto": "Bow Score: "
+ },
+ {
+  "en": "BowStage: Handle Page Key:",
+  "donde": [
+   "BowStage"
+  ],
+  "en_exacto": "BowStage: Handle Page Key: "
+ },
+ {
+  "en": "BowStage: Handle Wheel, Delta:",
+  "donde": [
+   "BowStage"
+  ],
+  "en_exacto": "BowStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "Setup shelf......",
+  "donde": [
+   "BowStage"
+  ]
+ },
+ {
+  "en": "StatMessageEvent",
+  "donde": [
+   "CancelPartEvent",
+   "SpikeMessageEvent",
+   "StatMessageEvent"
+  ]
+ },
+ {
+  "en": "A regular cannonball",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Booster Bomb",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Cannonball",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Electric Bomb",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Fire Bomb",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Freeze an enemy so they cannot attack",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Gives your soldiers a boost in attack power",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Ice Bomb",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Leaves flames around an enemy that slowly deal damage",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Lowers an enemy's strength with an electric zap.",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Repair Bomb",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": "Repairs your soldiers' weapons",
+  "donde": [
+   "CannonData"
+  ]
+ },
+ {
+  "en": ". ADD TO QUEUE!",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "20 Stretches",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Arms of Steel",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Assembler",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 10 Fire Enemies with Fire-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 10 Water Enemies with Water-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 15 Ice Enemies with Ice-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 15 Stone Enemies with Stone-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 20 Lightning Enemies with Lightning-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 20 Wind Enemies with Wind-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 30 Plant Enemies with Plant-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Attack 30 Shadow Enemies with Shadow-boosted weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Axe Arsenal",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Axe Artist",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Baddie Basher",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Batch of Bronze",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Battle on 3 days without using your cannon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Boosted Builder",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bow Builder",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bow Designer",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bow Master",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bronze Beginning",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bronze Boost",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Bronze Builder",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Cannonballistic",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Clashing Stones",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Clear a trail on 5 days without breaking any weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Clear the Trail",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Axes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Bows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Epic Weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Maces",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Pikes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Shields",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 10 Swords",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 20 Epic Weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft 5 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft all weapons out of Bronze on a single day",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft all weapons out of Crystal on a single day",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft all weapons out of Gold on a single day",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft all weapons out of Iron on a single day",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft all weapons out of Steel on a single day",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft any 10 weapons using Iron",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft any 15 weapons using Steel",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft any 20 weapons using Gold",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft any 25 weapons using Crystal",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Craft any 5 weapons using Bronze",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Create a weapon using an Epic Weapon Design",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Crystal Crafter",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Defeat 150 enemies",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Defeat 30 enemies",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Defeat Dudley and rescue Princess Liliana",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Desert Trek",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Design Catalog",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Dueling Shadows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Durable Gear",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "EARN BADGE #",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Electrically Charged",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Epic Arms",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Epic Weapon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Expert Forger",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Expert Handling",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Exterminator",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Fallen Gems",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Field Surgeon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Fight Fire with Fire",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Fill a mold's Star Meter and unlock an extra Element Boost on any weapon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Find 10 Epic Weapon Designs",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Find 30 Epic Weapon Designs",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Find a scroll with an Epic Weapon Design",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Finish off 10 enemies using your basic Cannonball",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Finishing Blow",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Forest Trail",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Forging",
+  "donde": [
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Frequent Fletcher",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Full Circle",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Arrows score on any 20 Bows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Construction score on any 20 Axes, Shields, or Maces",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Forging score on any 20 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Hammering score on any 20 Swords or Pikes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Handle score on any 20 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Painting score on any 20 Shields",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 100% Stretching score on any 20 Bows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Axes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Bows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Maces",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Pikes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Shields",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Get 3 different Weapon Designs for Swords",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Getting Started",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Go for the Gold",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Golden Gear",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Golden Stats",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Hammer Hero",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Hammering",
+  "donde": [
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Handle",
+  "donde": [
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Ice Attacks",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Iron Age",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Joy of Painting",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Kill all enemies on a trail on 20 different days",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Kill all enemies on a trail on 5 different days",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Leave the Castle Ruins",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Liliana's Savior",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Loot Collector",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Mace Collection",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Mace Designer",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Macemaker",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Matching Set",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Maxed Out",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Mountain Climber",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Nature vs. Nature",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Ore Forager",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Overkill",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Painting",
+  "donde": [
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Pick up 250 pieces of ore dropped by enemies in battle",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Pick up 50 weapon parts dropped by enemies in battle",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Pick up 500 Gems dropped by enemies in battle",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Pike Plans",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Pike Possibilities",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Pikesmith",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Powered Up",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Repair your troops' weapons 10 times with your Repair Bomb",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Set of Silver",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Shield Builder",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Shield Designer",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Shield Forger",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Silver Starter",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Silver Stats",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Spectator",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Steel Set",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Stick to the Plan",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Storm the Castle",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Stretching",
+  "donde": [
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Sword Collection",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Sword Designer",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Trail of Shadows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to Alpine Ridge",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to Boneyard Dunes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to Cinder Springs",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to Evershade Forest",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to Wormwood Hollow",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Travel to the Castle Ruins",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Traveling Blacksmith",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all of the Cannon Balls",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Axes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Bows",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Maces",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Pikes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Shields",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock all types of Swords",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Bronze Element Boost on 5 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Bronze Element Boost on 9 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Gold Element Boost on 5 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Gold Element Boost on 9 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Gold Element Boost on any weapon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Silver Element Boost on 5 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Silver Element Boost on 9 weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unlock the Silver Element Boost on any weapon",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Unstoppable",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Use your Fire, Ice, and Lightning Bombs on the same enemy at the same time",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Water Weapons",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Weapon Recipes",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Wind Warriors",
+  "donde": [
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "CHOOSE STAGE - BACK TO HUB!",
+  "donde": [
+   "ChooseStage"
+  ]
+ },
+ {
+  "en": "CREST STAGE - BACK TO HUB!",
+  "donde": [
+   "CrestStage"
+  ]
+ },
+ {
+  "en": "CrestStage: Handle Page Key:",
+  "donde": [
+   "CrestStage"
+  ],
+  "en_exacto": "CrestStage: Handle Page Key: "
+ },
+ {
+  "en": "CrestStage: Handle Wheel, Delta:",
+  "donde": [
+   "CrestStage"
+  ],
+  "en_exacto": "CrestStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "Complete!",
+  "donde": [
+   "EndBattleScreen"
+  ],
+  "en_exacto": " Complete!"
+ },
+ {
+  "en": "Day",
+  "donde": [
+   "EndBattleScreen"
+  ],
+  "en_exacto": "Day "
+ },
+ {
+  "en": "End of Day",
+  "donde": [
+   "EndBattleScreen"
+  ],
+  "en_exacto": "End of Day "
+ },
+ {
+  "en": "Killed Boss, Show Outro!",
+  "donde": [
+   "EndBattleScreen"
+  ]
+ },
+ {
+  "en": "MORE panel for loot. How many?:",
+  "donde": [
+   "EndBattleScreen"
+  ],
+  "en_exacto": "MORE panel for loot.  How many?: "
+ },
+ {
+  "en": "XP to Next Level",
+  "donde": [
+   "EndBattleScreen",
+   "MainMenuScreen"
+  ],
+  "en_exacto": " XP to Next Level"
+ },
+ {
+  "en": ". Current Status:",
+  "donde": [
+   "Enemy"
+  ],
+  "en_exacto": ".  Current Status: "
+ },
+ {
+  "en": "ATTACK!",
+  "donde": [
+   "Enemy"
+  ]
+ },
+ {
+  "en": "Can't adjust fire pan:",
+  "donde": [
+   "Enemy"
+  ],
+  "en_exacto": "Can't adjust fire pan: "
+ },
+ {
+  "en": "Couldn't find stats for",
+  "donde": [
+   "Enemy"
+  ],
+  "en_exacto": "Couldn't find stats for "
+ },
+ {
+  "en": "Kill enemy!",
+  "donde": [
+   "Enemy"
+  ]
+ },
+ {
+  "en": "Remove Status:",
+  "donde": [
+   "Enemy"
+  ],
+  "en_exacto": "Remove Status: "
+ },
+ {
+  "en": "Alablaster",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Aquabat",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Arachnip",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Axegrinder",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Bansheep",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Bellweather",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Billyburn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Bisonwing",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Blackjack",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Boarstone",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Boulderbull",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Brayroot",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Breezebomb",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Buckthorn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Burning Longlegs",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Buzzstone",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Capricorn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Cindersnake",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Cloudrat",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Common Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Cryosteer",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Crystalcalf",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Daggerbite",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Darkfowl",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Direhog",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Dracling",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Dripwaddle",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Dudley",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Electrifern",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Embergoose",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Equithor",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Field Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Fire Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Firefleece",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Firejacket",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Flarewing",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Freezefur",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Freezerbee",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Frostbite",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Frostfeather",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Galespear",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Ganderbolt",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Gillbeak",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Glacier Goat",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Gloombug",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Goose Goblin",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Grass Gizzard",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Gravelhoof",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Greenhide",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Guillotee",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Gustropod",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Hailswine",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Hammerjack",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Henshot",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Henwraith",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Hiveguard",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Hogsblade",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Ice Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Ivyneck",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Jackfrost",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Jellyjolt",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Lavaleech",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Leafslugger",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Lunacow",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Maplefang",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Marshtrap",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Medusalock",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Mermace",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Meteorfight",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Mossback",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Mudwallow",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Muttondraft",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Nightwinder",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Nimburro",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Oxfire",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pebblefang",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Petrahorn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Phoenix Hen",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pigroast",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pikespell",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pine Recluse",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pitchroot",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Plucksquall",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Polarbite",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pondscum",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Pyrebell",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Rainmaker",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Ramwatt",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Riverhoof",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Rockjaw",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Rockram",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Roosterite",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Rubbleworm",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Screechling",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Sea Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Seraphang",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Shadowhorn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Shiverslime",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Shockbat",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Slitherspark",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Slushduck",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Snapdragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Spincicle",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stingshade",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stonager",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stone Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Storm Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stormserpent",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stormsow",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stratusnout",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Stronghorn",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Swimsteed",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Swirlfly",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Tarantulight",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Terragoo",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Teslataur",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Thornet",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Thundercluck",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Timbercast",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Tindertulip",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Torchmule",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Trailsnapper",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Tundravine",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Uddershock",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Venomvine",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Wartbog",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Waterstalk",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Waterwasp",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Webwidow",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Whirlweed",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Wind Dragon",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Windweaver",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Woolcrest",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Woolwind",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Zapwing",
+  "donde": [
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "Enemy Lineup:",
+  "donde": [
+   "EnemyManager"
+  ]
+ },
+ {
+  "en": "New Enemies:",
+  "donde": [
+   "EnemyManager"
+  ],
+  "en_exacto": "New Enemies: "
+ },
+ {
+  "en": "No enemies it can use! Just throw in a basic bat or slug.",
+  "donde": [
+   "EnemyManager"
+  ],
+  "en_exacto": "No enemies it can use!  Just throw in a basic bat or slug."
+ },
+ {
+  "en": "Stats Today:",
+  "donde": [
+   "EnemyManager"
+  ],
+  "en_exacto": "Stats Today: "
+ },
+ {
+  "en": "Choose Metal:",
+  "donde": [
+   "ForgeStage"
+  ],
+  "en_exacto": "Choose Metal: "
+ },
+ {
+  "en": "FORGE - BACK TO HUB!",
+  "donde": [
+   "ForgeStage"
+  ]
+ },
+ {
+  "en": "Ran out of metal!",
+  "donde": [
+   "ForgeStage"
+  ]
+ },
+ {
+  "en": "Roll out bookmark:",
+  "donde": [
+   "ForgeStage"
+  ],
+  "en_exacto": "Roll out bookmark: "
+ },
+ {
+  "en": "Roll over bookmark:",
+  "donde": [
+   "ForgeStage"
+  ],
+  "en_exacto": "Roll over bookmark: "
+ },
+ {
+  "en": "Setup bookmark panels for",
+  "donde": [
+   "ForgeStage"
+  ],
+  "en_exacto": "Setup bookmark panels for "
+ },
+ {
+  "en": "Too low!",
+  "donde": [
+   "ForgeStage"
+  ]
+ },
+ {
+  "en": ", Paused:",
+  "donde": [
+   "GameControls"
+  ],
+  "en_exacto": ", Paused: "
+ },
+ {
+  "en": ", Training:",
+  "donde": [
+   "GameControls"
+  ],
+  "en_exacto": ", Training: "
+ },
+ {
+  "en": "Can't go back. Showing Menu:",
+  "donde": [
+   "GameControls"
+  ],
+  "en_exacto": "Can't go back.  Showing Menu: "
+ },
+ {
+  "en": "Can't use Back Shortcut right now.",
+  "donde": [
+   "GameControls"
+  ]
+ },
+ {
+  "en": "LEFT ARROW...",
+  "donde": [
+   "GameControls"
+  ]
+ },
+ {
+  "en": "Use Back Shortcut.",
+  "donde": [
+   "GameControls"
+  ]
+ },
+ {
+  "en": "Alpine Ridge",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Boneyard Dunes",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Castle Ruins",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Cinder Springs",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Evershade Forest",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Lowlands",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Unknown!",
+  "donde": [
+   "GameData"
+  ]
+ },
+ {
+  "en": "Add training clip:",
+  "donde": [
+   "GameHUD"
+  ],
+  "en_exacto": "Add training clip: "
+ },
+ {
+  "en": "HUD - Start Transition ->",
+  "donde": [
+   "GameHUD"
+  ],
+  "en_exacto": "HUD - Start Transition -> "
+ },
+ {
+  "en": "(= Stage?:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": " (= Stage?: "
+ },
+ {
+  "en": "). Press Escape Key for App Menu.",
+  "donde": [
+   "GameModule"
+  ]
+ },
+ {
+  "en": ", Current Ratio:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": ", Current Ratio: "
+ },
+ {
+  "en": "-- SCREEN RESIZE: Stage Focus:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "-- SCREEN RESIZE: Stage Focus: "
+ },
+ {
+  "en": "Game Version:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "Game Version: "
+ },
+ {
+  "en": "Jacksmith (c) 2012-2025 Flipline Studios. All Rights Reserved.",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "Jacksmith (c) 2012-2025 Flipline Studios.  All Rights Reserved."
+ },
+ {
+  "en": "Normal Ratio:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "Normal Ratio: "
+ },
+ {
+  "en": "Remove context training.",
+  "donde": [
+   "GameModule"
+  ]
+ },
+ {
+  "en": "SKIP TRAINING",
+  "donde": [
+   "GameModule"
+  ]
+ },
+ {
+  "en": "Set Default Stage Quality:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "Set Default Stage Quality: "
+ },
+ {
+  "en": "Setting up the game!",
+  "donde": [
+   "GameModule"
+  ]
+ },
+ {
+  "en": "Show context training:",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": "Show context training: "
+ },
+ {
+  "en": "TRAINING COMPLETE",
+  "donde": [
+   "GameModule"
+  ]
+ },
+ {
+  "en": "to",
+  "donde": [
+   "GameModule"
+  ],
+  "en_exacto": " to "
+ },
+ {
+  "en": "GameQualitySetting",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "High",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "Low",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "Medium",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "Ultra",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "Very High",
+  "donde": [
+   "GameQuality"
+  ]
+ },
+ {
+  "en": "GiveWeaponScreen - Dispose BitmapData!",
+  "donde": [
+   "GiveWeaponScreen"
+  ]
+ },
+ {
+  "en": "% surface). Checked",
+  "donde": [
+   "HammerStage",
+   "PaintStage"
+  ],
+  "en_exacto": "% surface). Checked "
+ },
+ {
+  "en": ". Pixels Masked:",
+  "donde": [
+   "HammerStage",
+   "PaintStage"
+  ],
+  "en_exacto": ". Pixels Masked: "
+ },
+ {
+  "en": "HAMMER STAGE - BACK TO HUB!",
+  "donde": [
+   "HammerStage"
+  ]
+ },
+ {
+  "en": "SCORE:",
+  "donde": [
+   "HammerStage",
+   "PaintStage"
+  ],
+  "en_exacto": "SCORE: "
+ },
+ {
+  "en": "Preparing Stat Message for Weapon Part. Accuracy =",
+  "donde": [
+   "HandlePart"
+  ],
+  "en_exacto": "Preparing Stat Message for Weapon Part. Accuracy = "
+ },
+ {
+  "en": "Bad number for station:",
+  "donde": [
+   "HubScreen"
+  ],
+  "en_exacto": "Bad number for station: "
+ },
+ {
+  "en": "No station exists for type:",
+  "donde": [
+   "HubScreen"
+  ],
+  "en_exacto": "No station exists for type: "
+ },
+ {
+  "en": "RESET ICONS AND BUTTONS",
+  "donde": [
+   "HubScreen"
+  ]
+ },
+ {
+  "en": "Redrawing Hub/Shop/Start Backdrop. Clear Existing Backdrop.",
+  "donde": [
+   "HubScreen"
+  ],
+  "en_exacto": "Redrawing Hub/Shop/Start Backdrop.  Clear Existing Backdrop."
+ },
+ {
+  "en": "Station already exists!",
+  "donde": [
+   "HubScreen"
+  ],
+  "en_exacto": "Station already exists! "
+ },
+ {
+  "en": "(Max:",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": " (Max: "
+ },
+ {
+  "en": ") - SHIFT IN WAIT LINE. Is using sprite? :",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": ") - SHIFT IN WAIT LINE.  Is using sprite? :"
+ },
+ {
+  "en": ") - SWAP SPRITE.",
+  "donde": [
+   "LobbySoldier"
+  ]
+ },
+ {
+  "en": "--- SWAP THEM TO SPRITE INSTEAD!",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": " --- SWAP THEM TO SPRITE INSTEAD!"
+ },
+ {
+  "en": ". Bitmap is at",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": ".  Bitmap is at "
+ },
+ {
+  "en": "Clip was at",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": "Clip was at "
+ },
+ {
+  "en": "Giving Weapon, DO NOT swap to sprite version now.",
+  "donde": [
+   "LobbySoldier"
+  ]
+ },
+ {
+  "en": "Soldier",
+  "donde": [
+   "LobbySoldier"
+  ],
+  "en_exacto": "Soldier "
+ },
+ {
+  "en": "MACE HANDLE STAGE - BACK TO HUB!",
+  "donde": [
+   "MaceHandleStage"
+  ]
+ },
+ {
+  "en": "MaceHandleStage: Handle Page Key:",
+  "donde": [
+   "MaceHandleStage"
+  ],
+  "en_exacto": "MaceHandleStage: Handle Page Key: "
+ },
+ {
+  "en": "MaceHandleStage: Handle Wheel, Delta:",
+  "donde": [
+   "MaceHandleStage"
+  ],
+  "en_exacto": "MaceHandleStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "New Target: Rotation",
+  "donde": [
+   "MaceHandleStage"
+  ],
+  "en_exacto": "New Target: Rotation "
+ },
+ {
+  "en": ". Dist:",
+  "donde": [
+   "MaceSpike"
+  ],
+  "en_exacto": ". Dist: "
+ },
+ {
+  "en": ". Rotation:",
+  "donde": [
+   "MaceSpike"
+  ],
+  "en_exacto": ". Rotation: "
+ },
+ {
+  "en": "Not within mace. Still allowed to move!",
+  "donde": [
+   "MaceSpike"
+  ]
+ },
+ {
+  "en": "Spike X:",
+  "donde": [
+   "MaceSpike"
+  ],
+  "en_exacto": "Spike X: "
+ },
+ {
+  "en": "Desktop",
+  "donde": [
+   "Main"
+  ]
+ },
+ {
+  "en": "% Complete",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Arrowhead #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Cap #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Crest #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Fletching #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Grip #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Guard #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Paint #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "-Pole #",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Basic Enemy",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Boosts",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": " Boosts"
+ },
+ {
+  "en": "Boss",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Click Beast:",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": "Click Beast: "
+ },
+ {
+  "en": "Created",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": "Created "
+ },
+ {
+  "en": "Day:",
+  "donde": [
+   "MainMenuScreen",
+   "StartDayScreen"
+  ],
+  "en_exacto": "Day: "
+ },
+ {
+  "en": "Defeated!",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Destroy Main Menu Screen",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Killed",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": "Killed "
+ },
+ {
+  "en": "No Enemies Encountered",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "None Created Yet",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Other",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Page",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": "Page "
+ },
+ {
+  "en": "Setup Main Menu",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Time",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": " Time"
+ },
+ {
+  "en": "Times",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": " Times"
+ },
+ {
+  "en": "Weak to",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": "Weak to "
+ },
+ {
+  "en": "Weapon Designs",
+  "donde": [
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "for ALL soldiers!",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": " for ALL soldiers!"
+ },
+ {
+  "en": "for this weapon!",
+  "donde": [
+   "MainMenuScreen"
+  ],
+  "en_exacto": " for this weapon!"
+ },
+ {
+  "en": "Clicked paint",
+  "donde": [
+   "PaintStage"
+  ]
+ },
+ {
+  "en": "PAINT STAGE - BACK TO HUB!",
+  "donde": [
+   "PaintStage"
+  ]
+ },
+ {
+  "en": "Paint Stage: Done Transitioning Closed (",
+  "donde": [
+   "PaintStage"
+  ]
+ },
+ {
+  "en": "Paint Stage: Done Transitioning Open (",
+  "donde": [
+   "PaintStage"
+  ]
+ },
+ {
+  "en": "PaintStage: Handle Page Key:",
+  "donde": [
+   "PaintStage"
+  ],
+  "en_exacto": "PaintStage: Handle Page Key: "
+ },
+ {
+  "en": "PaintStage: Handle Wheel, Delta:",
+  "donde": [
+   "PaintStage"
+  ],
+  "en_exacto": "PaintStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "<B>You crafted",
+  "donde": [
+   "ScoreStage"
+  ],
+  "en_exacto": "<B>You crafted "
+ },
+ {
+  "en": "Epic Weapon Match!:",
+  "donde": [
+   "ScoreStage"
+  ],
+  "en_exacto": "Epic Weapon Match!: "
+ },
+ {
+  "en": "No matching Epic Weapon design.",
+  "donde": [
+   "ScoreStage"
+  ]
+ },
+ {
+  "en": "SCORE STAGE - BACK TO HUB!",
+  "donde": [
+   "ScoreStage"
+  ]
+ },
+ {
+  "en": "for ALL soldiers!</B>",
+  "donde": [
+   "ScoreStage"
+  ],
+  "en_exacto": " for ALL soldiers!</B>"
+ },
+ {
+  "en": "for this weapon!</B>",
+  "donde": [
+   "ScoreStage"
+  ],
+  "en_exacto": " for this weapon!</B>"
+ },
+ {
+  "en": ", Dist:",
+  "donde": [
+   "ShieldPart"
+  ],
+  "en_exacto": ", Dist: "
+ },
+ {
+  "en": "Release Part",
+  "donde": [
+   "ShieldPart"
+  ]
+ },
+ {
+  "en": "<b>Design",
+  "donde": [
+   "ShopScreen"
+  ],
+  "en_exacto": "<b>Design "
+ },
+ {
+  "en": "Disabled Button:",
+  "donde": [
+   "ShopScreen"
+  ],
+  "en_exacto": "Disabled Button: "
+ },
+ {
+  "en": "Enabled Button:",
+  "donde": [
+   "ShopScreen"
+  ],
+  "en_exacto": "Enabled Button: "
+ },
+ {
+  "en": "Setup Shop Screen!",
+  "donde": [
+   "ShopScreen"
+  ]
+ },
+ {
+  "en": "0-9A-Za-z '\\-",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "> Badges:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "> Badges: "
+ },
+ {
+  "en": "> Bestiary:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "> Bestiary: "
+ },
+ {
+  "en": "> Defeated Dudley:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "> Defeated Dudley: "
+ },
+ {
+  "en": "> Designs:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "> Designs: "
+ },
+ {
+  "en": "> Element Boosts:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "> Element Boosts: "
+ },
+ {
+  "en": "Badges:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Badges: "
+ },
+ {
+  "en": "Bestiary:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Bestiary: "
+ },
+ {
+  "en": "Choose a Slot",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Defeated Dudley",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Designs:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Designs: "
+ },
+ {
+  "en": "Enter Your Name",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Jacksmith",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Not Completed",
+  "donde": [
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Slot",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Slot "
+ },
+ {
+  "en": "Unknown slot to restore:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Unknown slot to restore: "
+ },
+ {
+  "en": "Weapon Boosts:",
+  "donde": [
+   "SlotSelectScreen"
+  ],
+  "en_exacto": "Weapon Boosts: "
+ },
+ {
+  "en": "- Left/Top:",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " - Left/Top: "
+ },
+ {
+  "en": "-- RERENDER AFTER INITIAL RENDER --",
+  "donde": [
+   "Soldier"
+  ]
+ },
+ {
+  "en": "-- Sprite Canvas Size:",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " -- Sprite Canvas Size: "
+ },
+ {
+  "en": "--- Sheet",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " --- Sheet "
+ },
+ {
+  "en": "--- Total Memory Used for All Sheets for Soldier",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " --- Total Memory Used for All Sheets for Soldier "
+ },
+ {
+  "en": "--- Total Memory Used for All Sheets:",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " --- Total Memory Used for All Sheets: "
+ },
+ {
+  "en": "---- Canvas Left/Top:",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": "---- Canvas Left/Top: "
+ },
+ {
+  "en": "---- doesn't have a soldier clip, skip it...",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " ---- doesn't have a soldier clip, skip it..."
+ },
+ {
+  "en": "---- has NOT finished blitting its original version yet. wait to redraw later...",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " ---- has NOT finished blitting its original version yet.  wait to redraw later..."
+ },
+ {
+  "en": "---- upscale already matches. skip it.",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " ---- upscale already matches.  skip it."
+ },
+ {
+  "en": "------------ Destroy Soldier",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": "------------ Destroy Soldier "
+ },
+ {
+  "en": "======== Re-render soldier",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": "========  Re-render soldier "
+ },
+ {
+  "en": "Bounds for",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": "Bounds for "
+ },
+ {
+  "en": "MB",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": " MB"
+ },
+ {
+  "en": "Sprite Blit for",
+  "donde": [
+   "Soldier"
+  ],
+  "en_exacto": "Sprite Blit for "
+ },
+ {
+  "en": "------------------- Destroy SoldierManager -----------------",
+  "donde": [
+   "SoldierManager"
+  ]
+ },
+ {
+  "en": ": Get",
+  "donde": [
+   "SoldierManager"
+  ],
+  "en_exacto": ": Get "
+ },
+ {
+  "en": ">> Rank",
+  "donde": [
+   "SoldierManager"
+  ],
+  "en_exacto": ">> Rank "
+ },
+ {
+  "en": ">> Soldier Lineup:",
+  "donde": [
+   "SoldierManager"
+  ],
+  "en_exacto": ">> Soldier Lineup: "
+ },
+ {
+  "en": "No more soldiers!",
+  "donde": [
+   "SoldierManager"
+  ]
+ },
+ {
+  "en": "Quicker Second Customer!",
+  "donde": [
+   "SoldierManager"
+  ]
+ },
+ {
+  "en": "Spawn Soldier!",
+  "donde": [
+   "SoldierManager"
+  ]
+ },
+ {
+  "en": "for each soldier",
+  "donde": [
+   "SoldierManager"
+  ],
+  "en_exacto": " for each soldier"
+ },
+ {
+  "en": "TARGET bottom-left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET bottom-right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET center",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-bottom",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-bottom-left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-bottom-right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-top",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-top-left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET inside-top-right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET top",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET top-left",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "TARGET top-right",
+  "donde": [
+   "SpikeData"
+  ]
+ },
+ {
+  "en": "SPIKE STAGE - BACK TO HUB!",
+  "donde": [
+   "SpikeStage"
+  ]
+ },
+ {
+  "en": "Ad Finished",
+  "donde": [
+   "StartDayPanel"
+  ]
+ },
+ {
+  "en": ". Start X =",
+  "donde": [
+   "StartDayScreen"
+  ],
+  "en_exacto": ". Start  X = "
+ },
+ {
+  "en": ". Target X =",
+  "donde": [
+   "StartDayScreen"
+  ],
+  "en_exacto": ". Target X = "
+ },
+ {
+  "en": "Current Points:",
+  "donde": [
+   "StartDayScreen"
+  ],
+  "en_exacto": "Current Points: "
+ },
+ {
+  "en": "Previous Point:",
+  "donde": [
+   "StartDayScreen"
+  ],
+  "en_exacto": "Previous Point: "
+ },
+ {
+  "en": "STOP SHOWING ENEMIES!",
+  "donde": [
+   "StartDayScreen"
+  ]
+ },
+ {
+  "en": "through",
+  "donde": [
+   "StartDayScreen"
+  ],
+  "en_exacto": " through "
+ },
+ {
+  "en": ") is not from when this was shown (",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "). Skip it.",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "- Deactivate Screen:",
+  "donde": [
+   "Station"
+  ],
+  "en_exacto": " - Deactivate Screen:"
+ },
+ {
+  "en": "Cleanup Stages:",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "FINISH WEAPON",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "Flag for Deletion:",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "Hide Back Button:",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "Set Weapon on GiveWeaponScreen:",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "Start Transition:",
+  "donde": [
+   "Station"
+  ]
+ },
+ {
+  "en": "Station",
+  "donde": [
+   "Station"
+  ],
+  "en_exacto": "Station "
+ },
+ {
+  "en": "Wanted to show training for",
+  "donde": [
+   "Station"
+  ],
+  "en_exacto": "Wanted to show training for "
+ },
+ {
+  "en": "again since it was missed, but your current Stage (",
+  "donde": [
+   "Station"
+  ],
+  "en_exacto": " again since it was missed, but your current Stage ("
+ },
+ {
+  "en": "ES",
+  "donde": [
+   "StringUtility"
+  ]
+ },
+ {
+  "en": "IES",
+  "donde": [
+   "StringUtility"
+  ]
+ },
+ {
+  "en": "Text not set up for this alignment:",
+  "donde": [
+   "StringUtility"
+  ],
+  "en_exacto": "Text not set up for this alignment: "
+ },
+ {
+  "en": "Position:",
+  "donde": [
+   "SwordHandlePart"
+  ],
+  "en_exacto": "Position: "
+ },
+ {
+  "en": "SWORD HANDLE STAGE - BACK TO HUB!",
+  "donde": [
+   "SwordHandleStage"
+  ]
+ },
+ {
+  "en": "SwordHandleStage: Handle Page Key:",
+  "donde": [
+   "SwordHandleStage"
+  ],
+  "en_exacto": "SwordHandleStage: Handle Page Key: "
+ },
+ {
+  "en": "SwordHandleStage: Handle Wheel, Delta:",
+  "donde": [
+   "SwordHandleStage"
+  ],
+  "en_exacto": "SwordHandleStage: Handle Wheel, Delta: "
+ },
+ {
+  "en": "Anonymous",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Apprentice",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Arms Painter",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Arrow Fletcher",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Axe Grinder",
+  "donde": [
+   "UserData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Axe Master",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Axesmith",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Battle Booster",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Bestiary Completion:",
+  "donde": [
+   "UserData"
+  ],
+  "en_exacto": "Bestiary Completion: "
+ },
+ {
+  "en": "Bombardier",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Bowstringer",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Cannon Master",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Cannoneer",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Chargebomber",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Data Saved.",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Defenseman",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Defroster",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Falchion",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Forest Trekker",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Gladius",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Journeyman",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Lightsmith",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Load from Existing Slot",
+  "donde": [
+   "UserData"
+  ],
+  "en_exacto": "Load from Existing Slot "
+ },
+ {
+  "en": "Longsword",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Mace Master",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Master Swordsman",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Master of Blades",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Monster Slayer",
+  "donde": [
+   "UserData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Moonblade",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Negative amount of metal",
+  "donde": [
+   "UserData"
+  ],
+  "en_exacto": "Negative amount of metal "
+ },
+ {
+  "en": "Newbie",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "No Existing Slot, Create New",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Party Healer",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Pike Pro",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Polearm Pro",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Save Slot Created - Data Saved.",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Shadow Boxer",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Sheepshearer",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Shield Champion",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Smith",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Spetum",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Stonemason",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Swordsmith",
+  "donde": [
+   "UserData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Trainee",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "Trident",
+  "donde": [
+   "UserData",
+   "WeaponData",
+   "ChallengeManager"
+  ]
+ },
+ {
+  "en": "Wind Warrior",
+  "donde": [
+   "UserData"
+  ]
+ },
+ {
+  "en": "after deducting",
+  "donde": [
+   "UserData"
+  ],
+  "en_exacto": " after deducting "
+ },
+ {
+  "en": "out of",
+  "donde": [
+   "UserData"
+  ],
+  "en_exacto": " out of "
+ },
+ {
+  "en": "% Scoring =",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": "% Scoring = "
+ },
+ {
+  "en": "-- Max Durability for this weapon:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": " -- Max Durability for this weapon: "
+ },
+ {
+  "en": "-- Max Power for this weapon:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": " -- Max Power for this weapon: "
+ },
+ {
+  "en": "--- DESTROY WEAPON (",
+  "donde": [
+   "Weapon"
+  ]
+ },
+ {
+  "en": ". Revised Durability:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": ". Revised Durability: "
+ },
+ {
+  "en": ". Revised Power:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": ". Revised Power: "
+ },
+ {
+  "en": "Actual Durability for this weapon with add-ons:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": "Actual Durability for this weapon with add-ons: "
+ },
+ {
+  "en": "Actual Power for this weapon with add-ons:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": "Actual Power for this weapon with add-ons: "
+ },
+ {
+  "en": "MC",
+  "donde": [
+   "Weapon",
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Pouring Excess:",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": "Pouring Excess: "
+ },
+ {
+  "en": "Restored",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": "Restored "
+ },
+ {
+  "en": "SCRAP THE WEAPON",
+  "donde": [
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Weapon Construction: ------------",
+  "donde": [
+   "Weapon"
+  ]
+ },
+ {
+  "en": "of",
+  "donde": [
+   "Weapon"
+  ],
+  "en_exacto": " of "
+ },
+ {
+  "en": ", usableParts.length =",
+  "donde": [
+   "WeaponData"
+  ],
+  "en_exacto": ", usableParts.length = "
+ },
+ {
+  "en": "Atlantax",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Barbarian",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Battleaxe",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Bludgeoner",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Bow of Spades",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Bushwhacker",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Chainjabber",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Charmblade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Cinder Axe",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Clovershield",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Crystal Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Darkheart",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Deathspear",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Direblade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Dragonfire",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Durablade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Duskbreaker",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Earthcrusher",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Electrice",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Fire Rod",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Firebringer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Firefletched Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Forest Pike",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Forester Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Frostcrusher",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Frozen Arrow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Healthhammer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Heatshield",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Icecleaver",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Icehammer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Icicle",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Jolly Roger",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Leafcutter",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Lightning Rod",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Luckbeater",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Luckbringer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Lucky Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Lucky Pike",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Magician's Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Mapleguard",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Mariner",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Monsterbane",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Morningstar",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Nightpike",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Oceanhammer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Oscillator",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Parts sorted at top:",
+  "donde": [
+   "WeaponData"
+  ],
+  "en_exacto": "Parts sorted at top: "
+ },
+ {
+  "en": "Patchwork Pike",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Peacebringer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Poseidon Bow",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Poseidon's Pike",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Power Prod",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Pulverizer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Quarryquiver",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Scorcher",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Seasword",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Shadowslayer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Shadowsmasher",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Shadowstrung",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Shadowsword",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Shockshearer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Snowshield",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Spade Defense",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Starsword",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stonebuckler",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stonecutter",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stonepiercer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stonesbane",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stonespear",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stormblade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stormcrest",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stormstrung",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Stoutspear",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Strongsword",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Sunshield",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Swampshooter",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Teslablade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Thor Hammer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Vinesmasher",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Waterblade",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Whirlwind",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Windslayer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Windspire",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Windwailer",
+  "donde": [
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Added weapon to manager.",
+  "donde": [
+   "WeaponManager"
+  ]
+ },
+ {
+  "en": "WindowEvent",
+  "donde": [
+   "WindowEvent"
+  ]
+ },
+ {
+  "en": ") > than Screen Bounds Height (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ") > than Screen Bounds Width (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ") is >= Window Height (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ") is >= Window Width (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ") is not >= Window Height (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ") is not >= Window Width (",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "). Center it at",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": "). Center it at "
+ },
+ {
+  "en": "). Reduce the Window Size.",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": ", Size=",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "Jumbo Classic",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "Jumbo Widescreen",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "Large Classic",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "Small Classic",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "WindowSettings",
+  "donde": [
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "instead.",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": " instead."
+ },
+ {
+  "en": "is too small of a ratio, switch to",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": " is too small of a ratio, switch to "
+ },
+ {
+  "en": "is too wide of a ratio, switch to",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": " is too wide of a ratio, switch to "
+ },
+ {
+  "en": "too wide, screen width of",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": " too wide, screen width of "
+ },
+ {
+  "en": "too wide, switch to screen width of",
+  "donde": [
+   "WindowUtility"
+  ],
+  "en_exacto": " too wide, switch to screen width of "
+ },
+ {
+  "en": "No Soldiers can\nuse this weapon!",
+  "donde": [
+   "campo 1066"
+  ]
+ },
+ {
+  "en": "EPIC WEAPON!",
+  "donde": [
+   "campo 1071",
+   "campo 1073"
+  ]
+ },
+ {
+  "en": "+ 999 For all soldiers!",
+  "donde": [
+   "campo 1072"
+  ]
+ },
+ {
+  "en": "You crafted the EpicswordNameGoesHereBringer!",
+  "donde": [
+   "campo 1076"
+  ]
+ },
+ {
+  "en": "Finish",
+  "donde": [
+   "campo 1086"
+  ]
+ },
+ {
+  "en": "Swings\nLeft",
+  "donde": [
+   "campo 1313"
+  ]
+ },
+ {
+  "en": "THIS FILE CANNOT RUN\nIN FLASH PLAYER!",
+  "donde": [
+   "campo 1455",
+   "campo 1456"
+  ]
+ },
+ {
+  "en": "You must launch normally\nfrom the installed program\nto play the game.",
+  "donde": [
+   "campo 1457"
+  ]
+ },
+ {
+  "en": "Empty Slot",
+  "donde": [
+   "campo 1496",
+   "campo 1534",
+   "SlotSelectScreen"
+  ]
+ },
+ {
+  "en": "Time:",
+  "donde": [
+   "campo 1500"
+  ]
+ },
+ {
+  "en": "Mad Crafter",
+  "donde": [
+   "campo 1503",
+   "UserData"
+  ]
+ },
+ {
+  "en": "New Game",
+  "donde": [
+   "campo 1507"
+  ]
+ },
+ {
+  "en": "Select",
+  "donde": [
+   "campo 1511"
+  ]
+ },
+ {
+  "en": "Save a Backup",
+  "donde": [
+   "campo 1541",
+   "campo 1544",
+   "campo 1546"
+  ]
+ },
+ {
+  "en": "Load Backup",
+  "donde": [
+   "campo 1549",
+   "campo 1551",
+   "campo 1553"
+  ]
+ },
+ {
+  "en": "Are you sure\nyou want to\nerase this game?",
+  "donde": [
+   "campo 1557"
+  ]
+ },
+ {
+  "en": "Cancel",
+  "donde": [
+   "campo 1560",
+   "campo 6472"
+  ]
+ },
+ {
+  "en": "Erase Game",
+  "donde": [
+   "campo 1562"
+  ]
+ },
+ {
+  "en": "Restore Backup?",
+  "donde": [
+   "campo 1565"
+  ]
+ },
+ {
+  "en": "Your save slot is\nempty, but a backup\nfrom a previous save\nis available.",
+  "donde": [
+   "campo 1566"
+  ]
+ },
+ {
+  "en": "No",
+  "donde": [
+   "campo 1567"
+  ]
+ },
+ {
+  "en": "Yes",
+  "donde": [
+   "campo 1569",
+   "campo 3260"
+  ]
+ },
+ {
+  "en": "Continue",
+  "donde": [
+   "campo 1579"
+  ]
+ },
+ {
+  "en": "Name Here",
+  "donde": [
+   "campo 1583"
+  ]
+ },
+ {
+  "en": "Enter your name below:",
+  "donde": [
+   "campo 1584"
+  ]
+ },
+ {
+  "en": "What happened to my saved games? Click here for help.",
+  "donde": [
+   "campo 1588"
+  ]
+ },
+ {
+  "en": "Choose Save Slot",
+  "donde": [
+   "campo 1595"
+  ]
+ },
+ {
+  "en": "ONE MOMENT...",
+  "donde": [
+   "campo 1945"
+  ]
+ },
+ {
+  "en": "TIME BONUS",
+  "donde": [
+   "campo 2255"
+  ]
+ },
+ {
+  "en": "Version 1.0.0",
+  "donde": [
+   "campo 2583"
+  ]
+ },
+ {
+  "en": "DEVELOPED BY:",
+  "donde": [
+   "campo 2584"
+  ]
+ },
+ {
+  "en": "Music",
+  "donde": [
+   "campo 2586",
+   "campo 6051"
+  ]
+ },
+ {
+  "en": "Sound FX",
+  "donde": [
+   "campo 2600",
+   "campo 6049"
+  ]
+ },
+ {
+  "en": "Volume:",
+  "donde": [
+   "campo 2607"
+  ]
+ },
+ {
+  "en": "Full Screen:",
+  "donde": [
+   "campo 2608"
+  ]
+ },
+ {
+  "en": "Window Size:",
+  "donde": [
+   "campo 2609"
+  ]
+ },
+ {
+  "en": "Graphics Quality:",
+  "donde": [
+   "campo 2610"
+  ]
+ },
+ {
+  "en": "Quit App",
+  "donde": [
+   "campo 2624"
+  ]
+ },
+ {
+  "en": "Are you sure you want to\nquit the app?",
+  "donde": [
+   "campo 2633"
+  ]
+ },
+ {
+  "en": "Purchase",
+  "donde": [
+   "campo 2725"
+  ]
+ },
+ {
+  "en": "Too Much",
+  "donde": [
+   "campo 2729"
+  ]
+ },
+ {
+  "en": "Purchased!",
+  "donde": [
+   "campo 2732"
+  ]
+ },
+ {
+  "en": "Out of Stock!",
+  "donde": [
+   "campo 2737"
+  ]
+ },
+ {
+  "en": "Check back later!",
+  "donde": [
+   "campo 2738",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Enemies Today:",
+  "donde": [
+   "campo 2743"
+  ]
+ },
+ {
+  "en": "Leave Shop",
+  "donde": [
+   "campo 2747"
+  ]
+ },
+ {
+  "en": "Arrows",
+  "donde": [
+   "campo 2749",
+   "campo 5916",
+   "campo 5918",
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Grips",
+  "donde": [
+   "campo 2753",
+   "campo 5924",
+   "campo 5926"
+  ]
+ },
+ {
+  "en": "Poles",
+  "donde": [
+   "campo 2755",
+   "campo 5928",
+   "campo 5930"
+  ]
+ },
+ {
+  "en": "Guards",
+  "donde": [
+   "campo 2757",
+   "campo 5932",
+   "campo 5934"
+  ]
+ },
+ {
+  "en": "Caps",
+  "donde": [
+   "campo 2759",
+   "campo 5936",
+   "campo 5938"
+  ]
+ },
+ {
+  "en": "Ores",
+  "donde": [
+   "campo 2761"
+  ]
+ },
+ {
+  "en": "Spike\nDesign",
+  "donde": [
+   "campo 2986"
+  ]
+ },
+ {
+  "en": "Blunderbuster",
+  "donde": [
+   "campo 3224"
+  ]
+ },
+ {
+  "en": "Description of the badge goes here with more text in here and more and more.",
+  "donde": [
+   "campo 3225"
+  ]
+ },
+ {
+  "en": "Click to visit\nGander's shop!",
+  "donde": [
+   "campo 3246"
+  ]
+ },
+ {
+  "en": "OVER HERE!",
+  "donde": [
+   "campo 3248"
+  ]
+ },
+ {
+  "en": "Any metals and parts you used will be\nsalvaged and returned to your inventory.",
+  "donde": [
+   "campo 3263"
+  ]
+ },
+ {
+  "en": "Are you sure you want\nto scrap this weapon?",
+  "donde": [
+   "campo 3264",
+   "campo 3265"
+  ]
+ },
+ {
+  "en": "Copper",
+  "donde": [
+   "campo 3305",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Bronze",
+  "donde": [
+   "campo 3306",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Iron",
+  "donde": [
+   "campo 3307",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Steel",
+  "donde": [
+   "campo 3308",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Gold",
+  "donde": [
+   "campo 3309",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "Crystal",
+  "donde": [
+   "campo 3310",
+   "WeaponData",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "SELECT METAL",
+  "donde": [
+   "campo 3320"
+  ]
+ },
+ {
+  "en": "PAINT",
+  "donde": [
+   "campo 3472"
+  ]
+ },
+ {
+  "en": "Construction",
+  "donde": [
+   "campo 3513",
+   "ChallengeManager",
+   "Weapon"
+  ]
+ },
+ {
+  "en": "Weapon Type Name",
+  "donde": [
+   "campo 3545",
+   "campo 4979"
+  ]
+ },
+ {
+  "en": "More",
+  "donde": [
+   "campo 3580"
+  ]
+ },
+ {
+  "en": "Press D to view Weapon Designs",
+  "donde": [
+   "campo 360"
+  ]
+ },
+ {
+  "en": "Day: 9999",
+  "donde": [
+   "campo 3776"
+  ]
+ },
+ {
+  "en": "Wormwood Hollow",
+  "donde": [
+   "campo 3777",
+   "GameData"
+  ]
+ },
+ {
+  "en": "I've got some items\nin stock if you need\nto buy anything!",
+  "donde": [
+   "campo 3830"
+  ]
+ },
+ {
+  "en": "Hello there!",
+  "donde": [
+   "campo 3831"
+  ]
+ },
+ {
+  "en": "Small Widescreen",
+  "donde": [
+   "campo 4071",
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "Armorpiercer",
+  "donde": [
+   "campo 4138",
+   "WeaponData"
+  ]
+ },
+ {
+  "en": "eet Jacksmith, a very talented Blacksmith,\nand his furry apprentice, Scout.",
+  "donde": [
+   "campo 4226"
+  ]
+ },
+ {
+  "en": "#XX-99",
+  "donde": [
+   "campo 423",
+   "campo 2723"
+  ]
+ },
+ {
+  "en": "Jacksmith enjoyed his job, but horseshoes and hinges\nweren't paying the bills.",
+  "donde": [
+   "campo 4255"
+  ]
+ },
+ {
+  "en": ".\nAcross the Lowlands lived the Royal Plumpfeather family.",
+  "donde": [
+   "campo 4263"
+  ]
+ },
+ {
+  "en": "King Plumpfeather and his wife Hildread\nhave ruled over the land for many years.",
+  "donde": [
+   "campo 4268"
+  ]
+ },
+ {
+  "en": "Beyond Alpine Ridge lived a lonely wizard named Dudley.",
+  "donde": [
+   "campo 4276"
+  ]
+ },
+ {
+  "en": "He was obsessed with the King's beautiful daughter Liliana.",
+  "donde": [
+   "campo 4281"
+  ]
+ },
+ {
+  "en": "Using his powerful Phoenix Staff and a barrage of\nElemental Spells, Dudley kidnapped Liliana and\namassed an army of vile creatures.",
+  "donde": [
+   "campo 4286"
+  ]
+ },
+ {
+  "en": "WeaponName",
+  "donde": [
+   "campo 429"
+  ]
+ },
+ {
+  "en": "The King set a reward for any brave soul\nwho could save his daughter.",
+  "donde": [
+   "campo 4296"
+  ]
+ },
+ {
+  "en": "Jacksmith, who desperately needed the money, packed up\nthe Forge and hit the road to save Princess Liliana.",
+  "donde": [
+   "campo 4303"
+  ]
+ },
+ {
+  "en": "Jacksmith could craft a flawless weapon,\nbut using one is not his specialty.\nHe's going to need some help...",
+  "donde": [
+   "campo 4311"
+  ]
+ },
+ {
+  "en": "Scrap",
+  "donde": [
+   "campo 456"
+  ]
+ },
+ {
+  "en": "Play",
+  "donde": [
+   "campo 4712"
+  ]
+ },
+ {
+  "en": "Flipline IDS LLC",
+  "donde": [
+   "campo 4732"
+  ]
+ },
+ {
+  "en": "Later at Plumpfeather Castle...",
+  "donde": [
+   "campo 4764"
+  ]
+ },
+ {
+  "en": "Jacksmith, you have\nproven yourself to be\na very talented and\nbrave Donkey.",
+  "donde": [
+   "campo 4771"
+  ]
+ },
+ {
+  "en": "My family is sincerely\nthankful for your hand\nin bringing Princess\nLiliana back to\nPlumpfeather Castle.",
+  "donde": [
+   "campo 4782"
+  ]
+ },
+ {
+  "en": "Along with your cash reward,\nwe also bestow onto you a\nmost prized possession...",
+  "donde": [
+   "campo 4795"
+  ]
+ },
+ {
+  "en": "...a single kiss\nfrom the beautiful\nPrincess Liliana.",
+  "donde": [
+   "campo 4801"
+  ]
+ },
+ {
+  "en": "Tee Hee...My Hero!!!",
+  "donde": [
+   "campo 4811"
+  ]
+ },
+ {
+  "en": "Your mission is complete,\nbut your journey has just begun.\nMore adventure and fortune await\nas you travel down the road.",
+  "donde": [
+   "campo 4829"
+  ]
+ },
+ {
+  "en": "Choose a Design from the list.",
+  "donde": [
+   "campo 4949",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You have collected",
+  "donde": [
+   "campo 4951"
+  ]
+ },
+ {
+  "en": "on the trail during battles!",
+  "donde": [
+   "campo 4952"
+  ]
+ },
+ {
+  "en": "Check back later after a battle!",
+  "donde": [
+   "campo 4955"
+  ]
+ },
+ {
+  "en": "You will collect",
+  "donde": [
+   "campo 4956"
+  ]
+ },
+ {
+  "en": "EpicWeaponName",
+  "donde": [
+   "campo 4983"
+  ]
+ },
+ {
+  "en": "MORE",
+  "donde": [
+   "campo 5237"
+  ]
+ },
+ {
+  "en": "Return",
+  "donde": [
+   "campo 5245"
+  ]
+ },
+ {
+  "en": "Don't forget about me,\nJacksmith! I've always\ngot new items in\nstock!",
+  "donde": [
+   "campo 5319"
+  ]
+ },
+ {
+  "en": "YOOHOO!",
+  "donde": [
+   "campo 5320"
+  ]
+ },
+ {
+  "en": "Total XP:",
+  "donde": [
+   "campo 5397",
+   "campo 5422",
+   "campo 5904"
+  ]
+ },
+ {
+  "en": "Today's XP:",
+  "donde": [
+   "campo 5398",
+   "campo 5423",
+   "campo 5905"
+  ]
+ },
+ {
+  "en": "End of Day 999",
+  "donde": [
+   "campo 5399"
+  ]
+ },
+ {
+  "en": "Spike Sharpener",
+  "donde": [
+   "campo 5401",
+   "UserData"
+  ]
+ },
+ {
+  "en": "200 XP to Next Level",
+  "donde": [
+   "campo 5407"
+  ]
+ },
+ {
+  "en": "You Found",
+  "donde": [
+   "campo 5439"
+  ]
+ },
+ {
+  "en": "Skip Training?",
+  "donde": [
+   "campo 5560",
+   "campo 5561"
+  ]
+ },
+ {
+  "en": "Shadow Dragon",
+  "donde": [
+   "campo 5629",
+   "EnemyData"
+  ]
+ },
+ {
+  "en": "New Enemy Approaching",
+  "donde": [
+   "campo 5630"
+  ]
+ },
+ {
+  "en": "New Cannonball",
+  "donde": [
+   "campo 5655"
+  ]
+ },
+ {
+  "en": "Badges Earned:",
+  "donde": [
+   "campo 5890"
+  ]
+ },
+ {
+  "en": "Page 99/99",
+  "donde": [
+   "campo 5941",
+   "campo 5999"
+  ]
+ },
+ {
+  "en": "Created 99 times",
+  "donde": [
+   "campo 5953"
+  ]
+ },
+ {
+  "en": "-Gold Trident",
+  "donde": [
+   "campo 5954"
+  ]
+ },
+ {
+  "en": "+99 for all soldiers!",
+  "donde": [
+   "campo 5955"
+  ]
+ },
+ {
+  "en": "-Grip #G999",
+  "donde": [
+   "campo 5956"
+  ]
+ },
+ {
+  "en": "-Pole #P999",
+  "donde": [
+   "campo 5957",
+   "campo 5958"
+  ]
+ },
+ {
+  "en": "-Cap #C999",
+  "donde": [
+   "campo 5959"
+  ]
+ },
+ {
+  "en": "Epic Weapon Something",
+  "donde": [
+   "campo 5960",
+   "campo 6012"
+  ]
+ },
+ {
+  "en": "SW-01",
+  "donde": [
+   "campo 5968"
+  ]
+ },
+ {
+  "en": "Epic Weapon Name",
+  "donde": [
+   "campo 5969"
+  ]
+ },
+ {
+  "en": "Bookmark Parts",
+  "donde": [
+   "campo 5978"
+  ]
+ },
+ {
+  "en": "Remove",
+  "donde": [
+   "campo 5983"
+  ]
+ },
+ {
+  "en": "PARTS\nMARKED",
+  "donde": [
+   "campo 5984"
+  ]
+ },
+ {
+  "en": "You have all of the parts!",
+  "donde": [
+   "campo 5987"
+  ]
+ },
+ {
+  "en": "Killed 99 times",
+  "donde": [
+   "campo 5994"
+  ]
+ },
+ {
+  "en": "Weak to Fire Boosts",
+  "donde": [
+   "campo 5995"
+  ]
+ },
+ {
+  "en": "Frosted DirewolfScreechlingArachnip.",
+  "donde": [
+   "campo 5996"
+  ]
+ },
+ {
+  "en": "100% complete",
+  "donde": [
+   "campo 6000"
+  ]
+ },
+ {
+  "en": "Basics:",
+  "donde": [
+   "campo 6009"
+  ]
+ },
+ {
+  "en": "Crafting:",
+  "donde": [
+   "campo 6014"
+  ]
+ },
+ {
+  "en": "Elements:",
+  "donde": [
+   "campo 6015"
+  ]
+ },
+ {
+  "en": "Battle:",
+  "donde": [
+   "campo 6016"
+  ]
+ },
+ {
+  "en": "Epic Weapons:",
+  "donde": [
+   "campo 6017"
+  ]
+ },
+ {
+  "en": "Other Features:",
+  "donde": [
+   "campo 6018"
+  ]
+ },
+ {
+  "en": "Designed and Developed by Flipline Studios",
+  "donde": [
+   "campo 6039"
+  ]
+ },
+ {
+  "en": "Game Design, Programming,\nAnimation, Music and Sound",
+  "donde": [
+   "campo 6040"
+  ]
+ },
+ {
+  "en": "Game Design, Art, Animation,\nand Character Design",
+  "donde": [
+   "campo 6041"
+  ]
+ },
+ {
+  "en": "Tony Solary",
+  "donde": [
+   "campo 6042"
+  ]
+ },
+ {
+  "en": "Matt Neff",
+  "donde": [
+   "campo 6043"
+  ]
+ },
+ {
+  "en": "Game and Characters © 2012 - 2025 Flipline Studios. All Rights Reserved.",
+  "donde": [
+   "campo 6044"
+  ]
+ },
+ {
+  "en": "Screen Shake",
+  "donde": [
+   "campo 6055"
+  ]
+ },
+ {
+  "en": "WHEN HAMMERING",
+  "donde": [
+   "campo 6056"
+  ]
+ },
+ {
+  "en": "Forge Chain",
+  "donde": [
+   "campo 6058"
+  ]
+ },
+ {
+  "en": "EASY-TO-DRAG",
+  "donde": [
+   "campo 6059"
+  ]
+ },
+ {
+  "en": "Back to Game",
+  "donde": [
+   "campo 6062"
+  ]
+ },
+ {
+  "en": "Info",
+  "donde": [
+   "campo 6064",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Inventory",
+  "donde": [
+   "campo 6066",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Designs",
+  "donde": [
+   "campo 6068"
+  ]
+ },
+ {
+  "en": "Bestiary",
+  "donde": [
+   "campo 6070",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Badges",
+  "donde": [
+   "campo 6072",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Help",
+  "donde": [
+   "campo 6074",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Settings",
+  "donde": [
+   "campo 6076",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Are you sure you want\nto Quit?",
+  "donde": [
+   "campo 6080",
+   "campo 6082"
+  ]
+ },
+ {
+  "en": "Any progress you've made since the start\nof this crafting day will be lost!",
+  "donde": [
+   "campo 6081"
+  ]
+ },
+ {
+  "en": "You've called the local soldiers\nto your cause!",
+  "donde": [
+   "campo 6157"
+  ]
+ },
+ {
+  "en": "Click to take a weapon order.",
+  "donde": [
+   "campo 6158"
+  ]
+ },
+ {
+  "en": "This pig is a swordsman.",
+  "donde": [
+   "campo 6166"
+  ]
+ },
+ {
+  "en": "You'll need to craft him a sword.",
+  "donde": [
+   "campo 6167"
+  ]
+ },
+ {
+  "en": "You have four Crafting Stations in your workshop.",
+  "donde": [
+   "campo 6168"
+  ]
+ },
+ {
+  "en": "First choose this station to use.",
+  "donde": [
+   "campo 6169"
+  ]
+ },
+ {
+  "en": "You can only crafts swords right now.\n\nClick the icon to start building!",
+  "donde": [
+   "campo 6170"
+  ]
+ },
+ {
+  "en": "Click this mold to create a longsword.",
+  "donde": [
+   "campo 6171"
+  ]
+ },
+ {
+  "en": "You'll earn molds for other swords as you travel.",
+  "donde": [
+   "campo 6172"
+  ]
+ },
+ {
+  "en": "You first need to choose a metal.\n\nYou'll earn metal ores to use later,\nbut right now you have an unlimited\nsupply of copper to use.",
+  "donde": [
+   "campo 6174"
+  ]
+ },
+ {
+  "en": "Wait for the copper to melt!\n\nYou can also pump the bellows to make\nthe metal melt faster.",
+  "donde": [
+   "campo 6175"
+  ]
+ },
+ {
+  "en": "The metal is ready! Slowly pull the chain downwards to pour into the sword mold.",
+  "donde": [
+   "campo 6176"
+  ]
+ },
+ {
+  "en": "If you pull too fast, the metal will spill\nand your sword won't form correctly!",
+  "donde": [
+   "campo 6177"
+  ]
+ },
+ {
+  "en": "You need to hammer a sword to sharpen its edges. Click along the edges of the sword to hammer.",
+  "donde": [
+   "campo 6179"
+  ]
+ },
+ {
+  "en": "You can only swing the hammer 18 times, so try to space your hammering to make it all the way around the sword blade!",
+  "donde": [
+   "campo 6180"
+  ]
+ },
+ {
+  "en": "You build the handle of a sword by dropping parts onto it. First drag and release a Guard onto the sword's end.",
+  "donde": [
+   "campo 6183"
+  ]
+ },
+ {
+  "en": "Next drop a Grip onto the sword. Try to line up the parts correctly to make the sword more durable.",
+  "donde": [
+   "campo 6184"
+  ]
+ },
+ {
+  "en": "Next drop a Cap onto the sword to finish the hilt.",
+  "donde": [
+   "campo 6185"
+  ]
+ },
+ {
+  "en": "Click Finish to deliver this sword to a waiting swordsman!",
+  "donde": [
+   "campo 6186"
+  ]
+ },
+ {
+  "en": "You can see how well you crafted\nthe sword here.",
+  "donde": [
+   "campo 6190"
+  ]
+ },
+ {
+  "en": "You'll wait for three soldiers today.\nTake this soldier's order, and start\nbuilding another sword!",
+  "donde": [
+   "campo 6191"
+  ]
+ },
+ {
+  "en": "Power = How much damage it deals",
+  "donde": [
+   "campo 6193"
+  ]
+ },
+ {
+  "en": "Durability =",
+  "donde": [
+   "campo 6194"
+  ]
+ },
+ {
+  "en": "Better metals will create weapons\nwith more power and durability.",
+  "donde": [
+   "campo 6195"
+  ]
+ },
+ {
+  "en": "How long it lasts\nbefore breaking",
+  "donde": [
+   "campo 6196"
+  ]
+ },
+ {
+  "en": "If you hammer poorly, the swordwon't have as much Power in battle.",
+  "donde": [
+   "campo 6197"
+  ]
+ },
+ {
+  "en": "Hammer evenly around the edges to get\nthe maximum power for the sword.",
+  "donde": [
+   "campo 6198"
+  ]
+ },
+ {
+  "en": "If you build the handle crooked,your sword won't have as muchDurability in battle.",
+  "donde": [
+   "campo 6199"
+  ]
+ },
+ {
+  "en": "Craft one more sword,\nthen it's time to go to battle!",
+  "donde": [
+   "campo 6200"
+  ]
+ },
+ {
+  "en": "Time is money!",
+  "donde": [
+   "campo 6201"
+  ]
+ },
+ {
+  "en": "If you complete the day's weapons quickly,any time remaining on your Bonus Meterwill reward you with Gems!",
+  "donde": [
+   "campo 6202"
+  ]
+ },
+ {
+  "en": "The soldiers are going to battle using your weapons!",
+  "donde": [
+   "campo 6203"
+  ]
+ },
+ {
+  "en": "How well you built the weapons determines how well\nthey'll perform in battle!",
+  "donde": [
+   "campo 6204"
+  ]
+ },
+ {
+  "en": "Monsters will drop Loot when attacked.",
+  "donde": [
+   "campo 6205"
+  ]
+ },
+ {
+  "en": "Move your Mouse over the dropped items\nto collect them!",
+  "donde": [
+   "campo 6206"
+  ]
+ },
+ {
+  "en": "You'll earn Experience Points (XP) whena monster is defeated, and they spray extraloot further down the trail!",
+  "donde": [
+   "campo 6207"
+  ]
+ },
+ {
+  "en": "Be sure to collect it!",
+  "donde": [
+   "campo 6208"
+  ]
+ },
+ {
+  "en": "Each weapon's Durability decreases whenit's used, and when a monster attacks.",
+  "donde": [
+   "campo 6209"
+  ]
+ },
+ {
+  "en": "When its durability reaches zero, the weaponwill break and that soldier will retreat!",
+  "donde": [
+   "campo 6210"
+  ]
+ },
+ {
+  "en": "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!",
+  "donde": [
+   "campo 6211"
+  ]
+ },
+ {
+  "en": "You can now craft Bows!",
+  "donde": [
+   "campo 6212"
+  ]
+ },
+ {
+  "en": "You can now craft Axes!",
+  "donde": [
+   "campo 6213"
+  ]
+ },
+ {
+  "en": "You can now craft Shields!",
+  "donde": [
+   "campo 6214"
+  ]
+ },
+ {
+  "en": "You can now craft Pikes!",
+  "donde": [
+   "campo 6215"
+  ]
+ },
+ {
+  "en": "You can now craft Maces!",
+  "donde": [
+   "campo 6216"
+  ]
+ },
+ {
+  "en": "You've collected enough ore to craft aBronze Weapon!",
+  "donde": [
+   "campo 6217"
+  ]
+ },
+ {
+  "en": "It's even stronger than Copper, but you\nhave a limited supply of Bronze Ore.",
+  "donde": [
+   "campo 6218"
+  ]
+ },
+ {
+  "en": "You can use the loot you've collected\nfor new weapons!",
+  "donde": [
+   "campo 6219"
+  ]
+ },
+ {
+  "en": "You have a limited supply, but they give\nextra stat boosts to your weapons.",
+  "donde": [
+   "campo 6220"
+  ]
+ },
+ {
+  "en": "Swordsmen can use any type of sword, so choose whicheverone has the best Elemental Boosts for today's enemies.",
+  "donde": [
+   "campo 6221"
+  ]
+ },
+ {
+  "en": "Each weapon type has its own elemental boost.Longswords deal extra Fire Damage to Fire Enemies,which will help with today's monsters!",
+  "donde": [
+   "campo 6222"
+  ]
+ },
+ {
+  "en": "You'll start seeing Fire Enemies todayin Cinder Springs!",
+  "donde": [
+   "campo 6223"
+  ]
+ },
+ {
+  "en": "These are stronger elemental enemies, but some\nweapons and parts will help with different elements...",
+  "donde": [
+   "campo 6224"
+  ]
+ },
+ {
+  "en": "You'll now see Water Enemies as well asFire Enemies.",
+  "donde": [
+   "campo 6228"
+  ]
+ },
+ {
+  "en": "Visit the Shop to stock up on parts that have\nWater Elemental Boosts to help fight these enemies!",
+  "donde": [
+   "campo 6229"
+  ]
+ },
+ {
+  "en": "You can now help your troops by\nfiring cannonballs!",
+  "donde": [
+   "campo 6230"
+  ]
+ },
+ {
+  "en": "Click the Button to fire a cannonball\nat a monster.",
+  "donde": [
+   "campo 6231"
+  ]
+ },
+ {
+  "en": "You need to wait for your cannonball\nto recharge before you can fire again.",
+  "donde": [
+   "campo 6233"
+  ]
+ },
+ {
+  "en": "You now have two types of cannonballs!",
+  "donde": [
+   "campo 6235"
+  ]
+ },
+ {
+  "en": "Click here to shoot a Fire Bomb ata monster, which deals extra damage over time.",
+  "donde": [
+   "campo 6236"
+  ]
+ },
+ {
+  "en": "Click here to drop a Repair Pack onyour troops, which restores some durabilityto all weapons!",
+  "donde": [
+   "campo 6237"
+  ]
+ },
+ {
+  "en": "Click here to drop a Lightning Bomb on enemies, which lowers their attack strength!",
+  "donde": [
+   "campo 6238"
+  ]
+ },
+ {
+  "en": "Click here to drop a Booster Bomb, which boosts all of your weapons' attack powerfor a limited time!",
+  "donde": [
+   "campo 6239"
+  ]
+ },
+ {
+  "en": "Click here to drop an Ice Bomb, which freezes an enemy and prevents themfrom attacking for a limited time!",
+  "donde": [
+   "campo 6240"
+  ]
+ },
+ {
+  "en": "You won't always defeat all of the\nmonsters on a trail.",
+  "donde": [
+   "campo 6241"
+  ]
+ },
+ {
+  "en": "Keep building better weapons\nto keep making progress!",
+  "donde": [
+   "campo 6242"
+  ]
+ },
+ {
+  "en": "You can Scrap a weapon at any time during crafting,which will destroy that weapon and restore allmetal and parts to your inventory.",
+  "donde": [
+   "campo 6243"
+  ]
+ },
+ {
+  "en": "Drag both arms of the bow upwards to stretch the string.\nTry to make it straight to earn the maximum Power for a Bow.",
+  "donde": [
+   "campo 6244"
+  ]
+ },
+ {
+  "en": "You need to Stretch this Bow.",
+  "donde": [
+   "campo 6245"
+  ]
+ },
+ {
+  "en": "Drag one of your Grips onto the middle of the Bow.",
+  "donde": [
+   "campo 6246"
+  ]
+ },
+ {
+  "en": "First drag an Arrowhead onto the arrow shaft.",
+  "donde": [
+   "campo 6247"
+  ]
+ },
+ {
+  "en": "Line it up with arrow shaft\nto get maximum Durability!",
+  "donde": [
+   "campo 6248"
+  ]
+ },
+ {
+  "en": "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.",
+  "donde": [
+   "campo 6250"
+  ]
+ },
+ {
+  "en": "You need to Build the Handle for the Axe. First drag a Pole and drop it onto the axe. Keep it centered for maximum Durability, otherwise it will land crooked!",
+  "donde": [
+   "campo 6252"
+  ]
+ },
+ {
+  "en": "Drag a Grip and Cap onto the axe to finish the handle.",
+  "donde": [
+   "campo 6253"
+  ]
+ },
+ {
+  "en": "Choose a Paint to use on the shield.",
+  "donde": [
+   "campo 6254"
+  ]
+ },
+ {
+  "en": "Click and drag along the shield to paint the surface. Cover the whole surface for maximum Power, and keep painting until the Paint Meter is empty!",
+  "donde": [
+   "campo 6255"
+  ]
+ },
+ {
+  "en": "Place a Crest on a shield to finish it. Keep the crest centered for maximum Durability.",
+  "donde": [
+   "campo 6257"
+  ]
+ },
+ {
+  "en": "Drag all of the Pegs onto the Mace head to attach them.",
+  "donde": [
+   "campo 6258"
+  ]
+ },
+ {
+  "en": "Try to arrange them like the picture\non the right for maximum Power!",
+  "donde": [
+   "campo 6259"
+  ]
+ },
+ {
+  "en": "You can build an Epic Weapon using the Design you found earlier! Click the Designs book to open it.",
+  "donde": [
+   "campo 6261"
+  ]
+ },
+ {
+  "en": "All of the Epic Weapon Designs you find are shown here! Click the Bows icon to see your design.",
+  "donde": [
+   "campo 6262"
+  ]
+ },
+ {
+  "en": "Click on the Design tab to\nsee the recipe for this weapon.",
+  "donde": [
+   "campo 6263"
+  ]
+ },
+ {
+  "en": "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.",
+  "donde": [
+   "campo 6264"
+  ]
+ },
+ {
+  "en": "You can see the Bonus Effectthis weapon will give you here.",
+  "donde": [
+   "campo 6265"
+  ]
+ },
+ {
+  "en": "You can Bookmark the parts to keep track of what you're saving or building.",
+  "donde": [
+   "campo 6266"
+  ]
+ },
+ {
+  "en": "Parts that are Bookmarked will show this icon:",
+  "donde": [
+   "campo 6267"
+  ]
+ },
+ {
+  "en": "When you craft great weapons and earn points on a weapon's\nStar Meter, you can unlock extra Elemental Boosts\nfor each weapon type!",
+  "donde": [
+   "campo 6268"
+  ]
+ },
+ {
+  "en": "Want to multitask?Click the Back button to take otherweapon orders and switch to other stations!",
+  "donde": [
+   "campo 6269"
+  ]
+ },
+ {
+  "en": "Don't worry if you don't reach the\nTreasure Chest each day!",
+  "donde": [
+   "campo 6273"
+  ]
+ },
+ {
+  "en": "The Design and parts will be available in\nother Treasure Chests during future battles.",
+  "donde": [
+   "campo 6274"
+  ]
+ },
+ {
+  "en": "Message Goes Here",
+  "donde": [
+   "campo 6281"
+  ]
+ },
+ {
+  "en": "Scouting and Orders",
+  "donde": [
+   "campo 725",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "As you travel down the road, many different enemies\nwill be blocking your path!",
+  "donde": [
+   "campo 726"
+  ]
+ },
+ {
+  "en": "Your sidekick Scout will run ahead, and let you know\nwhat kind of enemies you will have to face that day.",
+  "donde": [
+   "campo 727"
+  ]
+ },
+ {
+  "en": "Sometimes you will encounter Elemental Enemies that are weak against a certain Elemental Boost. Build weapons that deal extra elemental damage for these enemies!",
+  "donde": [
+   "campo 728"
+  ]
+ },
+ {
+  "en": "Soldiers in the area will help you, but they need weapons first!",
+  "donde": [
+   "campo 729"
+  ]
+ },
+ {
+  "en": "Each soldier is skilled with a certain type of weapon.\nSwordsmen can only use swords,\nand archers can only use bows.",
+  "donde": [
+   "campo 730"
+  ]
+ },
+ {
+  "en": "Soldiers will wait until you craft a weapon, and will then join\nyou in battle at the end of the day.",
+  "donde": [
+   "campo 731"
+  ]
+ },
+ {
+  "en": "Craft Weapons",
+  "donde": [
+   "campo 735",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Your wagon has four Crafting Stations where you can\nbuild a weapon. You can use any station -- and can use all\nof them at once when multitasking!",
+  "donde": [
+   "campo 736"
+  ]
+ },
+ {
+  "en": "You will unlock three different molds for each type of weapon.Soldiers can use any of the three variations, but eachof them has a different Elemental Boost!",
+  "donde": [
+   "campo 737"
+  ]
+ },
+ {
+  "en": "If you craft a great weapon, that mold's Star Meter\nwill begin to fill up. When the meter is filled, you will unlock\nextra Elemental Boosts for that weapon variation!",
+  "donde": [
+   "campo 738"
+  ]
+ },
+ {
+  "en": "Each type of weapon has a different process for crafting.\nAll weapons need to be forged using your collected metals,\nand some weapons share similar parts (like Grips).",
+  "donde": [
+   "campo 739"
+  ]
+ },
+ {
+  "en": "Stats",
+  "donde": [
+   "campo 749",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Each weapon has two main stats:",
+  "donde": [
+   "campo 751",
+   "campo 6192"
+  ]
+ },
+ {
+  "en": "The Power and Durability for a weapon come from the metal\nyou use to create it. Better metals have higher stats.",
+  "donde": [
+   "campo 752"
+  ]
+ },
+ {
+  "en": "Parts that you collect or buy will also have additional\nStat Boosts, to make your weapon even stronger.",
+  "donde": [
+   "campo 753"
+  ]
+ },
+ {
+  "en": "If you craft a weapon poorly, the stats will go down, and it\nwon't do as well in battle. Craft a great weapon to get the\nmaximum Power and Durability!",
+  "donde": [
+   "campo 754"
+  ]
+ },
+ {
+  "en": "Power",
+  "donde": [
+   "campo 755"
+  ]
+ },
+ {
+  "en": "The weapon's attack strength",
+  "donde": [
+   "campo 756",
+   "campo 825"
+  ]
+ },
+ {
+  "en": "Durability",
+  "donde": [
+   "campo 757"
+  ]
+ },
+ {
+  "en": "How long the weapon lasts before breaking",
+  "donde": [
+   "campo 758"
+  ]
+ },
+ {
+  "en": "If your overall Luck for your group of soldiers is high enough,\nenemies may drop more items and better metals!",
+  "donde": [
+   "campo 759"
+  ]
+ },
+ {
+  "en": "Some parts will have a Luck Stat:",
+  "donde": [
+   "campo 760"
+  ]
+ },
+ {
+  "en": "Weapons and parts can also have Elemental Boostsin addition to their regular stats. Check the \"Element Chart\"section for more information.",
+  "donde": [
+   "campo 761"
+  ]
+ },
+ {
+  "en": "Shop",
+  "donde": [
+   "campo 763",
+   "MainMenuScreen",
+   "ShopScreen"
+  ]
+ },
+ {
+  "en": "Use the Gems you collect ( ) to buy\nweapon parts from Gander’s shop.",
+  "donde": [
+   "campo 764"
+  ]
+ },
+ {
+  "en": "New items are added each day, and old items are removed,\nso keep checking back to find that part you want!",
+  "donde": [
+   "campo 765"
+  ]
+ },
+ {
+  "en": "You can also buy some extra metal ore when it's in stock.",
+  "donde": [
+   "campo 766"
+  ]
+ },
+ {
+  "en": "Gander is a traveling salesman, so he can only carry\none of each part in stock each day.",
+  "donde": [
+   "campo 767"
+  ]
+ },
+ {
+  "en": "Battle",
+  "donde": [
+   "campo 776",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "The soldiers go to battle using your weapons!\nHow well you built the weapons determines how well\nthey’ll perform in battle.",
+  "donde": [
+   "campo 777"
+  ]
+ },
+ {
+  "en": "Monsters will drop loot when attacked.\nMove your mouse over the dropped items to collect them!",
+  "donde": [
+   "campo 778"
+  ]
+ },
+ {
+  "en": "Each weapon’s Durability goes down when it’s used,\nand also goes down when an enemy attacks.\nWhen Durability reaches zero, the weapon will break\nand that soldier will retreat.",
+  "donde": [
+   "campo 779"
+  ]
+ },
+ {
+  "en": "You’ll earn Experience Points (XP) when a monster is defeated,\nand they spray extra loot down the trail.",
+  "donde": [
+   "campo 780"
+  ]
+ },
+ {
+  "en": "View the separate topics in the \"Battle\" section to learn\nmore details about the battle.",
+  "donde": [
+   "campo 781"
+  ]
+ },
+ {
+  "en": "Crafting Swords",
+  "donde": [
+   "campo 784"
+  ]
+ },
+ {
+  "en": "When your metal is melted, SLOWLY pull the chain downwards\nto pour it into the mold. If you pull too fast, the metal will\nspill and your sword won't form correctly!",
+  "donde": [
+   "campo 785"
+  ]
+ },
+ {
+  "en": "Don't leave your metal melting for too long! If it's overdone,\nthe metal will form cracks when it cools, and not be\nas durable in battle.",
+  "donde": [
+   "campo 786"
+  ]
+ },
+ {
+  "en": "You need to hammer a sword to sharpen its edges.\nClick along the edges of the sword to hammer.",
+  "donde": [
+   "campo 787"
+  ]
+ },
+ {
+  "en": "You can only swing the hammer a certain number of times,\nso try to space out your hammering to make it all the way\naround the blade!",
+  "donde": [
+   "campo 788"
+  ]
+ },
+ {
+  "en": "The Falchion only needs to be sharpened on one side,\nbut you can't swing the hammer as many times.",
+  "donde": [
+   "campo 789"
+  ]
+ },
+ {
+  "en": "If you hammer poorly, the sword won't have as much\nPower in battle. Hammer evenly around the edges to get\nthe maximum Power for your sword.",
+  "donde": [
+   "campo 790"
+  ]
+ },
+ {
+  "en": "You build the handle of a sword by dropping parts onto it.\nFirst drag and release a GUARD onto the sword's end,\nthen a GRIP, then a CAP.",
+  "donde": [
+   "campo 791"
+  ]
+ },
+ {
+  "en": "If you build the handle crooked, your sword won't have\nas much Durability in battle and will break quickly.\nLine up the parts correctly to get the maximum Durability.",
+  "donde": [
+   "campo 792"
+  ]
+ },
+ {
+  "en": "Crafting Bows",
+  "donde": [
+   "campo 794"
+  ]
+ },
+ {
+  "en": "You need to stretch a bow before a soldier can use it.\nDrag both \"arms\" of the bow upwards to stretch the string.\nTry to make it straight to earn the maximum Power for the bow.",
+  "donde": [
+   "campo 795"
+  ]
+ },
+ {
+  "en": "Drag one of your Grips onto the middle of the Bow.\nMany weapons use the same parts, like Grips.",
+  "donde": [
+   "campo 796"
+  ]
+ },
+ {
+  "en": "Drag an Arrowhead onto the arrow shaft.\nLine it up with the arrow shaft to keep it straight\nand get maximum Durability!",
+  "donde": [
+   "campo 797"
+  ]
+ },
+ {
+  "en": "Drag a Fletching onto the other end of the arrow shaft.",
+  "donde": [
+   "campo 798",
+   "campo 6249"
+  ]
+ },
+ {
+  "en": "Crafting Axes",
+  "donde": [
+   "campo 800"
+  ]
+ },
+ {
+  "en": "You need to build the Axe head by attaching all three parts\nto the center.",
+  "donde": [
+   "campo 801"
+  ]
+ },
+ {
+  "en": "Drag each blade and spike, and release when it's against\nthe center piece. Keep them straight to get maximum\nPower for the axe.",
+  "donde": [
+   "campo 802"
+  ]
+ },
+ {
+  "en": "Be sure to put each blade on the correct side! If you have it\non the wrong side, it will look crooked and won't line up\ncorrectly.",
+  "donde": [
+   "campo 803"
+  ]
+ },
+ {
+  "en": "You need to build the handle of the Axe using a Pole, Grip,\nand Cap.",
+  "donde": [
+   "campo 804"
+  ]
+ },
+ {
+  "en": "Keep each part centered when you drop it for maximum\nDurability. If it's not centered, it will land crooked, and\nwon't be as durable!",
+  "donde": [
+   "campo 805"
+  ]
+ },
+ {
+  "en": "Crafting Shields",
+  "donde": [
+   "campo 807"
+  ]
+ },
+ {
+  "en": "You first need to choose a paint to use on a Shield.\nSome paints will have extra Stat Boosts.",
+  "donde": [
+   "campo 808"
+  ]
+ },
+ {
+  "en": "Click and drag across the surface of the Shield to apply\nthe paint. Cover the whole surface of the Shield for\nmaximum Power!",
+  "donde": [
+   "campo 809"
+  ]
+ },
+ {
+  "en": "Keep dragging and painting until the \"Paint Meter\" above\nthe Shield is completely empty. Don't leave any blank spots!",
+  "donde": [
+   "campo 810"
+  ]
+ },
+ {
+  "en": "Place a Crest on a shield to finish it. Keep the Crest centered\nfor maximum Durability.",
+  "donde": [
+   "campo 811"
+  ]
+ },
+ {
+  "en": "Crafting Pikes",
+  "donde": [
+   "campo 813"
+  ]
+ },
+ {
+  "en": "You need to hammer a Pike blade just like a Sword blade.\nPike blades are shaped differently, so make sure you hammer\non the edges that look like they should be sharp!",
+  "donde": [
+   "campo 814"
+  ]
+ },
+ {
+  "en": "You build a Pike handle just like an Axe handle, but it's\nmuch longer! You'll need to use more Poles and Grips\nto build one.",
+  "donde": [
+   "campo 815"
+  ]
+ },
+ {
+  "en": "Crafting Maces",
+  "donde": [
+   "campo 817"
+  ]
+ },
+ {
+  "en": "Drag all of the Pegs or Spikes onto the\nMace head to attach them.",
+  "donde": [
+   "campo 818"
+  ]
+ },
+ {
+  "en": "There is a picture showing how each Mace type should\nhave its spikes arranged. Try to make it look like\nthat picture!",
+  "donde": [
+   "campo 819"
+  ]
+ },
+ {
+  "en": "Arrange the spikes correctly for maximum Power!",
+  "donde": [
+   "campo 820"
+  ]
+ },
+ {
+  "en": "Be careful with the Battle Mace -- its spikes need to be\nattached differently than the other two!",
+  "donde": [
+   "campo 821"
+  ]
+ },
+ {
+  "en": "Element Chart",
+  "donde": [
+   "campo 824",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "How long a weapon lasts before breaking",
+  "donde": [
+   "campo 826"
+  ]
+ },
+ {
+  "en": "Luck",
+  "donde": [
+   "campo 827"
+  ]
+ },
+ {
+  "en": "Chance to make enemies drop more loot\nor better loot",
+  "donde": [
+   "campo 828"
+  ]
+ },
+ {
+  "en": "Fire",
+  "donde": [
+   "campo 829"
+  ]
+ },
+ {
+  "en": "Fire Boosts only deal extra damage to\nFire Enemies",
+  "donde": [
+   "campo 830"
+  ]
+ },
+ {
+  "en": "Water",
+  "donde": [
+   "campo 831"
+  ]
+ },
+ {
+  "en": "Water Boosts only deal extra damage to\nWater Enemies",
+  "donde": [
+   "campo 832"
+  ]
+ },
+ {
+  "en": "Ice",
+  "donde": [
+   "campo 833"
+  ]
+ },
+ {
+  "en": "Ice Boosts only deal extra damage to\nIce Enemies",
+  "donde": [
+   "campo 834"
+  ]
+ },
+ {
+  "en": "Stone",
+  "donde": [
+   "campo 835"
+  ]
+ },
+ {
+  "en": "Stone Boosts only deal extra damage to\nStone Enemies",
+  "donde": [
+   "campo 836"
+  ]
+ },
+ {
+  "en": "Wind",
+  "donde": [
+   "campo 837"
+  ]
+ },
+ {
+  "en": "Wind Boosts only deal extra damage to\nWind Enemies",
+  "donde": [
+   "campo 838"
+  ]
+ },
+ {
+  "en": "Lightning",
+  "donde": [
+   "campo 839"
+  ]
+ },
+ {
+  "en": "Lightning Boosts only deal extra damage to\nLightning Enemies",
+  "donde": [
+   "campo 840"
+  ]
+ },
+ {
+  "en": "Plant",
+  "donde": [
+   "campo 841"
+  ]
+ },
+ {
+  "en": "Plant Boosts only deal extra damage to\nPlant Enemies",
+  "donde": [
+   "campo 842"
+  ]
+ },
+ {
+  "en": "Shadow",
+  "donde": [
+   "campo 843"
+  ]
+ },
+ {
+  "en": "Shadow Boosts only deal extra damage to\nShadow Enemies",
+  "donde": [
+   "campo 844"
+  ]
+ },
+ {
+  "en": "(Basic)",
+  "donde": [
+   "campo 845"
+  ]
+ },
+ {
+  "en": "Symbol used when an enemy is not an\nElemental Enemy",
+  "donde": [
+   "campo 846"
+  ]
+ },
+ {
+  "en": "Weapon Parts",
+  "donde": [
+   "campo 849",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Fire Boost +7",
+  "donde": [
+   "campo 851"
+  ]
+ },
+ {
+  "en": "Many parts will give Elemental Boosts to your weapons.",
+  "donde": [
+   "campo 852"
+  ]
+ },
+ {
+  "en": "You own 1 of these",
+  "donde": [
+   "campo 853"
+  ]
+ },
+ {
+  "en": "If you attach a part poorly, you may not get the full\nElemental Boost amount, so be careful!",
+  "donde": [
+   "campo 854"
+  ]
+ },
+ {
+  "en": "Used in an Epic Weapon Design\nthat you've collected in Battle",
+  "donde": [
+   "campo 855"
+  ]
+ },
+ {
+  "en": "Weapon Boosts",
+  "donde": [
+   "campo 858",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Each weapon variation comes with different Elemental Boosts.",
+  "donde": [
+   "campo 859"
+  ]
+ },
+ {
+  "en": "If you make a great weapon, that variation's Star Meter\nwill start to fill up. When the meter is completely full,\nyou will unlock EXTRA Elemental Boosts for that\nweapon variation!",
+  "donde": [
+   "campo 860"
+  ]
+ },
+ {
+  "en": "Each variation starts with one Boost,\nand has three extra Boosts to unlock\n(Bronze, Silver, and Gold)",
+  "donde": [
+   "campo 861"
+  ]
+ },
+ {
+  "en": "Longswords deal extra damage to Fire Enemies,\nand the Gladius deals extra damage to Water Enemies.",
+  "donde": [
+   "campo 862"
+  ]
+ },
+ {
+  "en": "These Elemental Boosts are added on top of the usual\nweapon Power and Durability.",
+  "donde": [
+   "campo 863"
+  ]
+ },
+ {
+  "en": "Battle Screen",
+  "donde": [
+   "campo 867",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "A: Soldiers' weapons and durability remaining\nB: Enemies on this trail\nC: Current enemy (highlighted)\nD: Enemy Health Bar\nE: Enemy Element\n(will flash when you deal Elemental Damage)\nF: Your cannonballs\nG: Recharging timer around a cannonball",
+  "donde": [
+   "campo 868"
+  ]
+ },
+ {
+  "en": "Enemies",
+  "donde": [
+   "campo 878",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "In the Lowlands, you'll only see basic enemies.\nOnce you reach Cinder Springs and beyond, you'll start\nseeing stronger Elemental Enemies as well!",
+  "donde": [
+   "campo 879"
+  ]
+ },
+ {
+  "en": "Elemental Enemies are each weak against a certain Elemental Boost. Build weapons that deal extra elemental damage for these enemies!",
+  "donde": [
+   "campo 880"
+  ]
+ },
+ {
+  "en": "As you travel further, monsters will get larger and stronger!",
+  "donde": [
+   "campo 881"
+  ]
+ },
+ {
+  "en": "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.",
+  "donde": [
+   "campo 882"
+  ]
+ },
+ {
+  "en": "Loot",
+  "donde": [
+   "campo 885",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Enemies will drop loot every time a soldier attacks!\nMove your mouse over dropped loot to collect it.",
+  "donde": [
+   "campo 886"
+  ]
+ },
+ {
+  "en": "When you defeat an enemy, they'll spray extra loot down\nthe trail. This loot usually contains better metals and\nweapon parts.",
+  "donde": [
+   "campo 887"
+  ]
+ },
+ {
+  "en": "If you craft stronger weapons, enemies may drop\nbetter metal ores as loot! When you start crafting Bronze\nweapons, enemies will start dropping some Iron Ore.",
+  "donde": [
+   "campo 888"
+  ]
+ },
+ {
+  "en": "Use weapon parts with a Luck Boost ( ), and\nenemies will have a chance to drop more loot and\nbetter metal ores!",
+  "donde": [
+   "campo 889"
+  ]
+ },
+ {
+  "en": "Treasure",
+  "donde": [
+   "campo 891",
+   "EnemyData",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "If you defeat all of the enemies on a trail, you'll reach\na Treasure Chest that has special loot: An Epic Weapon Design\nand the parts required to build it!",
+  "donde": [
+   "campo 892"
+  ]
+ },
+ {
+  "en": "You won't always reach the Treasure Chest if your\nweapons break, so you won't always get a new Epic Weapon.",
+  "donde": [
+   "campo 893"
+  ]
+ },
+ {
+  "en": "Be sure to collect all of the parts that pour out of the\nTreasure Chest, including the Design Scroll!",
+  "donde": [
+   "campo 894"
+  ]
+ },
+ {
+  "en": "Don't worry if you don't reach the Treasure Chest each day!\nThe Design and parts in that Treasure Chest will be\navailable in other Treasure Chests during future battles.",
+  "donde": [
+   "campo 895"
+  ]
+ },
+ {
+  "en": "Cannon",
+  "donde": [
+   "campo 897",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You will eventually unlock a Cannon for your wagon,\nso you can help your troops in battle!",
+  "donde": [
+   "campo 898"
+  ]
+ },
+ {
+  "en": "Click on one of the Cannonball buttons to launch\na cannonball into the field.",
+  "donde": [
+   "campo 899"
+  ]
+ },
+ {
+  "en": "Large Widescreen",
+  "donde": [
+   "campo 9",
+   "campo 2612",
+   "WindowUtility"
+  ]
+ },
+ {
+  "en": "After you use your cannon, it will need to recharge\nbefore you can fire that type of cannonball again.",
+  "donde": [
+   "campo 900"
+  ]
+ },
+ {
+  "en": "You will unlock some cannonballs that fire at\nyour troops instead of the enemy!\n\nThe Repair Bomb will repair some of\nthe durability on all of your weapons.\n\nThe Booster Bomb will give all of your soldiers a\nboosted attack power for a limited time!",
+  "donde": [
+   "campo 901"
+  ]
+ },
+ {
+  "en": "Some cannonballs will affect the enemies\ntemporarily!\n\nThe Fire Bomb will slowly deal damage to the enemy\nas the fire burns.\n\nThe Lightning Bomb will zap an enemy's attack\npower for a limited time, so you take less damage\nfrom their attacks.\n\nThe Ice Bomb will freeze an enemy in place for a limited\ntime, so they can't fight back!",
+  "donde": [
+   "campo 902"
+  ]
+ },
+ {
+  "en": "Finding and Browsing",
+  "donde": [
+   "campo 905",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "If you defeat all of the monsters on a trail, you'll reach a\nTreasure Chest that contains an Epic Weapon Design and the\nparts needed to build it. Be sure to collect everything\nthat drops out of the chest!",
+  "donde": [
+   "campo 906"
+  ]
+ },
+ {
+  "en": "Click the \"Designs\" book to browse through any\nWeapon Designs you've collected.\nYou can also press D on the keyboard, or go to the\nDesigns page from the MENU button.",
+  "donde": [
+   "campo 907"
+  ]
+ },
+ {
+  "en": "A: Tabs for different weapon types\nB: List of designs found for this weapon type\nC: Parts needed to build this weapon\nD: Bonus Effect given to soldiers when you build this\nE: Bookmark Button",
+  "donde": [
+   "campo 908"
+  ]
+ },
+ {
+  "en": "Design names will be shown in GREEN in the list if youcurrently have all of the parts and metals needed to build it.",
+  "donde": [
+   "campo 909"
+  ]
+ },
+ {
+  "en": "Design names will have a Star if you've built at least one\nof this Epic Weapon before.",
+  "donde": [
+   "campo 910"
+  ]
+ },
+ {
+  "en": "Bonus Effects",
+  "donde": [
+   "campo 914",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Each Epic Weapon design gives a Bonus Effect to ALL\nof the soldiers on that day if you build one.",
+  "donde": [
+   "campo 915"
+  ]
+ },
+ {
+  "en": "This Bonus Effect is added to each weapon's stats during\nthe battle.",
+  "donde": [
+   "campo 916"
+  ]
+ },
+ {
+  "en": "Need to face some Fire Enemies?\nTry building an Epic Weapon that gives a bonus\nFire Boost to all of your soldiers.",
+  "donde": [
+   "campo 917"
+  ]
+ },
+ {
+  "en": "Even if this weapon uses a low-quality metal, it may be even\nmore helpful to build it and gain the Fire Boost for everyone!",
+  "donde": [
+   "campo 918"
+  ]
+ },
+ {
+  "en": "Bookmarks",
+  "donde": [
+   "campo 920",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You won't always have the parts needed to make one\nof your Epic Weapons.",
+  "donde": [
+   "campo 921"
+  ]
+ },
+ {
+  "en": "You can \"Bookmark\" a design's parts so you don't\naccidentally use them on a different weapon.",
+  "donde": [
+   "campo 922"
+  ]
+ },
+ {
+  "en": "Bookmarked parts will show a striped background and\nBookmark icon when you're building and browsing\nyour inventory:",
+  "donde": [
+   "campo 923"
+  ]
+ },
+ {
+  "en": "You can have multiple designs bookmarked at once,\nand you can remove a bookmark whenever you like.",
+  "donde": [
+   "campo 924"
+  ]
+ },
+ {
+  "en": "Bookmark ribbons will be colored to match the type\nof weapon that the part is needed for.",
+  "donde": [
+   "campo 925"
+  ]
+ },
+ {
+  "en": "Swords",
+  "donde": [
+   "campo 926",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Bows",
+  "donde": [
+   "campo 927",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Axes",
+  "donde": [
+   "campo 928",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Shields",
+  "donde": [
+   "campo 929",
+   "campo 2751",
+   "campo 5920",
+   "campo 5922",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Pikes",
+  "donde": [
+   "campo 930",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Maces",
+  "donde": [
+   "campo 931",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "Molds will also show a Bookmark icon if they're bookmarked,\nand Metal Ores will show an icon and the amount needed.",
+  "donde": [
+   "campo 932"
+  ]
+ },
+ {
+  "en": "Any parts that are used in an Epic Weapon Design\nyou have collected, even if it isn't currently\nbookmarked, will also show this icon:",
+  "donde": [
+   "campo 933"
+  ]
+ },
+ {
+  "en": "After you craft an Epic Weapon, it will automatically\nremove that bookmark (if it was bookmarked).",
+  "donde": [
+   "campo 934"
+  ]
+ },
+ {
+  "en": "If a part is used in Epic Weapon Designs you have\ncollected, but you've already made those designs at\nleast once, it will instead show this icon:",
+  "donde": [
+   "campo 935"
+  ]
+ },
+ {
+  "en": "Use those small scroll symbols to decide if you want to save\na part to use in a Design later, or if something is safe\nto use in your current weapon.",
+  "donde": [
+   "campo 936"
+  ]
+ },
+ {
+  "en": "Saving",
+  "donde": [
+   "campo 939",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "After you start a game, your progress is automatically\nsaved after completing each battle!",
+  "donde": [
+   "campo 940"
+  ]
+ },
+ {
+  "en": "Your game progress is saved directly to your computer.",
+  "donde": [
+   "campo 941"
+  ]
+ },
+ {
+  "en": "If you are having trouble saving your progress, make sure\nyou have plenty of storage space available so there is room\nfor your game progress to be saved.",
+  "donde": [
+   "campo 942"
+  ]
+ },
+ {
+  "en": "App Settings",
+  "donde": [
+   "campo 944",
+   "campo 2626",
+   "campo 6053",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You can change how the game is displayed on your computer\nwithin the App Settings screen.",
+  "donde": [
+   "campo 945"
+  ]
+ },
+ {
+  "en": "Press the button while playing to open App Settings.",
+  "donde": [
+   "campo 946"
+  ]
+ },
+ {
+  "en": "You can also press the Escape key on your keyboard to open\nthe App Settings screen at any time, and you can also find\nthe button on the title screen.",
+  "donde": [
+   "campo 947"
+  ]
+ },
+ {
+  "en": "You can change whether you want the game to appear\nFull Screen, and can change the window size between\nvarious widescreen and classic (square) sizes.",
+  "donde": [
+   "campo 948"
+  ]
+ },
+ {
+  "en": "If your computer is having issues where the game is\nrunning slowly, you can change the Graphics Quality to\nlower settings to improve performance.",
+  "donde": [
+   "campo 949"
+  ]
+ },
+ {
+  "en": "You can also display the game in smaller window sizes\nif you are having performance issues with how the game\nis running on your computer.",
+  "donde": [
+   "campo 950"
+  ]
+ },
+ {
+  "en": "There are options to mute the music, mute sound effects,\nchange master volume, and quit the app from this menu.",
+  "donde": [
+   "campo 951"
+  ]
+ },
+ {
+  "en": "Gameplay Settings",
+  "donde": [
+   "campo 953",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You can adjust some gameplay settings\nfrom the SETTINGS menu.",
+  "donde": [
+   "campo 954"
+  ]
+ },
+ {
+  "en": "If you disable \"Screen Shake\", the screen will no longer\nshake when hammering weapons or during battle.",
+  "donde": [
+   "campo 955"
+  ]
+ },
+ {
+  "en": "When forging metals, the Pull Chain is tailored for easy\nmouse controls, especially when playing at full screen.",
+  "donde": [
+   "campo 956"
+  ]
+ },
+ {
+  "en": "If you'd like to make the chain follow your mouse exactly,\nor if you're using a touch screen, you can disable\nthe \"Easy-to-Drag Forge Chain\" option.",
+  "donde": [
+   "campo 957"
+  ]
+ },
+ {
+  "en": "Keyboard Shortcuts",
+  "donde": [
+   "campo 959",
+   "MainMenuScreen"
+  ]
+ },
+ {
+  "en": "You can use Keyboard Shortcuts to switch between screens\nwhile crafting weapons.",
+  "donde": [
+   "campo 960"
+  ]
+ },
+ {
+  "en": "Press",
+  "donde": [
+   "campo 961"
+  ]
+ },
+ {
+  "en": "to open the Info Menu",
+  "donde": [
+   "campo 962"
+  ]
+ },
+ {
+  "en": "to open the Inventory Menu",
+  "donde": [
+   "campo 963"
+  ]
+ },
+ {
+  "en": "to open the Bestiary Menu",
+  "donde": [
+   "campo 964"
+  ]
+ },
+ {
+  "en": "to open the Designs Menu",
+  "donde": [
+   "campo 965"
+  ]
+ },
+ {
+  "en": "to open the Help Menu",
+  "donde": [
+   "campo 966"
+  ]
+ },
+ {
+  "en": "You can also use Keyboard Shortcuts during battle to fire\nyour cannon.",
+  "donde": [
+   "campo 967"
+  ]
+ },
+ {
+  "en": "for each cannonball type",
+  "donde": [
+   "campo 968"
+  ]
+ },
+ {
+  "en": "to open the App Settings Screen",
+  "donde": [
+   "campo 970"
+  ]
+ },
+ {
+  "en": "to go back to the Main Hub",
+  "donde": [
+   "campo 971"
+  ]
+ },
+ {
+  "en": "to change pages of weapon parts",
+  "donde": [
+   "campo 972"
+  ]
+ },
+ {
+  "en": "Esc",
+  "donde": [
+   "campo 975"
+  ]
+ }
+]

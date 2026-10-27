@@ -1,0 +1,102 @@
+[
+ [
+  "^Day: (\\d+)$",
+  "Giorno: $1"
+ ],
+ [
+  "^Day (\\d+) Complete!$",
+  "Giorno $1 completato!"
+ ],
+ [
+  "^End of Day (\\d+)$",
+  "Fine del giorno $1"
+ ],
+ [
+  "^Page (\\d+) ?/ ?(\\d+)$",
+  "Pagina $1/$2"
+ ],
+ [
+  "^(\\d+)% [Cc]omplete$",
+  "$1% completato"
+ ],
+ [
+  "^Created 1 Times?$",
+  "Creata 1 volta"
+ ],
+ [
+  "^Created (\\d+) Times?$",
+  "Creata $1 volte"
+ ],
+ [
+  "^Killed 1 Times?$",
+  "Sconfitto 1 volta"
+ ],
+ [
+  "^Killed (\\d+) Times?$",
+  "Sconfitto $1 volte"
+ ],
+ [
+  "^Weak to (\\w+) Boosts$",
+  "Debole ai potenziamenti di {1l}"
+ ],
+ [
+  "^-(Grip|Cap|Guard|Pole|Arrowhead|Fletching|Paint|Crest) #(.+)$",
+  "-{1} #$2"
+ ],
+ [
+  "^-(Copper|Bronze|Iron|Steel|Gold|Crystal) (.+)$",
+  "-{2} di {1l}"
+ ],
+ [
+  "^\\+ ?(\\d+) [Ff]or (ALL|all) soldiers!$",
+  "+$1 per TUTTI i soldati"
+ ],
+ [
+  "^\\+ ?(\\d+) for this weapon!$",
+  "+$1 per questa arma"
+ ],
+ [
+  "^You crafted the (.+)!$",
+  "Hai forgiato: {1}!"
+ ],
+ [
+  "^You crafted (.+)!$",
+  "Hai forgiato: {1}!"
+ ],
+ [
+  "^([\\d,]+) XP to Next Level$",
+  "$1 XP al prossimo livello"
+ ],
+ [
+  "^Version (.+)$",
+  "Versione $1"
+ ],
+ [
+  "^Build (.+)$",
+  "Build $1"
+ ],
+ [
+  "^Design (.+)$",
+  "Disegno $1"
+ ],
+ [
+  "^(Copper|Bronze|Iron|Steel|Gold|Crystal) x (\\d+)$",
+  "{1} x $2"
+ ],
+ [
+  "^(Badges|Bestiary|Designs|Weapon Boosts): (.+)$",
+  "{1}: $2"
+ ],
+ [
+  "^(Fire|Water|Ice|Stone|Wind|Lightning|Plant|Shadow) Boost \\+(\\d+)$",
+  "Potenziamento {1l} +$2"
+ ],
+ [
+  "^You own (\\d+) of these$",
+  "Ne hai $1"
+ ],
+ [
+  "^(.+) (\\(\\d+/\\d+\\))$",
+  "{1} $2"
+ ]
+]

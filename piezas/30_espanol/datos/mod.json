@@ -1,0 +1,6 @@
+{
+ "id": "30_espanol",
+ "nombre": "Jacksmith en español",
+ "version": "1.0.0",
+ "requiere": ["00_nucleo"]
+}

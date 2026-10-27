@@ -1,0 +1,428 @@
+{
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20 Reforços",
+  "qwen": "20 Esticamentos",
+  "gemma4": "20 Esticamentos"
+ },
+ "Bronze Builder": {
+  "es": "Forjador de bronce",
+  "gemma": "Mestre do Bronze",
+  "qwen": "Forjador de Bronze",
+  "gemma4": "Forjador de Bronze"
+ },
+ "Craft 10 Axes": {
+  "es": "Forja 10 hachas",
+  "gemma": "Crie 10 Machado",
+  "qwen": "Crie 10 Machados",
+  "gemma4": "Crie 10 Machados"
+ },
+ "Craft 20 Epic Weapons": {
+  "es": "Forja 20 armas épicas",
+  "gemma": "Crie 20 armas épicas",
+  "qwen": "Forje 20 armas épicas",
+  "gemma4": "Forje 20 armas épicas"
+ },
+ "Craft 5 weapons": {
+  "es": "Forja 5 armas",
+  "gemma": "Crie 5 armas",
+  "qwen": "Forje 5 armas",
+  "gemma4": "Forje 5 armas"
+ },
+ "Craft all weapons out of Bronze on a single day": {
+  "es": "Forja todas las armas de bronce en un mismo día",
+  "gemma": "Crie todas as armas de bronze em um único dia",
+  "qwen": "Forje todas as armas de bronze em um único dia",
+  "gemma4": "Forje todas as armas de bronze em um único dia"
+ },
+ "Craft all weapons out of Crystal on a single day": {
+  "es": "Forja todas las armas de cristal en un mismo día",
+  "gemma": "Crie todas as armas de cristal em um único dia",
+  "qwen": "Forje todas as armas de cristal em um único dia",
+  "gemma4": "Forje todas as armas de cristal em um único dia"
+ },
+ "Craft all weapons out of Gold on a single day": {
+  "es": "Forja todas las armas de oro en un mismo día",
+  "gemma": "Crie todas as armas de ouro em um único dia",
+  "qwen": "Forje todas as armas de ouro em um único dia",
+  "gemma4": "Forje todas as armas de ouro em um único dia"
+ },
+ "Craft all weapons out of Iron on a single day": {
+  "es": "Forja todas las armas de hierro en un mismo día",
+  "gemma": "Crie todas as armas de ferro em um único dia",
+  "qwen": "Forje todas as armas de ferro em um único dia",
+  "gemma4": "Forje todas as armas de ferro em um único dia"
+ },
+ "Craft all weapons out of Steel on a single day": {
+  "es": "Forja todas las armas de acero en un mismo día",
+  "gemma": "Crie todas as armas de aço em um único dia",
+  "qwen": "Forje todas as armas de aço em um único dia",
+  "gemma4": "Forje todas as armas de aço em um único dia"
+ },
+ "Craft any 10 weapons using Iron": {
+  "es": "Forja 10 armas usando hierro",
+  "gemma": "Crie 10 armas usando ferro",
+  "qwen": "Forje 10 armas usando ferro",
+  "gemma4": "Forje 10 armas usando ferro"
+ },
+ "Craft any 15 weapons using Steel": {
+  "es": "Forja 15 armas usando acero",
+  "gemma": "Crie 15 armas usando aço",
+  "qwen": "Forje 15 armas usando aço",
+  "gemma4": "Forje 15 armas usando aço"
+ },
+ "Craft any 20 weapons using Gold": {
+  "es": "Forja 20 armas usando oro",
+  "gemma": "Crie 20 armas usando ouro",
+  "qwen": "Forje 20 armas usando ouro",
+  "gemma4": "Forje 20 armas usando ouro"
+ },
+ "Craft any 25 weapons using Crystal": {
+  "es": "Forja 25 armas usando cristal",
+  "gemma": "Crie 25 armas usando cristal",
+  "qwen": "Forje 25 armas usando cristal",
+  "gemma4": "Forje 25 armas usando cristal"
+ },
+ "Craft any 5 weapons using Bronze": {
+  "es": "Forja 5 armas usando bronce",
+  "gemma": "Crie 5 armas usando bronze",
+  "qwen": "Forje 5 armas usando bronze",
+  "gemma4": "Forje 5 armas usando bronze"
+ },
+ "Fill a mold's Star Meter and unlock an extra Element Boost on any weapon": {
+  "es": "Llena el medidor de estrellas de un molde y desbloquea una mejora elemental extra",
+  "gemma": "Encha o Medidor de Estrelas de um Molde e desbloqueie um bônus elemental extra em qualquer arma",
+  "qwen": "Preencha o Medidor de Estrelas de um molde e desbloqueie um bônus elemental extra em qualquer arma",
+  "gemma4": "Preencha o Medidor de Estrelas de um molde e desbloqueie um bônus elemental extra em qualquer arma"
+ },
+ "Kill all enemies on a trail on 20 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 20 días",
+  "gemma": "Elimine todos os inimigos em uma trilha em 20 dias diferentes",
+  "qwen": "Mate todos os inimigos em uma trilha em 20 dias diferentes",
+  "gemma4": "Mate todos os inimigos em uma trilha em 20 dias diferentes"
+ },
+ "Kill all enemies on a trail on 5 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 5 días",
+  "gemma": "Elimine todos os inimigos em uma trilha em 5 dias diferentes",
+  "qwen": "Mate todos os inimigos em uma trilha em 5 dias diferentes",
+  "gemma4": "Mate todos os inimigos em uma trilha em 5 dias diferentes"
+ },
+ "Matching Set": {
+  "es": "Conjunto a juego",
+  "gemma": "Conjunto Combinando",
+  "qwen": "Conjunto Completo",
+  "gemma4": "Conjunto Completo"
+ },
+ "Maxed Out": {
+  "es": "Al máximo",
+  "gemma": "Nível Máximo",
+  "qwen": "No Limite",
+  "gemma4": "No Limite"
+ },
+ "Overkill": {
+  "es": "Excesivo",
+  "gemma": "Excesso",
+  "qwen": "Exagero",
+  "gemma4": "Exagero"
+ },
+ "Pick up 250 pieces of ore dropped by enemies in battle": {
+  "es": "Recoge 250 minerales soltados por enemigos en batalla",
+  "gemma": "Colete 250 unidades de minério deixados cair por inimigos na batalha",
+  "qwen": "Colete 250 minérios deixados por inimigos em batalha",
+  "gemma4": "Colete 250 minérios deixados por inimigos em batalha"
+ },
+ "Pick up 50 weapon parts dropped by enemies in battle": {
+  "es": "Recoge 50 piezas de arma soltadas por enemigos en batalla",
+  "gemma": "Colete 50 peças de armas deixadas cair por inimigos na batalha",
+  "qwen": "Colete 50 peças de armas deixadas por inimigos em batalha",
+  "gemma4": "Colete 50 peças de armas deixadas por inimigos em batalha"
+ },
+ "Pick up 500 Gems dropped by enemies in battle": {
+  "es": "Recoge 500 gemas soltadas por enemigos en batalla",
+  "gemma": "Colete 500 gemas deixadas cair por inimigos na batalha",
+  "qwen": "Colete 500 gemas deixadas por inimigos em batalha",
+  "gemma4": "Colete 500 gemas deixadas por inimigos em batalha"
+ },
+ "Pike Possibilities": {
+  "es": "Lanzas posibles",
+  "gemma": "Possibilidades de Lanças",
+  "qwen": "Possibilidades de Lança",
+  "gemma4": "Possibilidades de Lança"
+ },
+ "Pikesmith": {
+  "es": "Lancero",
+  "gemma": "Especialista em Lanças",
+  "qwen": "Forjador de Lanças",
+  "gemma4": "Forjador de Lanças"
+ },
+ "Pine Recluse": {
+  "es": "Reclusa del pino",
+  "gemma": "Aranha da Pinha",
+  "qwen": "Recluso do Pinheiro",
+  "gemma4": "Recluso do Pinheiro"
+ },
+ "None Created Yet": {
+  "es": "Ninguna creada aún",
+  "gemma": "Nenhum criado ainda",
+  "qwen": "Nenhum projeto criado ainda",
+  "gemma4": "Nenhum projeto criado ainda"
+ },
+ "Choose a Slot": {
+  "es": "Elige una ranura",
+  "gemma": "Escolha uma Fenda",
+  "qwen": "Escolha um Espaço",
+  "gemma4": "Escolha um Espaço"
+ },
+ "Defeated Dudley": {
+  "es": "Dudley derrotado",
+  "gemma": "Derrotou Dudley",
+  "qwen": "Dudley Derrotado",
+  "gemma4": "Dudley Derrotado"
+ },
+ "Arrow Fletcher": {
+  "es": "Flechero",
+  "gemma": "Arqueiro",
+  "qwen": "Fabricante de Flechas",
+  "gemma4": "Fabricante de Flechas"
+ },
+ "Battle Booster": {
+  "es": "Potenciador",
+  "gemma": "Impulsionador de Batalha",
+  "qwen": "Bônus de Batalha",
+  "gemma4": "Bônus de Batalha"
+ },
+ "Bowstringer": {
+  "es": "Encordador",
+  "gemma": "Fabricante de Cordas de Arco",
+  "qwen": "Encordador de Arco",
+  "gemma4": "Encordador de Arco"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "Balanços Restantes",
+  "qwen": "Golpes Restantes",
+  "gemma4": "Golpes Restantes"
+ },
+ "Are you sure\nyou want to\nerase this game?": {
+  "es": "¿Seguro que quieres borrar esta partida?",
+  "gemma": "Tem certeza que deseja apagar este jogo?",
+  "qwen": "Tem certeza de que deseja apagar este jogo?",
+  "gemma4": "Tem certeza de que deseja apagar este jogo?"
+ },
+ "Your save slot is\nempty, but a backup\nfrom a previous save\nis available.": {
+  "es": "Tu ranura está\nvacía, pero hay una\ncopia de una partida\nanterior.",
+  "gemma": "Seu slot de salvamento está vazio, mas um backup de um salvamento anterior está disponível.",
+  "qwen": "Seu slot de salvamento está vazio, mas há um backup de um salvamento anterior disponível.",
+  "gemma4": "Seu slot de salvamento está vazio, mas há um backup de um salvamento anterior disponível."
+ },
+ "Badges Earned:": {
+  "es": "Insignias ganadas:",
+  "gemma": "Insígnias Conquistadas:",
+  "qwen": "Insígnias Ganhas:",
+  "gemma4": "Insígnias Ganhas:"
+ },
+ "Crafting:": {
+  "es": "Forja:",
+  "gemma": "Criação:",
+  "qwen": "Forja:",
+  "gemma4": "Forja:"
+ },
+ "Game Design, Programming,\nAnimation, Music and Sound": {
+  "es": "Diseño, programación, animación, música y sonido",
+  "gemma": "Design, Programação, Animação, Música e Som",
+  "qwen": "Projeto do Jogo, Programação, Animação, Música e Som",
+  "gemma4": "Projeto do Jogo, Programação, Animação, Música e Som"
+ },
+ "Game Design, Art, Animation,\nand Character Design": {
+  "es": "Diseño, arte, animación y diseño de personajes",
+  "gemma": "Projeto, Arte, Animação e Design de Personagens",
+  "qwen": "Projeto, Arte, Animação e Projeto de Personagens",
+  "gemma4": "Projeto, Arte, Animação e Projeto de Personagens"
+ },
+ "Screen Shake": {
+  "es": "Sacudir pantalla",
+  "gemma": "Tremedeira na Tela",
+  "qwen": "Tremor de Tela",
+  "gemma4": "Tremor de Tela"
+ },
+ "You can only crafts swords right now.\n\nClick the icon to start building!": {
+  "es": "Por ahora solo puedes forjar espadas.\n\n¡Haz clic en el icono para empezar!",
+  "gemma": "Você só pode forjar espadas agora. Clique no ícone para começar a construir!",
+  "qwen": "Você só pode forjar espadas agora. Clique no ícone para começar a fabricar!",
+  "gemma4": "Você só pode forjar espadas agora. Clique no ícone para começar a fabricar!"
+ },
+ "The metal is ready! Slowly pull the chain downwards to pour into the sword mold.": {
+  "es": "¡El metal está listo! Tira despacio de la cadena hacia abajo para verterlo en el molde.",
+  "gemma": "O metal está pronto! Puxe a corrente lentamente para baixo para despejar no molde da espada.",
+  "qwen": "Puxe a corrente lentamente para baixo para despejar no molde da espada.",
+  "gemma4": "Puxe a corrente lentamente para baixo para despejar no molde da espada."
+ },
+ "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!": {
+  "es": "Si derrotas a todos los monstruos del sendero del día, ¡obtendrás un diseño de arma épica y sus piezas de un cofre del tesoro!",
+  "gemma": "Se você derrotar todos os monstros em um dia, pode coletar um Projeto de Arma Épica e suas partes de um baú do tesouro!",
+  "qwen": "Se você derrotar todos os monstros na trilha do dia, pode coletar um Projeto de Arma Épica e suas partes de um baú do tesouro!",
+  "gemma4": "Se você derrotar todos os monstros na trilha do dia, pode coletar um Projeto de Arma Épica e suas partes de um baú do tesouro!"
+ },
+ "Drag one of your Grips onto the middle of the Bow.": {
+  "es": "Arrastra uno de tus mangos al centro del arco.",
+  "gemma": "Arraste uma das suas Empunhaduras para o centro do arco.",
+  "qwen": "Arraste uma de suas Empunhaduras para o centro do arco.",
+  "gemma4": "Arraste uma de suas Empunhaduras para o centro do arco."
+ },
+ "First drag an Arrowhead onto the arrow shaft.": {
+  "es": "Primero arrastra una punta de flecha a la vara de la flecha.",
+  "gemma": "Primeiro, arraste uma Ponta de Flecha para o corpo da flecha.",
+  "qwen": "Primeiro, arraste uma Ponta de Flecha para a haste da flecha.",
+  "gemma4": "Primeiro, arraste uma Ponta de Flecha para a haste da flecha."
+ },
+ "Line it up with arrow shaft\nto get maximum Durability!": {
+  "es": "¡Alinéala con la vara de la flecha para lograr la durabilidad máxima!",
+  "gemma": "Alinhe com o corpo da flecha para obter a máxima Durabilidade!",
+  "qwen": "Alinhe com a haste da flecha para obter a máxima Durabilidade!",
+  "gemma4": "Alinhe com a haste da flecha para obter a máxima Durabilidade!"
+ },
+ "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.": {
+  "es": "Arma la cabeza del hacha uniendo las tres piezas al centro. Arrastra cada hoja y púa, y suéltala cuando toque el centro. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Construa a Lâmina do Machado, conectando todas as três partes ao centro. Arraste cada lâmina e ponta, e solte quando estiver contra o centro. Mantenha-as retas para obter o máximo de Poder para um Machado.",
+  "qwen": "Construa a Cabeça do Machado conectando todas as três partes ao centro. Arraste cada lâmina e ponta, e solte quando estiver contra o centro. Mantenha-as retas para obter o máximo de Poder para um Machado.",
+  "gemma4": "Construa a Cabeça do Machado conectando todas as três partes ao centro. Arraste cada lâmina e ponta, e solte quando estiver contra o centro. Mantenha-as retas para obter o máximo de Poder para um Machado."
+ },
+ "Click and drag along the shield to paint the surface. Cover the whole surface for maximum Power, and keep painting until the Paint Meter is empty!": {
+  "es": "Haz clic y arrastra sobre el escudo para pintarlo. Cubre toda la superficie para el poder máximo, ¡y sigue pintando hasta vaciar el medidor de pintura!",
+  "gemma": "Clique e arraste sobre o escudo para pintar a superfície. Cubra toda a superfície para obter o máximo de Poder, e continue pintando até que o Medidor de Tinta esteja vazio!",
+  "qwen": "Clique e arraste sobre o escudo para pintar a superfície. Cubra toda a superfície para o máximo de Poder e continue pintando até que o Medidor de Tinta esteja vazio!",
+  "gemma4": "Clique e arraste sobre o escudo para pintar a superfície. Cubra toda a superfície para o máximo de Poder e continue pintando até que o Medidor de Tinta esteja vazio!"
+ },
+ "Try to arrange them like the picture\non the right for maximum Power!": {
+  "es": "¡Colócalas como en la imagen de la derecha para el poder máximo!",
+  "gemma": "Tente organizá-los como na imagem à direita para obter o máximo de Poder!",
+  "qwen": "Tente organizá-los como na imagem à direita para o máximo de Poder!",
+  "gemma4": "Tente organizá-los como na imagem à direita para o máximo de Poder!"
+ },
+ "You can build an Epic Weapon using the Design you found earlier! Click the Designs book to open it.": {
+  "es": "¡Puedes forjar un arma épica con el diseño que encontraste! Haz clic en el libro de diseños para abrirlo.",
+  "gemma": "Você pode construir uma Arma Épica usando o Design que encontrou anteriormente! Clique no livro de Designs para abri-lo.",
+  "qwen": "Você pode construir uma Arma Épica usando o Projeto que encontrou anteriormente! Clique no livro de Projetos para abri-lo.",
+  "gemma4": "Você pode construir uma Arma Épica usando o Projeto que encontrou anteriormente! Clique no livro de Projetos para abri-lo."
+ },
+ "You can see the Bonus Effectthis weapon will give you here.": {
+  "es": "Aquí puedes ver el efecto extra que te dará esta arma.",
+  "gemma": "Você pode ver o Efeito Extra que esta arma lhe dará aqui.",
+  "qwen": "Você pode ver o bônus que esta arma lhe dará aqui.",
+  "gemma4": "Você pode ver o bônus que esta arma lhe dará aqui."
+ },
+ "You can Bookmark the parts to keep track of what you're saving or building.": {
+  "es": "Puedes marcar las piezas para llevar el control de lo que guardas o forjas.",
+  "gemma": "Você pode marcar as peças para acompanhar o que está guardando ou construindo.",
+  "qwen": "Você pode marcar as peças para acompanhar o que está salvando ou construindo.",
+  "gemma4": "Você pode marcar as peças para acompanhar o que está salvando ou construindo."
+ },
+ "As you travel down the road, many different enemies\nwill be blocking your path!": {
+  "es": "Al viajar por el camino, ¡muchos enemigos distintos te cerrarán el paso!",
+  "gemma": "Ao longo do caminho, muitos inimigos diferentes bloquearão seu progresso!",
+  "qwen": "Ao longo do caminho, muitos inimigos diferentes bloquearão o seu caminho!",
+  "gemma4": "Ao longo do caminho, muitos inimigos diferentes bloquearão o seu caminho!"
+ },
+ "Craft Weapons": {
+  "es": "Forjar armas",
+  "gemma": "Crie Armas",
+  "qwen": "Forje Armas",
+  "gemma4": "Forje Armas"
+ },
+ "Crafting Swords": {
+  "es": "Forjar espadas",
+  "gemma": "Criando Espadas",
+  "qwen": "Forjando Espadas",
+  "gemma4": "Forjando Espadas"
+ },
+ "You build the handle of a sword by dropping parts onto it.\nFirst drag and release a GUARD onto the sword's end,\nthen a GRIP, then a CAP.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una GUARDA en el extremo, luego un MANGO y luego un POMO.",
+  "gemma": "Você constrói o cabo de uma espada soltando peças sobre ele. Primeiro, arraste e solte uma guarda na extremidade da espada, depois um cabo e, por fim, um pomo.",
+  "qwen": "Você constrói o cabo de uma espada soltando peças sobre ela. Primeiro, arraste e solte uma guarda na extremidade da espada, depois uma empunhadura e, por fim, um pomo.",
+  "gemma4": "Você constrói o cabo de uma espada soltando peças sobre ela. Primeiro, arraste e solte uma guarda na extremidade da espada, depois uma empunhadura e, por fim, um pomo."
+ },
+ "Crafting Bows": {
+  "es": "Forjar arcos",
+  "gemma": "Fabricando arcos",
+  "qwen": "Forjando arcos",
+  "gemma4": "Forjando arcos"
+ },
+ "Drag one of your Grips onto the middle of the Bow.\nMany weapons use the same parts, like Grips.": {
+  "es": "Arrastra uno de tus mangos al centro del arco. Muchas armas usan las mismas piezas, como los mangos.",
+  "gemma": "Arraste um dos seus cabos para o meio do arco. Muitas armas usam as mesmas peças, como cabos.",
+  "qwen": "Arraste uma das suas empunhaduras para o meio do arco. Muitas armas usam as mesmas peças, como empunhaduras.",
+  "gemma4": "Arraste uma das suas empunhaduras para o meio do arco. Muitas armas usam as mesmas peças, como empunhaduras."
+ },
+ "Drag a Fletching onto the other end of the arrow shaft.": {
+  "es": "Arrastra unas plumas al otro extremo de la flecha.",
+  "gemma": "Arraste uma pena para a outra extremidade do corpo da flecha.",
+  "qwen": "Arraste umas penas para a outra extremidade do corpo da flecha.",
+  "gemma4": "Arraste umas penas para a outra extremidade do corpo da flecha."
+ },
+ "Crafting Maces": {
+  "es": "Forjar mazas",
+  "gemma": "Criando maças",
+  "qwen": "Forjando maças",
+  "gemma4": "Forjando maças"
+ },
+ "Chance to make enemies drop more loot\nor better loot": {
+  "es": "Probabilidad de que los enemigos suelten más o mejor botín",
+  "gemma": "Chance de fazer com que os inimigos deixem cair mais espólio ou um espólio melhor",
+  "qwen": "Chance de os inimigos soltarem mais ou melhor espólio",
+  "gemma4": "Chance de os inimigos soltarem mais ou melhor espólio"
+ },
+ "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.": {
+  "es": "Consulta el libro \"Bestiario\" para ver todos los tipos de monstruos que ya encontraste.",
+  "gemma": "Consulte o livro \"Bestiário\" para ver todos os tipos de monstros que você já encontrou.",
+  "qwen": "Verifique o livro \"Bestiário\" para ver todos os tipos de monstros que você já encontrou.",
+  "gemma4": "Verifique o livro \"Bestiário\" para ver todos os tipos de monstros que você já encontrou."
+ },
+ "Finding and Browsing": {
+  "es": "Buscar y consultar",
+  "gemma": "Encontrando e Navegando",
+  "qwen": "Buscar e Navegar",
+  "gemma4": "Buscar e Navegar"
+ },
+ "A: Tabs for different weapon types\nB: List of designs found for this weapon type\nC: Parts needed to build this weapon\nD: Bonus Effect given to soldiers when you build this\nE: Bookmark Button": {
+  "es": "A: Pestañas de los tipos de arma\nB: Lista de diseños encontrados de este tipo de arma\nC: Piezas necesarias para forjar esta arma\nD: Efecto extra que reciben los soldados al forjarla\nE: Botón de marcador",
+  "gemma": "A: Abas para diferentes tipos de arma B: Lista de projetos encontrados para este tipo de arma C: Peças necessárias para construir esta arma D: Efeito Bônus dado aos soldados quando você constrói esta E: Botão de Marcar",
+  "qwen": "A: Abas para diferentes tipos de arma B: Lista de projetos encontrados para este tipo de arma C: Peças necessárias para construir esta arma D: Efeito Bônus dado aos soldados ao construir esta E: Botão de Marcar",
+  "gemma4": "A: Abas para diferentes tipos de arma B: Lista de projetos encontrados para este tipo de arma C: Peças necessárias para construir esta arma D: Efeito Bônus dado aos soldados ao construir esta E: Botão de Marcar"
+ },
+ "Bookmarks": {
+  "es": "Marcadores",
+  "gemma": "Marcar",
+  "qwen": "Marcadores",
+  "gemma4": "Marcadores"
+ },
+ "You can have multiple designs bookmarked at once,\nand you can remove a bookmark whenever you like.": {
+  "es": "Puedes tener varios diseños marcados a la vez, y quitar un marcador cuando quieras.",
+  "gemma": "Você pode ter vários projetos marcados ao mesmo tempo, e pode remover uma marcação quando quiser.",
+  "qwen": "Você pode ter vários projetos marcados ao mesmo tempo e pode remover uma marcação quando quiser.",
+  "gemma4": "Você pode ter vários projetos marcados ao mesmo tempo e pode remover uma marcação quando quiser."
+ },
+ "Axes": {
+  "es": "Hachas",
+  "gemma": "Machado",
+  "qwen": "Machados",
+  "gemma4": "Machados"
+ },
+ "Molds will also show a Bookmark icon if they're bookmarked,\nand Metal Ores will show an icon and the amount needed.": {
+  "es": "Los moldes también muestran el icono de marcador si están marcados, y los minerales muestran un icono y la cantidad necesaria.",
+  "gemma": "Os moldes também exibirão um ícone de \"marcar\" se estiverem marcados, e os minérios mostrarão um ícone e a quantidade necessária.",
+  "qwen": "Os moldes também mostrarão um ícone de marcador se estiverem marcados, e os minérios mostrarão um ícone e a quantidade necessária.",
+  "gemma4": "Os moldes também mostrarão um ícone de marcador se estiverem marcados, e os minérios mostrarão um ícone e a quantidade necessária."
+ },
+ "After you craft an Epic Weapon, it will automatically\nremove that bookmark (if it was bookmarked).": {
+  "es": "Tras forjar un arma épica, su marcador se quita automáticamente (si estaba marcada).",
+  "gemma": "Depois de forjar uma Arma Épica, ela removerá automaticamente essa marcação (se estivesse marcada).",
+  "qwen": "Depois de forjar uma Arma Épica, essa marcação será removida automaticamente (se ela estivesse marcada).",
+  "gemma4": "Depois de forjar uma Arma Épica, essa marcação será removida automaticamente (se ela estivesse marcada)."
+ },
+ "Use those small scroll symbols to decide if you want to save\na part to use in a Design later, or if something is safe\nto use in your current weapon.": {
+  "es": "Usa esos pequeños símbolos de pergamino para decidir si guardas una pieza para un diseño futuro o si puedes usarla en tu arma actual.",
+  "gemma": "Use esses pequenos símbolos de pergaminho para decidir se deseja salvar uma peça para usar em um Projeto mais tarde, ou se algo é seguro para usar em sua arma atual.",
+  "qwen": "Use esses pequenos símbolos de pergaminho para decidir se quer salvar uma peça para usar em um Projeto mais tarde, ou se algo é seguro para usar na sua arma atual.",
+  "gemma4": "Use esses pequenos símbolos de pergaminho para decidir se quer salvar uma peça para usar em um Projeto mais tarde, ou se algo é seguro para usar na sua arma atual."
+ }
+}

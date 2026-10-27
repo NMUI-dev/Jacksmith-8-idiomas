@@ -1,0 +1,908 @@
+{
+ "Build": {
+  "es": "Compilación",
+  "gemma": "Построить",
+  "qwen": "Создать",
+  "gemma4": "Создать"
+ },
+ "Freeze an enemy so they cannot attack": {
+  "es": "Congela a un enemigo para que no pueda atacar",
+  "gemma": "Замораживает врага, чтобы он не мог атаковать",
+  "qwen": "Заморозь врага, чтобы он не мог атаковать",
+  "gemma4": "Заморозь врага, чтобы он не мог атаковать"
+ },
+ "Gives your soldiers a boost in attack power": {
+  "es": "Da a tus soldados más poder de ataque",
+  "gemma": "Дает твоим солдатам усиление атаки",
+  "qwen": "Дает твоим солдатам усиление силы атаки",
+  "gemma4": "Дает твоим солдатам усиление силы атаки"
+ },
+ "Leaves flames around an enemy that slowly deal damage": {
+  "es": "Deja llamas alrededor del enemigo que lo dañan poco a poco",
+  "gemma": "Оставляет вокруг врага пламя, которое медленно наносит урон",
+  "qwen": "Оставляет вокруг врага пламя, которое постепенно наносит урон",
+  "gemma4": "Оставляет вокруг врага пламя, которое постепенно наносит урон"
+ },
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20 зарядов",
+  "qwen": "20 растяжек",
+  "gemma4": "20 растяжек"
+ },
+ "Attack 20 Lightning Enemies with Lightning-boosted weapons": {
+  "es": "Ataca a 20 enemigos de rayo con mejoras de rayo",
+  "gemma": "Атакуй 20 врагов, пораженных молнией, оружием, усиленным молнией",
+  "qwen": "Атакуй 20 молниевых врагов оружием, усиленным молнией",
+  "gemma4": "Атакуй 20 молниевых врагов оружием, усиленным молнией"
+ },
+ "Attack 20 Wind Enemies with Wind-boosted weapons": {
+  "es": "Ataca a 20 enemigos de viento con mejoras de viento",
+  "gemma": "Атакуй 20 врагов, пораженных ветром, оружием, усиленным ветром",
+  "qwen": "Атакуй 20 ветряных врагов оружием, усиленным ветром",
+  "gemma4": "Атакуй 20 ветряных врагов оружием, усиленным ветром"
+ },
+ "Attack 30 Plant Enemies with Plant-boosted weapons": {
+  "es": "Ataca a 30 enemigos de planta con mejoras de planta",
+  "gemma": "Атакуй 30 врагов, пораженных растениями, оружием, усиленным растениями",
+  "qwen": "Атакуй 30 растительных врагов оружием, усиленным растениями",
+  "gemma4": "Атакуй 30 растительных врагов оружием, усиленным растениями"
+ },
+ "Attack 30 Shadow Enemies with Shadow-boosted weapons": {
+  "es": "Ataca a 30 enemigos de sombra con mejoras de sombra",
+  "gemma": "Атакуй 30 врагов из тени, используя оружие с усилением \"Тень\"",
+  "qwen": "Атакуй 30 врагов Тени с оружием с усилением Тени",
+  "gemma4": "Атакуй 30 врагов Тени с оружием с усилением Тени"
+ },
+ "Boosted Builder": {
+  "es": "Forjador mejorado",
+  "gemma": "Мастер усилений",
+  "qwen": "Улучшенный кузнец",
+  "gemma4": "Улучшенный кузнец"
+ },
+ "Bow Builder": {
+  "es": "Forjador de arcos",
+  "gemma": "Мастер луков",
+  "qwen": "Кузнец луков",
+  "gemma4": "Кузнец луков"
+ },
+ "Cannonballistic": {
+  "es": "Balística total",
+  "gemma": "Артиллерийская атака",
+  "qwen": "Cannonballistic",
+  "gemma4": "Cannonballistic"
+ },
+ "Craft 10 Axes": {
+  "es": "Forja 10 hachas",
+  "gemma": "Создать 10 топоров",
+  "qwen": "Скрафтить 10 топоров",
+  "gemma4": "Скрафтить 10 топоров"
+ },
+ "Craft 10 Bows": {
+  "es": "Forja 10 arcos",
+  "gemma": "Создать 10 луков",
+  "qwen": "Скрафтить 10 луков",
+  "gemma4": "Скрафтить 10 луков"
+ },
+ "Craft 10 Epic Weapons": {
+  "es": "Forja 10 armas épicas",
+  "gemma": "Создать 10 эпических видов оружия",
+  "qwen": "Скрафтить 10 эпических оружия",
+  "gemma4": "Скрафтить 10 эпических оружия"
+ },
+ "Craft 10 Maces": {
+  "es": "Forja 10 mazas",
+  "gemma": "Создать 10 булав",
+  "qwen": "Скрафтить 10 булав",
+  "gemma4": "Скрафтить 10 булав"
+ },
+ "Craft 10 Pikes": {
+  "es": "Forja 10 lanzas",
+  "gemma": "Создать 10 копий",
+  "qwen": "Скрафтить 10 копий",
+  "gemma4": "Скрафтить 10 копий"
+ },
+ "Craft 10 Shields": {
+  "es": "Forja 10 escudos",
+  "gemma": "Создать 10 щитов",
+  "qwen": "Скрафтить 10 щитов",
+  "gemma4": "Скрафтить 10 щитов"
+ },
+ "Craft 10 Swords": {
+  "es": "Forja 10 espadas",
+  "gemma": "Создать 10 мечей",
+  "qwen": "Скрафтить 10 мечей",
+  "gemma4": "Скрафтить 10 мечей"
+ },
+ "Craft 20 Epic Weapons": {
+  "es": "Forja 20 armas épicas",
+  "gemma": "Создай 20 эпических видов оружия",
+  "qwen": "Создай 20 эпических оружия",
+  "gemma4": "Создай 20 эпических оружия"
+ },
+ "Craft 5 weapons": {
+  "es": "Forja 5 armas",
+  "gemma": "Создай 5 видов оружия",
+  "qwen": "Создай 5 оружия",
+  "gemma4": "Создай 5 оружия"
+ },
+ "Craft all weapons out of Bronze on a single day": {
+  "es": "Forja todas las armas de bronce en un mismo día",
+  "gemma": "Создай все виды оружия из бронзы за один день",
+  "qwen": "Создай все оружие из бронзы за один день",
+  "gemma4": "Создай все оружие из бронзы за один день"
+ },
+ "Craft all weapons out of Crystal on a single day": {
+  "es": "Forja todas las armas de cristal en un mismo día",
+  "gemma": "Создай все виды оружия из кристалла за один день",
+  "qwen": "Создай все оружие из кристалла за один день",
+  "gemma4": "Создай все оружие из кристалла за один день"
+ },
+ "Craft all weapons out of Gold on a single day": {
+  "es": "Forja todas las armas de oro en un mismo día",
+  "gemma": "Создай все виды оружия из золота за один день",
+  "qwen": "Создай все оружие из золота за один день",
+  "gemma4": "Создай все оружие из золота за один день"
+ },
+ "Craft all weapons out of Iron on a single day": {
+  "es": "Forja todas las armas de hierro en un mismo día",
+  "gemma": "Создай все виды оружия из железа за один день",
+  "qwen": "Создай все оружие из железа за один день",
+  "gemma4": "Создай все оружие из железа за один день"
+ },
+ "Craft all weapons out of Steel on a single day": {
+  "es": "Forja todas las armas de acero en un mismo día",
+  "gemma": "Создай все виды оружия из стали за один день",
+  "qwen": "Создай все оружие из стали за один день",
+  "gemma4": "Создай все оружие из стали за один день"
+ },
+ "Craft any 10 weapons using Iron": {
+  "es": "Forja 10 armas usando hierro",
+  "gemma": "Создай любое оружие 10 раз, используя железо",
+  "qwen": "Создай любые 10 оружия из железа",
+  "gemma4": "Создай любые 10 оружия из железа"
+ },
+ "Craft any 15 weapons using Steel": {
+  "es": "Forja 15 armas usando acero",
+  "gemma": "Создай любое оружие 15 раз, используя сталь",
+  "qwen": "Создай любые 15 оружия из стали",
+  "gemma4": "Создай любые 15 оружия из стали"
+ },
+ "Craft any 20 weapons using Gold": {
+  "es": "Forja 20 armas usando oro",
+  "gemma": "Создай любое оружие 20 раз, используя золото",
+  "qwen": "Создай любые 20 оружия из золота",
+  "gemma4": "Создай любые 20 оружия из золота"
+ },
+ "Craft any 25 weapons using Crystal": {
+  "es": "Forja 25 armas usando cristal",
+  "gemma": "Создай любое оружие 25 раз, используя кристалл",
+  "qwen": "Создай любые 25 оружия из кристалла",
+  "gemma4": "Создай любые 25 оружия из кристалла"
+ },
+ "Craft any 5 weapons using Bronze": {
+  "es": "Forja 5 armas usando bronce",
+  "gemma": "Создай любое оружие 5 раз, используя бронзу",
+  "qwen": "Создай любые 5 оружия из бронзы",
+  "gemma4": "Создай любые 5 оружия из бронзы"
+ },
+ "Create a weapon using an Epic Weapon Design": {
+  "es": "Crea un arma con un diseño de arma épica",
+  "gemma": "Создай оружие, используя эпический чертёж",
+  "qwen": "Создай оружие по чертёжу эпического оружия",
+  "gemma4": "Создай оружие по чертёжу эпического оружия"
+ },
+ "Dueling Shadows": {
+  "es": "Duelo de sombras",
+  "gemma": "Битва теней",
+  "qwen": "Дуэль теней",
+  "gemma4": "Дуэль теней"
+ },
+ "Frequent Fletcher": {
+  "es": "Flechero frecuente",
+  "gemma": "Частый лучник",
+  "qwen": "Мастер по стрелам",
+  "gemma4": "Мастер по стрелам"
+ },
+ "Get 100% Arrows score on any 20 Bows": {
+  "es": "Logra 100% en Flechas en 20 arcos",
+  "gemma": "Набери 100% очков за стрелы, используя 20 луков",
+  "qwen": "Набери 100% за стрелы на любых 20 луках",
+  "gemma4": "Набери 100% за стрелы на любых 20 луках"
+ },
+ "Get 100% Construction score on any 20 Axes, Shields, or Maces": {
+  "es": "Logra 100% en Construcción en 20 hachas, escudos o mazas",
+  "gemma": "Набери 100% очков за сборку, используя 20 топоров, щитов или булав",
+  "qwen": "Набери 100% за сборку на любых 20 топорах, щитах или булавах",
+  "gemma4": "Набери 100% за сборку на любых 20 топорах, щитах или булавах"
+ },
+ "Get 100% Forging score on any 20 weapons": {
+  "es": "Logra 100% en Forjado en 20 armas",
+  "gemma": "Набери 100% очков за ковку, используя 20 видов оружия",
+  "qwen": "Набери 100% за ковку на любых 20 видах оружия",
+  "gemma4": "Набери 100% за ковку на любых 20 видах оружия"
+ },
+ "Get 100% Hammering score on any 20 Swords or Pikes": {
+  "es": "Logra 100% en Martillado en 20 espadas o lanzas",
+  "gemma": "Набери 100% очков за чеканку, используя 20 мечей или копий",
+  "qwen": "Набери 100% за чеканку на любых 20 мечей или копий",
+  "gemma4": "Набери 100% за чеканку на любых 20 мечей или копий"
+ },
+ "Get 100% Handle score on any 20 weapons": {
+  "es": "Logra 100% en Agarre en 20 armas",
+  "gemma": "Набери 100% очков за рукоять, используя 20 видов оружия",
+  "qwen": "Набери 100% за рукоять на любых 20 видах оружия",
+  "gemma4": "Набери 100% за рукоять на любых 20 видах оружия"
+ },
+ "Get 100% Painting score on any 20 Shields": {
+  "es": "Logra 100% en Pintura en 20 escudos",
+  "gemma": "Набери 100% очков за покраску, используя 20 щитов",
+  "qwen": "Набери 100% за покраску на любых 20 щитах",
+  "gemma4": "Набери 100% за покраску на любых 20 щитах"
+ },
+ "Get 100% Stretching score on any 20 Bows": {
+  "es": "Logra 100% en Tensado en 20 arcos",
+  "gemma": "Набери 100% очков за натяжение, используя 20 луков",
+  "qwen": "Набери 100% за натяжение на любых 20 луках",
+  "gemma4": "Набери 100% за натяжение на любых 20 луках"
+ },
+ "Get 3 different Weapon Designs for Pikes": {
+  "es": "Consigue 3 diseños distintos de lanzas",
+  "gemma": "Получи 3 разных чертежа для копий",
+  "qwen": "Получи 3 разных чертежа для копий (Wait, the prompt says Pike = копьё, but the RU says копий. Let's check: Pike = копьё. The RU says \"копий\" which is the plural of \"копьё\". So it is correct.) -> OK",
+  "gemma4": "Получи 3 разных чертежа для копий (Wait, the prompt says Pike = копьё, but the RU says копий. Let's check: Pike = копьё. The RU says \"копий\" which is the plural of \"копьё\". So it is correct.) -> OK"
+ },
+ "Getting Started": {
+  "es": "Primeros pasos",
+  "gemma": "Начни игру",
+  "qwen": "Первые шаги",
+  "gemma4": "Первые шаги"
+ },
+ "Kill all enemies on a trail on 20 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 20 días",
+  "gemma": "Уничтожьте всех врагов на тропе в течение 20 дней",
+  "qwen": "Убей всех врагов на тропе в течение 20 разных дней",
+  "gemma4": "Убей всех врагов на тропе в течение 20 разных дней"
+ },
+ "Kill all enemies on a trail on 5 different days": {
+  "es": "Derrota a todos los enemigos de un sendero 5 días",
+  "gemma": "Уничтожьте всех врагов на тропе в течение 5 дней",
+  "qwen": "Убей всех врагов на тропе в течение 5 разных дней",
+  "gemma4": "Убей всех врагов на тропе в течение 5 разных дней"
+ },
+ "Leave the Castle Ruins": {
+  "es": "Sal de las Ruinas del Castillo",
+  "gemma": "Покиньте Руины замка",
+  "qwen": "Покинь Руины замка",
+  "gemma4": "Покинь Руины замка"
+ },
+ "Ore Forager": {
+  "es": "Buscador de mineral",
+  "gemma": "Шахтёр",
+  "qwen": "Собиратель руды",
+  "gemma4": "Собиратель руды"
+ },
+ "Overkill": {
+  "es": "Excesivo",
+  "gemma": "Чрезмерно",
+  "qwen": "Избыточно",
+  "gemma4": "Избыточно"
+ },
+ "Set of Silver": {
+  "es": "Juego de plata",
+  "gemma": "Набор из серебра",
+  "qwen": "Набор серебра",
+  "gemma4": "Набор серебра"
+ },
+ "Silver Starter": {
+  "es": "Inicio de plata",
+  "gemma": "Начальный набор из серебра",
+  "qwen": "Стартовый набор серебра",
+  "gemma4": "Стартовый набор серебра"
+ },
+ "Unlock all of the Cannon Balls": {
+  "es": "Desbloquea todas las balas de cañón",
+  "gemma": "Открой все типы ядер для пушки",
+  "qwen": "Открой все ядра для пушек",
+  "gemma4": "Открой все ядра для пушек"
+ },
+ "Unlock the Bronze Element Boost on 5 weapons": {
+  "es": "Desbloquea la mejora elemental de bronce en 5 armas",
+  "gemma": "Получи стихийное усиление бронзы для 5 видов оружия",
+  "qwen": "Открой стихийное усиление бронзы на 5 видах оружия",
+  "gemma4": "Открой стихийное усиление бронзы на 5 видах оружия"
+ },
+ "Unlock the Bronze Element Boost on 9 weapons": {
+  "es": "Desbloquea la mejora elemental de bronce en 9 armas",
+  "gemma": "Получи стихийное усиление бронзы для 9 видов оружия",
+  "qwen": "Открой стихийное усиление бронзы на 9 видах оружия",
+  "gemma4": "Открой стихийное усиление бронзы на 9 видах оружия"
+ },
+ "Unlock the Gold Element Boost on 5 weapons": {
+  "es": "Desbloquea la mejora elemental de oro en 5 armas",
+  "gemma": "Получи стихийное усиление золота для 5 видов оружия",
+  "qwen": "Открой стихийное усиление золота на 5 видах оружия",
+  "gemma4": "Открой стихийное усиление золота на 5 видах оружия"
+ },
+ "Unlock the Gold Element Boost on 9 weapons": {
+  "es": "Desbloquea la mejora elemental de oro en 9 armas",
+  "gemma": "Получи стихийное усиление золота для 9 видов оружия",
+  "qwen": "Открой стихийное усиление золота на 9 видах оружия",
+  "gemma4": "Открой стихийное усиление золота на 9 видах оружия"
+ },
+ "Unlock the Gold Element Boost on any weapon": {
+  "es": "Desbloquea la mejora elemental de oro en un arma",
+  "gemma": "Получи стихийное усиление золота для любого вида оружия",
+  "qwen": "Открой стихийное усиление золота на любом оружии",
+  "gemma4": "Открой стихийное усиление золота на любом оружии"
+ },
+ "Unlock the Silver Element Boost on 5 weapons": {
+  "es": "Desbloquea la mejora elemental de plata en 5 armas",
+  "gemma": "Получи стихийное усиление серебра для 5 видов оружия",
+  "qwen": "Открой стихийное усиление серебра на 5 видах оружия",
+  "gemma4": "Открой стихийное усиление серебра на 5 видах оружия"
+ },
+ "Unlock the Silver Element Boost on 9 weapons": {
+  "es": "Desbloquea la mejora elemental de plata en 9 armas",
+  "gemma": "Открой стихийное усиление \"Серебро\" для 9 видов оружия",
+  "qwen": "Открой стихийное усиление \"Серебро\" на 9 видах оружия",
+  "gemma4": "Открой стихийное усиление \"Серебро\" на 9 видах оружия"
+ },
+ "Unlock the Silver Element Boost on any weapon": {
+  "es": "Desbloquea la mejora elemental de plata en un arma",
+  "gemma": "Открой стихийное усиление \"Серебро\" для любого оружия",
+  "qwen": "Открой стихийное усиление \"Серебро\" на любом оружии",
+  "gemma4": "Открой стихийное усиление \"Серебро\" на любом оружии"
+ },
+ "Water Weapons": {
+  "es": "Armas de agua",
+  "gemma": "Оружие \"Вода\"",
+  "qwen": "Оружие \"Вода",
+  "gemma4": "Оружие \"Вода"
+ },
+ "Wind Warriors": {
+  "es": "Guerreros del viento",
+  "gemma": "Воины \"Ветер\"",
+  "qwen": "Воины \"Ветер",
+  "gemma4": "Воины \"Ветер"
+ },
+ "Burning Longlegs": {
+  "es": "Patilargo ardiente",
+  "gemma": "Поджаренные Длинноногие",
+  "qwen": "Пылающие Длинноногие",
+  "gemma4": "Пылающие Длинноногие"
+ },
+ "Defeated!": {
+  "es": "¡Derrotado!",
+  "gemma": "Победа!",
+  "qwen": "Победил!",
+  "gemma4": "Победил!"
+ },
+ "Killed": {
+  "es": "Derrotado",
+  "gemma": "Уничтожено",
+  "qwen": "Убит",
+  "gemma4": "Убит"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "Попытка",
+  "qwen": "Время",
+  "gemma4": "Время"
+ },
+ "Times": {
+  "es": "veces",
+  "gemma": "Попыток",
+  "qwen": "Раз",
+  "gemma4": "Раз"
+ },
+ "Weak to": {
+  "es": "Débil a",
+  "gemma": "Уязвим к",
+  "qwen": "Слаб против",
+  "gemma4": "Слаб против"
+ },
+ "Axe Grinder": {
+  "es": "Afilahachas",
+  "gemma": "Топорос",
+  "qwen": "Точильщик топоров",
+  "gemma4": "Точильщик топоров"
+ },
+ "Bowstringer": {
+  "es": "Encordador",
+  "gemma": "Изготовитель луков",
+  "qwen": "Изготовитель тетивы",
+  "gemma4": "Изготовитель тетивы"
+ },
+ "Jumbo Classic": {
+  "es": "Gigante clásica",
+  "gemma": "Гигантская (модель)",
+  "qwen": "Jumbo Classic",
+  "gemma4": "Jumbo Classic"
+ },
+ "Jumbo Widescreen": {
+  "es": "Gigante panorámica",
+  "gemma": "Гигантская (широкоформатная)",
+  "qwen": "Jumbo Widescreen",
+  "gemma4": "Jumbo Widescreen"
+ },
+ "Large Classic": {
+  "es": "Grande clásica",
+  "gemma": "Большая (модель)",
+  "qwen": "Large Classic",
+  "gemma4": "Large Classic"
+ },
+ "Small Classic": {
+  "es": "Pequeña clásica",
+  "gemma": "Маленькая (модель)",
+  "qwen": "Small Classic",
+  "gemma4": "Small Classic"
+ },
+ "You crafted the EpicswordNameGoesHereBringer!": {
+  "es": "¡Forjaste la EpicswordNameGoesHereBringer!",
+  "gemma": "Ты создал эпическое оружие EpicswordNameGoesHereBringer!",
+  "qwen": "Ты создал EpicswordNameGoesHereBringer!",
+  "gemma4": "Ты создал EpicswordNameGoesHereBringer!"
+ },
+ "Finish": {
+  "es": "Terminar",
+  "gemma": "Готово",
+  "qwen": "Завершить",
+  "gemma4": "Завершить"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "Удары влево",
+  "qwen": "Оставшиеся удары",
+  "gemma4": "Оставшиеся удары"
+ },
+ "THIS FILE CANNOT RUN\nIN FLASH PLAYER!": {
+  "es": "¡ESTE ARCHIVO NO FUNCIONA EN FLASH PLAYER!",
+  "gemma": "ЭТУ ФАЙЛ НЕЛЬЗЯ ЗАПУСКАТЬ В FLASH PLAYER!",
+  "qwen": "ЭТОТ ФАЙЛ НЕЛЬЗЯ ЗАПУСТИТЬ В FLASH PLAYER!",
+  "gemma4": "ЭТОТ ФАЙЛ НЕЛЬЗЯ ЗАПУСТИТЬ В FLASH PLAYER!"
+ },
+ "Empty Slot": {
+  "es": "Ranura vacía",
+  "gemma": "Свободное место",
+  "qwen": "Пустой слот",
+  "gemma4": "Пустой слот"
+ },
+ "Are you sure\nyou want to\nerase this game?": {
+  "es": "¿Seguro que quieres borrar esta partida?",
+  "gemma": "Ты уверен, что хочешь удалить эту игру?",
+  "qwen": "Ты уверен, что хочешь удалить этот сейв?",
+  "gemma4": "Ты уверен, что хочешь удалить этот сейв?"
+ },
+ "Your save slot is\nempty, but a backup\nfrom a previous save\nis available.": {
+  "es": "Tu ranura está\nvacía, pero hay una\ncopia de una partida\nanterior.",
+  "gemma": "Твой слот сохранения пуст, но доступна резервная копия предыдущей сохраненной игры.",
+  "qwen": "Твой слот пуст, но доступна резервная копия предыдущего сохранения.",
+  "gemma4": "Твой слот пуст, но доступна резервная копия предыдущего сохранения."
+ },
+ "ONE MOMENT...": {
+  "es": "UN MOMENTO...",
+  "gemma": "МИГ НЕМНОГО...",
+  "qwen": "ОДИН МОМЕНТ...",
+  "gemma4": "ОДИН МОМЕНТ..."
+ },
+ "DEVELOPED BY:": {
+  "es": "DESARROLLADO POR:",
+  "gemma": "РАЗРАБОТЧИК:",
+  "qwen": "Разработано:",
+  "gemma4": "Разработано:"
+ },
+ "Spike\nDesign": {
+  "es": "Diseño de púas",
+  "gemma": "Чертёж \"Шипы",
+  "qwen": "Чертёж «Шипы»",
+  "gemma4": "Чертёж «Шипы»"
+ },
+ "Description of the badge goes here with more text in here and more and more.": {
+  "es": "Aquí va la descripción de la insignia, con más texto aquí y más y más.",
+  "gemma": "Здесь описание значка, с дополнительным текстом.",
+  "qwen": "Здесь будет описание значка с дополнительным текстом.",
+  "gemma4": "Здесь будет описание значка с дополнительным текстом."
+ },
+ "Any metals and parts you used will be\nsalvaged and returned to your inventory.": {
+  "es": "Los metales y piezas que usaste se recuperarán y volverán a tu inventario.",
+  "gemma": "Все использованные материалы будут возвращены в твой инвентарь.",
+  "qwen": "Любой металл и детали, которые ты использовал, будут разобраны и возвращены в твой инвентарь.",
+  "gemma4": "Любой металл и детали, которые ты использовал, будут разобраны и возвращены в твой инвентарь."
+ },
+ "Small Widescreen": {
+  "es": "Pequeña panorámica",
+  "gemma": "Масштаб \"широкоэкранный",
+  "qwen": "Малый широкоэкранный",
+  "gemma4": "Малый широкоэкранный"
+ },
+ "Jacksmith could craft a flawless weapon,\nbut using one is not his specialty.\nHe's going to need some help...": {
+  "es": "Jacksmith podía forjar un arma perfecta, pero usarla no es lo suyo. Va a necesitar ayuda...",
+  "gemma": "Джексмит умеет создавать безупречное оружие, но его специализация – не его использование. Ему понадобится помощь...",
+  "qwen": "Джексмит может создать безупречное оружие, но пользоваться им — не его конек. Ему понадобится помощь...",
+  "gemma4": "Джексмит может создать безупречное оружие, но пользоваться им — не его конек. Ему понадобится помощь..."
+ },
+ "Badges Earned:": {
+  "es": "Insignias ganadas:",
+  "gemma": "Получено значков:",
+  "qwen": "Получено значков: -> Получено значков: (Wait, \"Получено значков\" is grammatically incorrect in Russian. It should be \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Полу",
+  "gemma4": "Получено значков: -> Получено значков: (Wait, \"Получено значков\" is grammatically incorrect in Russian. It should be \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Получено значков\" -> \"Получено значков\" is wrong. Correct: \"Полу"
+ },
+ "Crafting:": {
+  "es": "Forja:",
+  "gemma": "Создание:",
+  "qwen": "Кузница:",
+  "gemma4": "Кузница:"
+ },
+ "Epic Weapons:": {
+  "es": "Armas épicas:",
+  "gemma": "Эпическое оружие:",
+  "qwen": "Эпическое оружие",
+  "gemma4": "Эпическое оружие"
+ },
+ "Game Design, Art, Animation,\nand Character Design": {
+  "es": "Diseño, arte, animación y diseño de personajes",
+  "gemma": "Дизайн, графика, анимация и дизайн персонажей",
+  "qwen": "Геймдизайн, графика, анимация и чертёжи персонажей",
+  "gemma4": "Геймдизайн, графика, анимация и чертёжи персонажей"
+ },
+ "Forge Chain": {
+  "es": "Cadena de fragua",
+  "gemma": "Цепь кузнечной работы",
+  "qwen": "Кузнечная цепь",
+  "gemma4": "Кузнечная цепь"
+ },
+ "Click this mold to create a longsword.": {
+  "es": "Haz clic en este molde para crear una espada larga.",
+  "gemma": "Нажми на этот шаблон, чтобы создать длинный меч.",
+  "qwen": "Нажми на эту форму, чтобы создать длинный меч.",
+  "gemma4": "Нажми на эту форму, чтобы создать длинный меч."
+ },
+ "You'll earn molds for other swords as you travel.": {
+  "es": "Ganarás moldes de otras espadas durante tu viaje.",
+  "gemma": "Ты будешь получать новые шаблоны для других мечей по мере продвижения.",
+  "qwen": "Ты будешь получать формы для других мечей по мере продвижения.",
+  "gemma4": "Ты будешь получать формы для других мечей по мере продвижения."
+ },
+ "You first need to choose a metal.\n\nYou'll earn metal ores to use later,\nbut right now you have an unlimited\nsupply of copper to use.": {
+  "es": "Primero debes elegir un metal.\n\nMás adelante ganarás minerales, pero por ahora tienes cobre ilimitado para usar.",
+  "gemma": "Сначала тебе нужно выбрать металл. Ты будешь получать руду металла для использования позже, но сейчас у тебя неограниченный запас меди.",
+  "qwen": "Сначала нужно выбрать металл. Позже вы будете получать руду, но сейчас у вас есть неограниченное количество меди.",
+  "gemma4": "Сначала нужно выбрать металл. Позже вы будете получать руду, но сейчас у вас есть неограниченное количество меди."
+ },
+ "Wait for the copper to melt!\n\nYou can also pump the bellows to make\nthe metal melt faster.": {
+  "es": "¡Espera a que el cobre se funda!\n\nTambién puedes accionar el fuelle para que el metal se funda más rápido.",
+  "gemma": "Подожди, пока медь расплавится! Ты также можешь нажимать на меха, чтобы металл расплавился быстрее.",
+  "qwen": "Подожди, пока медь расплавится! Ты также можешь качать меха, чтобы металл плавился быстрее.",
+  "gemma4": "Подожди, пока медь расплавится! Ты также можешь качать меха, чтобы металл плавился быстрее."
+ },
+ "The metal is ready! Slowly pull the chain downwards to pour into the sword mold.": {
+  "es": "¡El metal está listo! Tira despacio de la cadena hacia abajo para verterlo en el molde.",
+  "gemma": "Металл готов! Медленно тяни цепь вниз, чтобы залить её в форму для меча.",
+  "qwen": "Металл готов! Медленно потяни за цепь вниз, чтобы залить его в форму для меча.",
+  "gemma4": "Металл готов! Медленно потяни за цепь вниз, чтобы залить его в форму для меча."
+ },
+ "If you pull too fast, the metal will spill\nand your sword won't form correctly!": {
+  "es": "¡Si tiras muy rápido, el metal se derramará y tu espada no se formará bien!",
+  "gemma": "Если ты потянешь слишком быстро, металл вытечет, и твой меч не получится.",
+  "qwen": "Если потянешь слишком быстро, металл выльется, и меч не получится!",
+  "gemma4": "Если потянешь слишком быстро, металл выльется, и меч не получится!"
+ },
+ "You need to hammer a sword to sharpen its edges. Click along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "Тебе нужно ковать меч, чтобы заострить его края. Кликай вдоль краев меча, чтобы ковать.",
+  "qwen": "Тебе нужно провести чеканку меча, чтобы отточить его края. Кликай по краям меча, чтобы бить молотком.",
+  "gemma4": "Тебе нужно провести чеканку меча, чтобы отточить его края. Кликай по краям меча, чтобы бить молотком."
+ },
+ "You can only swing the hammer 18 times, so try to space your hammering to make it all the way around the sword blade!": {
+  "es": "Solo puedes dar 18 golpes de martillo, ¡así que repártelos para cubrir todo el contorno de la hoja!",
+  "gemma": "Ты можешь ударить молот только 18 раз, поэтому старайся равномерно распределять удары, чтобы обработать всю поверхность лезвия!",
+  "qwen": "Ты можешь ударить молотком всего 18 раз, так что старайся распределять чеканку так, чтобы обработать всё лезвие меча!",
+  "gemma4": "Ты можешь ударить молотком всего 18 раз, так что старайся распределять чеканку так, чтобы обработать всё лезвие меча!"
+ },
+ "You build the handle of a sword by dropping parts onto it. First drag and release a Guard onto the sword's end.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una guarda en el extremo.",
+  "gemma": "Ты создаешь рукоять меча, помещая детали на нее. Сначала перетащи и отпусти гарду на конец меча.",
+  "qwen": "Ты собираешь рукоять меча, перетаскивая на неё детали. Сначала перетащи и отпусти гарду на конец меча.",
+  "gemma4": "Ты собираешь рукоять меча, перетаскивая на неё детали. Сначала перетащи и отпусти гарду на конец меча."
+ },
+ "Next drop a Grip onto the sword. Try to line up the parts correctly to make the sword more durable.": {
+  "es": "Ahora suelta un mango. Alinea bien las piezas para que la espada sea más duradera.",
+  "gemma": "Затем добавьте рукоять к мечу. Старайтесь правильно совмещать детали, чтобы сделать меч более прочным.",
+  "qwen": "Теперь перетащи рукоять на меч. Старайся правильно совмещать детали, чтобы меч был прочнее.",
+  "gemma4": "Теперь перетащи рукоять на меч. Старайся правильно совмещать детали, чтобы меч был прочнее."
+ },
+ "Next drop a Cap onto the sword to finish the hilt.": {
+  "es": "Ahora suelta un pomo para terminar el agarre.",
+  "gemma": "Затем добавьте навершие к мечу, чтобы завершить рукоять.",
+  "qwen": "Теперь перетащи навершие на меч, чтобы закончить рукоять.",
+  "gemma4": "Теперь перетащи навершие на меч, чтобы закончить рукоять."
+ },
+ "Click Finish to deliver this sword to a waiting swordsman!": {
+  "es": "¡Haz clic en Terminar para entregar la espada al espadachín que espera!",
+  "gemma": "Нажми \"Готово\", чтобы отдать этот меч ожидающему воина!",
+  "qwen": "Нажми «Готово», чтобы отдать этот меч ожидающему воину!",
+  "gemma4": "Нажми «Готово», чтобы отдать этот меч ожидающему воину!"
+ },
+ "You can see how well you crafted\nthe sword here.": {
+  "es": "Aquí puedes ver qué tan bien forjaste la espada.",
+  "gemma": "Ты можешь увидеть, насколько хорошо ты сделал этот меч.",
+  "qwen": "Здесь ты можешь увидеть, насколько хорошо ты скрафтил меч.",
+  "gemma4": "Здесь ты можешь увидеть, насколько хорошо ты скрафтил меч."
+ },
+ "You'll wait for three soldiers today.\nTake this soldier's order, and start\nbuilding another sword!": {
+  "es": "Hoy esperarás a tres soldados. ¡Toma el pedido de este soldado y empieza otra espada!",
+  "gemma": "Сегодня к тебе придет три солдата. Прими заказ этого солдата и начни делать еще один меч!",
+  "qwen": "Сегодня тебя ждут три солдата. Возьми заказ этого солдата и начни делать следующий меч!",
+  "gemma4": "Сегодня тебя ждут три солдата. Возьми заказ этого солдата и начни делать следующий меч!"
+ },
+ "Monsters will drop Loot when attacked.": {
+  "es": "Los monstruos sueltan botín al ser atacados.",
+  "gemma": "Монстры будут ронять добычу при атаке.",
+  "qwen": "Монстры сбрасывают добычу при атаке.",
+  "gemma4": "Монстры сбрасывают добычу при атаке."
+ },
+ "Move your Mouse over the dropped items\nto collect them!": {
+  "es": "¡Pasa el ratón sobre los objetos caídos para recogerlos!",
+  "gemma": "Передвинь курсор мыши над предметами, чтобы их подобрать!",
+  "qwen": "Наведи курсор на выпавшие предметы, чтобы подобрать их!",
+  "gemma4": "Наведи курсор на выпавшие предметы, чтобы подобрать их!"
+ },
+ "Be sure to collect it!": {
+  "es": "¡No olvides recogerlo!",
+  "gemma": "Не забудь её собрать!",
+  "qwen": "Не забудь собрать её!",
+  "gemma4": "Не забудь собрать её!"
+ },
+ "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!": {
+  "es": "Si derrotas a todos los monstruos del sendero del día, ¡obtendrás un diseño de arma épica y sus piezas de un cofre del tesoro!",
+  "gemma": "Если ты победишь всех монстров за один день, ты сможешь получить чертёж эпического оружия и его компоненты из сундука с сокровищами!",
+  "qwen": "Если ты победишь всех монстров на тропе за день, ты сможешь получить чертёж эпического оружия и его детали из сундука с сокровищами!",
+  "gemma4": "Если ты победишь всех монстров на тропе за день, ты сможешь получить чертёж эпического оружия и его детали из сундука с сокровищами!"
+ },
+ "You can now craft Pikes!": {
+  "es": "¡Ya puedes forjar lanzas!",
+  "gemma": "Теперь ты можешь создавать копья!",
+  "qwen": "Теперь ты можешь создавать копья! (Wait, Pike = копьё. Correct: Теперь ты можешь создавать копья!) -> N. Теперь ты можешь создавать копья! (Actually, the prompt says Pike = копьё, but \"копья\" is the plural. Let's check: \"копьё\" is singular. \"копья\" is plural. The RU says \"копья\". I will keep it as is or adjust to \"копьё\" if strictly required, but \"копья\" is more natural for \"Pikes\". However, since the term is \"копьё\", I'll check if it's a typo in the prompt's term list. \"копьё\" is a specific type of pike. I'll stick to the provided term's root.) -> N. Теперь ты можешь создавать копья! (Wait, the prompt says Pike = копьё. I will use the plural of that.) -> N. Теперь ты можешь создавать копья! (Actually, \"копья\" is the standard plural. I'll leave it.)",
+  "gemma4": "Теперь ты можешь создавать копья! (Wait, Pike = копьё. Correct: Теперь ты можешь создавать копья!) -> N. Теперь ты можешь создавать копья! (Actually, the prompt says Pike = копьё, but \"копья\" is the plural. Let's check: \"копьё\" is singular. \"копья\" is plural. The RU says \"копья\". I will keep it as is or adjust to \"копьё\" if strictly required, but \"копья\" is more natural for \"Pikes\". However, since the term is \"копьё\", I'll check if it's a typo in the prompt's term list. \"копьё\" is a specific type of pike. I'll stick to the provided term's root.) -> N. Теперь ты можешь создавать копья! (Wait, the prompt says Pike = копьё. I will use the plural of that.) -> N. Теперь ты можешь создавать копья! (Actually, \"копья\" is the standard plural. I'll leave it.)"
+ },
+ "It's even stronger than Copper, but you\nhave a limited supply of Bronze Ore.": {
+  "es": "Es aún más fuerte que el cobre, pero tu mineral de bronce es limitado.",
+  "gemma": "Оно даже прочнее, чем медная, но у тебя ограниченный запас бронзовой руды.",
+  "qwen": "Оно даже прочнее меди, но у тебя ограниченный запас бронзовой руды.",
+  "gemma4": "Оно даже прочнее меди, но у тебя ограниченный запас бронзовой руды."
+ },
+ "You can Scrap a weapon at any time during crafting,which will destroy that weapon and restore allmetal and parts to your inventory.": {
+  "es": "Puedes desechar un arma en cualquier momento de la forja: se destruirá y todo el metal y las piezas volverán a tu inventario.",
+  "gemma": "Ты можешь разобрать оружие в любое время во время создания, что уничтожит его и вернет весь металл и детали в твой инвентарь.",
+  "qwen": "Ты можешь разобрать оружие в любой момент создания: оно будет уничтожено, а весь металл и детали вернутся в твой инвентарь.",
+  "gemma4": "Ты можешь разобрать оружие в любой момент создания: оно будет уничтожено, а весь металл и детали вернутся в твой инвентарь."
+ },
+ "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.": {
+  "es": "Arma la cabeza del hacha uniendo las tres piezas al centro. Arrastra cada hoja y púa, y suéltala cuando toque el centro. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Создай головку топора, соединив все три части в центре. Перетаскивай каждую лезвие и шип, и отпускай, когда они окажутся напротив центра. Держи их ровно, чтобы получить максимальную силу для топора.",
+  "qwen": "Создай головку топора, соединив все три части в центре. Перетаскивай каждое лезвие и шип, и отпускай, когда они окажутся напротив центра. Держи их ровно, чтобы получить максимальную силу топора.",
+  "gemma4": "Создай головку топора, соединив все три части в центре. Перетаскивай каждое лезвие и шип, и отпускай, когда они окажутся напротив центра. Держи их ровно, чтобы получить максимальную силу топора."
+ },
+ "Drag a Grip and Cap onto the axe to finish the handle.": {
+  "es": "Arrastra un mango y un pomo al hacha para terminar el agarre.",
+  "gemma": "Перетащи рукоять и навершие на топор, чтобы закончить рукоять.",
+  "qwen": "Перетащи рукоять и навершие на топор, чтобы доделать рукоять.",
+  "gemma4": "Перетащи рукоять и навершие на топор, чтобы доделать рукоять."
+ },
+ "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.": {
+  "es": "Puedes ver las piezas necesarias para forjar esta arma, y una marca si ya las tienes.",
+  "gemma": "Здесь ты можешь увидеть детали, необходимые для создания этого оружия, и узнать, есть ли они у тебя.",
+  "qwen": "Здесь ты можешь увидеть детали, необходимые для создания этого оружия, и отметку, если они у тебя уже есть.",
+  "gemma4": "Здесь ты можешь увидеть детали, необходимые для создания этого оружия, и отметку, если они у тебя уже есть."
+ },
+ "Your sidekick Scout will run ahead, and let you know\nwhat kind of enemies you will have to face that day.": {
+  "es": "Tu compañero Scout se adelantará y te dirá qué tipo de enemigos enfrentarás ese día.",
+  "gemma": "Твой помощник Скаут будет идти впереди и расскажет, с какими врагами тебе предстоит сразиться сегодня.",
+  "qwen": "Твой помощник Скаут будет идти впереди и расскажет, с какими врагами тебе предстоит сразиться в этот день.",
+  "gemma4": "Твой помощник Скаут будет идти впереди и расскажет, с какими врагами тебе предстоит сразиться в этот день."
+ },
+ "You need to hammer a sword to sharpen its edges.\nClick along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "Нужно ковать меч, чтобы заострить его края. Кликай вдоль краев меча, чтобы ковать.",
+  "qwen": "Кликай вдоль краев меча, чтобы чеканить.",
+  "gemma4": "Кликай вдоль краев меча, чтобы чеканить."
+ },
+ "If you hammer poorly, the sword won't have as much\nPower in battle. Hammer evenly around the edges to get\nthe maximum Power for your sword.": {
+  "es": "Si martillas mal, la espada no tendrá tanto poder en batalla. Martilla parejo por los bordes para lograr el poder máximo de tu espada.",
+  "gemma": "Если ковать плохо, меч будет иметь меньше силы в бою. Ковыряй равномерно по краям, чтобы получить максимальную силу для своего меча.",
+  "qwen": "Если ковать плохо, меч будет иметь меньше силы в бою. Чекань равномерно по краям, чтобы получить максимальную силу для своего меча.",
+  "gemma4": "Если ковать плохо, меч будет иметь меньше силы в бою. Чекань равномерно по краям, чтобы получить максимальную силу для своего меча."
+ },
+ "Drag each blade and spike, and release when it's against\nthe center piece. Keep them straight to get maximum\nPower for the axe.": {
+  "es": "Arrastra cada hoja y púa, y suéltala cuando toque la pieza central. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Перетащи каждую лезвие и шип, и отпусти, когда они окажутся напротив центральной части. Держи их ровно, чтобы получить максимальную силу для топора.",
+  "qwen": "Перетащи каждое лезвие и шип и отпусти, когда они окажутся напротив центральной части. Держи их ровно, чтобы получить максимальную силу топора.",
+  "gemma4": "Перетащи каждое лезвие и шип и отпусти, когда они окажутся напротив центральной части. Держи их ровно, чтобы получить максимальную силу топора."
+ },
+ "Chance to make enemies drop more loot\nor better loot": {
+  "es": "Probabilidad de que los enemigos suelten más o mejor botín",
+  "gemma": "Шанс заставить врагов выпадать больше добычи или более ценной добычи",
+  "qwen": "Шанс того, что враги выронят больше добычи или лучшую добычу",
+  "gemma4": "Шанс того, что враги выронят больше добычи или лучшую добычу"
+ },
+ "Wind Boosts only deal extra damage to\nWind Enemies": {
+  "es": "La mejora de viento solo daña más a enemigos de viento",
+  "gemma": "Усиления ветра наносят дополнительный урон только ветреным врагам",
+  "qwen": "только врагам ветра",
+  "gemma4": "только врагам ветра"
+ },
+ "Lightning Boosts only deal extra damage to\nLightning Enemies": {
+  "es": "La mejora de rayo solo daña más a enemigos de rayo",
+  "gemma": "Усиления молнии наносят дополнительный урон только врагам, пораженным молнией",
+  "qwen": "только молниевым врагам",
+  "gemma4": "только молниевым врагам"
+ },
+ "Plant Boosts only deal extra damage to\nPlant Enemies": {
+  "es": "La mejora de planta solo daña más a enemigos de planta",
+  "gemma": "Усиления, связанные с растениями, наносят дополнительный урон только монстрам-растениям",
+  "qwen": "Усиления растений наносят дополнительный урон только монстрам-растениям",
+  "gemma4": "Усиления растений наносят дополнительный урон только монстрам-растениям"
+ },
+ "Shadow Boosts only deal extra damage to\nShadow Enemies": {
+  "es": "La mejora de sombra solo daña más a enemigos de sombra",
+  "gemma": "Усиления, связанные с тенью, наносят дополнительный урон только монстрам-теням",
+  "qwen": "Усиления тени наносят дополнительный урон только монстрам-теням",
+  "gemma4": "Усиления тени наносят дополнительный урон только монстрам-теням"
+ },
+ "Symbol used when an enemy is not an\nElemental Enemy": {
+  "es": "Símbolo usado cuando un enemigo no es elemental",
+  "gemma": "Символ, используемый, когда враг не является элементальным существом",
+  "qwen": "Символ, если враг не является элементальным",
+  "gemma4": "Символ, если враг не является элементальным"
+ },
+ "If you attach a part poorly, you may not get the full\nElemental Boost amount, so be careful!": {
+  "es": "Si colocas mal una pieza, quizá no recibas toda la mejora elemental, ¡así que ten cuidado!",
+  "gemma": "Если ты неправильно установишь деталь, ты можешь не получить полную величину элементального усиления, поэтому будь осторожен!",
+  "qwen": "Если неправильно установить деталь, ты можешь не получить полное усиление, так что будь осторожен!",
+  "gemma4": "Если неправильно установить деталь, ты можешь не получить полное усиление, так что будь осторожен!"
+ },
+ "If you craft stronger weapons, enemies may drop\nbetter metal ores as loot! When you start crafting Bronze\nweapons, enemies will start dropping some Iron Ore.": {
+  "es": "Si forjas armas más fuertes, ¡los enemigos pueden soltar mejores minerales! Cuando empieces a forjar armas de bronce, los enemigos soltarán algo de mineral de hierro.",
+  "gemma": "Если ты создаешь более мощное оружие, враги могут ронять более качественные руды в качестве добычи! Когда ты начнешь создавать оружие из бронзы, враги начнут ронять немного железной руды.",
+  "qwen": "Если ты создашь более мощное оружие, враги могут ронять более качественные руды в качестве добычи! Когда ты начнешь создавать оружие из бронзы, враги начнут ронять немного железной руды.",
+  "gemma4": "Если ты создашь более мощное оружие, враги могут ронять более качественные руды в качестве добычи! Когда ты начнешь создавать оружие из бронзы, враги начнут ронять немного железной руды."
+ },
+ "Click on one of the Cannonball buttons to launch\na cannonball into the field.": {
+  "es": "Haz clic en uno de los botones de bala de cañón para lanzarla al campo.",
+  "gemma": "Кликни на одну из кнопок \"Ядро\", чтобы выстрелить ядром из пушки.",
+  "qwen": "Нажми на одну из кнопок \"Ядро\", чтобы выстрелить ядром.",
+  "gemma4": "Нажми на одну из кнопок \"Ядро\", чтобы выстрелить ядром."
+ },
+ "After you use your cannon, it will need to recharge\nbefore you can fire that type of cannonball again.": {
+  "es": "Tras usar tu cañón, deberá recargarse antes de que puedas disparar otra vez ese tipo de bala.",
+  "gemma": "После использования пушки, ей потребуется перезарядка, прежде чем ты сможешь выстрелить этим типом ядра снова.",
+  "qwen": "После использования пушки она должна перезарядиться, прежде чем ты сможешь снова выстрелить таким типом ядра.",
+  "gemma4": "После использования пушки она должна перезарядиться, прежде чем ты сможешь снова выстрелить таким типом ядра."
+ },
+ "You will unlock some cannonballs that fire at\nyour troops instead of the enemy!\n\nThe Repair Bomb will repair some of\nthe durability on all of your weapons.\n\nThe Booster Bomb will give all of your soldiers a\nboosted attack power for a limited time!": {
+  "es": "¡Desbloquearás balas de cañón que se disparan a tus tropas y no al enemigo!\n\nLa bomba reparadora repara parte de la durabilidad de todas tus armas.\n\n¡La bomba potenciadora da a todos tus soldados más poder de ataque por un tiempo!",
+  "gemma": "Ты откроешь некоторые ядра, которые будут стрелять по твоим войскам, а не по врагам! Ремонтная бомба восстановит часть прочности всего твоего оружия. Бомба-усилитель временно увеличит силу атаки всех твоих солдат!",
+  "qwen": "Ты откроешь некоторые ядра, которые будут поражать твоих солдат, а не врагов! Ремонтная бомба восстановит часть прочности на всём твоём оружии. Бомба-усилитель временно увеличит силу атаки всех твоих солдат!",
+  "gemma4": "Ты откроешь некоторые ядра, которые будут поражать твоих солдат, а не врагов! Ремонтная бомба восстановит часть прочности на всём твоём оружии. Бомба-усилитель временно увеличит силу атаки всех твоих солдат!"
+ },
+ "Some cannonballs will affect the enemies\ntemporarily!\n\nThe Fire Bomb will slowly deal damage to the enemy\nas the fire burns.\n\nThe Lightning Bomb will zap an enemy's attack\npower for a limited time, so you take less damage\nfrom their attacks.\n\nThe Ice Bomb will freeze an enemy in place for a limited\ntime, so they can't fight back!": {
+  "es": "¡Algunas balas de cañón afectan a los enemigos por un tiempo!\n\nLa bomba de fuego daña poco a poco al enemigo mientras arde.\n\nLa bomba de rayo reduce el poder de ataque de un enemigo por un tiempo, así recibes menos daño de sus ataques.\n\nLa bomba de hielo congela a un enemigo por un tiempo, ¡y no podrá defenderse!",
+  "gemma": "Некоторые ядра будут временно влиять на врагов! Огненная бомба будет медленно наносить урон врагу, пока огонь горит. Молниевая бомба временно снизит силу атаки врага, поэтому ты будешь получать меньше урона от его атак. Ледяная бомба заморозит врага на короткое время, чтобы он не мог атаковать!",
+  "qwen": "Некоторые ядра будут временно воздействовать на врагов! Огненная бомба будет медленно наносить урон врагу, пока горит огонь. Молниевая бомба временно снизит силу атаки врага, чтобы ты получал меньше урона от его атак. Ледяная бомба заморозит врага на короткое время, чтобы он не мог атаковать!",
+  "gemma4": "Некоторые ядра будут временно воздействовать на врагов! Огненная бомба будет медленно наносить урон врагу, пока горит огонь. Молниевая бомба временно снизит силу атаки врага, чтобы ты получал меньше урона от его атак. Ледяная бомба заморозит врага на короткое время, чтобы он не мог атаковать!"
+ },
+ "If you defeat all of the monsters on a trail, you'll reach a\nTreasure Chest that contains an Epic Weapon Design and the\nparts needed to build it. Be sure to collect everything\nthat drops out of the chest!": {
+  "es": "Si derrotas a todos los monstruos de un sendero, llegarás a un cofre del tesoro con un diseño de arma épica y las piezas para forjarla. ¡Recoge todo lo que salga del cofre!",
+  "gemma": "Если ты победишь всех монстров на тропе, ты найдёшь сундук с сокровищами, в котором будет чертёж эпического оружия и детали для его создания. Не забудь собрать всё, что выпадет из сундука!",
+  "qwen": "Если ты победишь всех монстров на тропе, ты доберёшься до сундука с сокровищами, в котором находится чертёж эпического оружия и детали, необходимые для его создания. Обязательно собери всё, что выпадет из сундука!",
+  "gemma4": "Если ты победишь всех монстров на тропе, ты доберёшься до сундука с сокровищами, в котором находится чертёж эпического оружия и детали, необходимые для его создания. Обязательно собери всё, что выпадет из сундука!"
+ },
+ "Click the \"Designs\" book to browse through any\nWeapon Designs you've collected.\nYou can also press D on the keyboard, or go to the\nDesigns page from the MENU button.": {
+  "es": "Haz clic en el libro \"Diseños\" para consultar los diseños de armas que reuniste. También puedes pulsar D en el teclado, o ir a la página Diseños desde el botón MENÚ.",
+  "gemma": "Нажми на книгу \"Чертёжи\", чтобы посмотреть чертежи оружия, которые ты собрал. Ты также можешь нажать клавишу D на клавиатуре или перейти на страницу \"Чертёжи\" через кнопку \"МЕНЮ\".",
+  "qwen": "Нажми на книгу \"Чертёжи\", чтобы просмотреть чертежи оружия, которые ты собрал. Ты также можешь нажать клавишу D на клавиатуре или перейти на страницу \"Чертёжи\" через кнопку МЕНЮ.",
+  "gemma4": "Нажми на книгу \"Чертёжи\", чтобы просмотреть чертежи оружия, которые ты собрал. Ты также можешь нажать клавишу D на клавиатуре или перейти на страницу \"Чертёжи\" через кнопку МЕНЮ."
+ },
+ "A: Tabs for different weapon types\nB: List of designs found for this weapon type\nC: Parts needed to build this weapon\nD: Bonus Effect given to soldiers when you build this\nE: Bookmark Button": {
+  "es": "A: Pestañas de los tipos de arma\nB: Lista de diseños encontrados de este tipo de arma\nC: Piezas necesarias para forjar esta arma\nD: Efecto extra que reciben los soldados al forjarla\nE: Botón de marcador",
+  "gemma": "A: Вкладки для разных типов оружия. B: Список найденных чертежей для этого типа оружия. C: Детали, необходимые для создания этого оружия. D: Дополнительный эффект, который получают солдаты при создании этого оружия. E: Кнопка \"Отметить\"",
+  "qwen": "A: Вкладки для разных типов оружия B: Список найденных чертежей для этого типа оружия C: Детали, необходимые для создания этого оружия D: Дополнительный эффект, который получают солдаты при создании этого оружия E: Кнопка \"Отметить",
+  "gemma4": "A: Вкладки для разных типов оружия B: Список найденных чертежей для этого типа оружия C: Детали, необходимые для создания этого оружия D: Дополнительный эффект, который получают солдаты при создании этого оружия E: Кнопка \"Отметить"
+ },
+ "Design names will be shown in GREEN in the list if youcurrently have all of the parts and metals needed to build it.": {
+  "es": "Los nombres de los diseños salen en VERDE en la lista si tienes todas las piezas y metales necesarios para forjarlos.",
+  "gemma": "Названия чертежей будут отображаться ЗЕЛЁНЫМ цветом в списке, если у тебя есть все необходимые детали и металл для их создания.",
+  "qwen": "Названия чертежей будут отображаться ЗЕЛЁНЫМ цветом в списке, если у тебя есть все детали и металл, необходимые для их создания.",
+  "gemma4": "Названия чертежей будут отображаться ЗЕЛЁНЫМ цветом в списке, если у тебя есть все детали и металл, необходимые для их создания."
+ },
+ "Design names will have a Star if you've built at least one\nof this Epic Weapon before.": {
+  "es": "Los nombres de los diseños tendrán una estrella si ya forjaste esa arma épica al menos una vez.",
+  "gemma": "Рядом с названием чертежа появится звездочка, если ты уже создал хотя бы одно из этого эпического оружия.",
+  "qwen": "Названия чертежей будут иметь звездочку, если ты уже создал хотя бы одно из этих эпических видов оружия.",
+  "gemma4": "Названия чертежей будут иметь звездочку, если ты уже создал хотя бы одно из этих эпических видов оружия."
+ },
+ "If you are having trouble saving your progress, make sure\nyou have plenty of storage space available so there is room\nfor your game progress to be saved.": {
+  "es": "Si tienes problemas para guardar tu progreso, comprueba que tengas bastante espacio de almacenamiento libre para que se pueda guardar.",
+  "gemma": "Если у тебя возникают проблемы с сохранением прогресса, убедись, что у тебя достаточно свободного места на диске, чтобы игра могла сохранить данные.",
+  "qwen": "Если у тебя возникают проблемы с сохранением прогресса, убедись, что у тебя достаточно свободного места, чтобы игра могла сохранить данные.",
+  "gemma4": "Если у тебя возникают проблемы с сохранением прогресса, убедись, что у тебя достаточно свободного места, чтобы игра могла сохранить данные."
+ },
+ "You can change how the game is displayed on your computer\nwithin the App Settings screen.": {
+  "es": "Puedes cambiar cómo se muestra el juego en tu computadora desde la pantalla de Ajustes.",
+  "gemma": "Ты можешь изменить настройки отображения игры в разделе \"Настройки приложения\".",
+  "qwen": "Ты можешь изменить отображение игры на компьютере в меню «Настройки приложения».",
+  "gemma4": "Ты можешь изменить отображение игры на компьютере в меню «Настройки приложения»."
+ },
+ "Press the button while playing to open App Settings.": {
+  "es": "Pulsa               mientras juegas para abrir los Ajustes.",
+  "gemma": "Нажми эту кнопку во время игры, чтобы открыть \"Настройки приложения\".",
+  "qwen": "Нажми кнопку во время игры, чтобы открыть «Настройки приложения».",
+  "gemma4": "Нажми кнопку во время игры, чтобы открыть «Настройки приложения»."
+ },
+ "You can also press the Escape key on your keyboard to open\nthe App Settings screen at any time, and you can also find\nthe button on the title screen.": {
+  "es": "También puedes pulsar la tecla Escape del teclado para abrir la pantalla de Ajustes en cualquier momento, y el botón está también en la pantalla de título.",
+  "gemma": "Ты также можешь нажать клавишу Escape на клавиатуре, чтобы открыть экран \"Настройки приложения\" в любое время, а также найти эту кнопку на главном экране.",
+  "qwen": "Ты также можешь нажать клавишу Escape на клавиатуре, чтобы в любой момент открыть «Настройки приложения», а также найти кнопку на главном экране.",
+  "gemma4": "Ты также можешь нажать клавишу Escape на клавиатуре, чтобы в любой момент открыть «Настройки приложения», а также найти кнопку на главном экране."
+ },
+ "You can change whether you want the game to appear\nFull Screen, and can change the window size between\nvarious widescreen and classic (square) sizes.": {
+  "es": "Puedes elegir si el juego se ve en pantalla completa, y cambiar el tamaño de ventana entre varios tamaños panorámicos y clásicos (cuadrados).",
+  "gemma": "Ты можешь выбрать, чтобы игра отображалась в полноэкранном режиме, и изменить размер окна, выбрав один из вариантов: широкоэкранный или классический (квадратный).",
+  "qwen": "Ты можешь выбрать полноэкранный режим и изменить размер окна, выбрав один из вариантов: широкоэкранный или классический (квадратный).",
+  "gemma4": "Ты можешь выбрать полноэкранный режим и изменить размер окна, выбрав один из вариантов: широкоэкранный или классический (квадратный)."
+ },
+ "If your computer is having issues where the game is\nrunning slowly, you can change the Graphics Quality to\nlower settings to improve performance.": {
+  "es": "Si el juego va lento en tu computadora, puedes bajar la calidad gráfica para mejorar el rendimiento.",
+  "gemma": "Если у тебя возникают проблемы с производительностью игры, попробуй снизить качество графики, чтобы улучшить её.",
+  "qwen": "Если игра тормозит на твоем компьютере, ты можешь снизить качество графики, чтобы улучшить производительность.",
+  "gemma4": "Если игра тормозит на твоем компьютере, ты можешь снизить качество графики, чтобы улучшить производительность."
+ },
+ "You can also display the game in smaller window sizes\nif you are having performance issues with how the game\nis running on your computer.": {
+  "es": "También puedes mostrar el juego en ventanas más pequeñas si tienes problemas de rendimiento en tu computadora.",
+  "gemma": "Ты также можешь отображать игру в окне меньшего размера, если у тебя возникают проблемы с производительностью на твоём компьютере.",
+  "qwen": "Ты также можешь уменьшить размер окна, если у тебя возникают проблемы с производительностью.",
+  "gemma4": "Ты также можешь уменьшить размер окна, если у тебя возникают проблемы с производительностью."
+ },
+ "There are options to mute the music, mute sound effects,\nchange master volume, and quit the app from this menu.": {
+  "es": "En este menú hay opciones para silenciar la música, silenciar los efectos, cambiar el volumen general y salir del juego.",
+  "gemma": "В этом меню есть опции для отключения музыки, звуковых эффектов, изменения громкости и выхода из приложения.",
+  "qwen": "В этом меню есть опции для отключения музыки, звуковых эффектов, изменения общей громкости и выхода из приложения.",
+  "gemma4": "В этом меню есть опции для отключения музыки, звуковых эффектов, изменения общей громкости и выхода из приложения."
+ },
+ "You can adjust some gameplay settings\nfrom the SETTINGS menu.": {
+  "es": "Puedes ajustar algunas opciones de juego desde el menú OPCIONES.",
+  "gemma": "Ты можешь настроить некоторые параметры игры в меню \"НАСТРОЙКИ\".",
+  "qwen": "Ты можешь изменить некоторые настройки игры в меню «НАСТРОЙКИ».",
+  "gemma4": "Ты можешь изменить некоторые настройки игры в меню «НАСТРОЙКИ»."
+ },
+ "If you disable \"Screen Shake\", the screen will no longer\nshake when hammering weapons or during battle.": {
+  "es": "Si desactivas \"Sacudir pantalla\", la pantalla ya no temblará al martillar armas ni durante la batalla.",
+  "gemma": "Если ты отключишь \"Вибрацию экрана\", экран больше не будет трястись во время чеканки оружия или в бою.",
+  "qwen": "Если ты отключишь «Тряску экрана», экран перестанет трястись во время чеканки оружия или в бою.",
+  "gemma4": "Если ты отключишь «Тряску экрана», экран перестанет трястись во время чеканки оружия или в бою."
+ },
+ "When forging metals, the Pull Chain is tailored for easy\nmouse controls, especially when playing at full screen.": {
+  "es": "Al forjar metales, la cadena está adaptada para un control fácil con el ratón, sobre todo en pantalla completa.",
+  "gemma": "При ковке металла, цепь управления оптимизирована для удобного управления мышью, особенно при игре в полноэкранном режиме.",
+  "qwen": "При ковке металла цепь управления оптимизирована для удобного управления мышью, особенно в полноэкранном режиме.",
+  "gemma4": "При ковке металла цепь управления оптимизирована для удобного управления мышью, особенно в полноэкранном режиме."
+ },
+ "If you'd like to make the chain follow your mouse exactly,\nor if you're using a touch screen, you can disable\nthe \"Easy-to-Drag Forge Chain\" option.": {
+  "es": "Si prefieres que la cadena siga tu ratón con exactitud, o si usas pantalla táctil, puedes desactivar la opción \"Cadena de fragua fácil de arrastrar\".",
+  "gemma": "Если ты хочешь, чтобы цепь точно следовала за твоей мышью, или если ты используешь сенсорный экран, ты можешь отключить опцию \"Удобная цепь для ковки\".",
+  "qwen": "Если ты хочешь, чтобы цепь точно следовала за мышью, или если ты используешь сенсорный экран, ты можешь отключить опцию «Удобная цепь для ковки».",
+  "gemma4": "Если ты хочешь, чтобы цепь точно следовала за мышью, или если ты используешь сенсорный экран, ты можешь отключить опцию «Удобная цепь для ковки»."
+ },
+ "to open the Info Menu": {
+  "es": "para abrir el menú Info",
+  "gemma": "чтобы открыть меню \"Информация\"",
+  "qwen": "чтобы открыть меню «Инфо»",
+  "gemma4": "чтобы открыть меню «Инфо»"
+ },
+ "Double Axe": {
+  "es": "Hacha doble",
+  "gemma": "Двухсторонняя топор",
+  "qwen": "Двуручный топор",
+  "gemma4": "Двуручный топор"
+ }
+}

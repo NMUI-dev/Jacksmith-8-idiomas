@@ -1,0 +1,99 @@
+JACKSMITH: WEAPONS AND WARRIORS — TRADUCCIÓN A MÚLTIPLES IDIOMAS + VOLUMEN POR GRUPOS
+=====================================================================================
+Versión del mod: 1.1.0 (19-oct-2026)
+Hecho para: Jacksmith: Weapons and Warriors de Steam, versión 1.0.1 (compilación 18571048).
+
+QUÉ HACE
+--------
+ * Idiomas: Español, Inglés, Italiano, Portugués (Brasil), Francés, Alemán, Ruso, Japonés, Chino simplificado y
+   Chino tradicional. La primera vez que abras el juego te pregunta el idioma antes de nada (cada idioma
+   escrito en su propio idioma: 日本語, Русский, 简体中文...).
+   Después se cambia en Ajustes (el engranaje): es la PRIMERA opción, y cambia al momento, sin reiniciar.
+   Debajo verás «Próximamente más idiomas» y un aviso: los idiomas nuevos están traducidos con ayuda de IA;
+   si hay errores, perdón: el objetivo es que la mayor cantidad de personas pueda jugarlo.
+ * Sonido, todo junto en Ajustes: silenciar efectos / música, volumen General y un deslizador para cada
+   grupo de sonidos: Música, Melodías, Interfaz, Taller y Batalla. Al soltar un deslizador suena una
+   muestra de ese grupo. Viene más bajo que el juego original (que sonaba muy fuerte). Se guarda solo.
+ * En inglés el juego se ve con sus textos originales.
+
+CÓMO INSTALAR
+-------------
+ 1. Cierra el juego.
+ 2. Doble clic en «Instalar.bat». Encuentra solo tu copia de Steam (si no, te pide la carpeta).
+ 3. Cuando diga LISTO, abre el juego desde Steam como siempre.
+    Si Windows pregunta si quieres ejecutarlo, di que sí: solo cambia un archivo del juego
+    (Data\assets\Main.assets) y añade la carpeta Data\mods. Antes guarda tu archivo original.
+
+CÓMO QUITARLO
+-------------
+ Doble clic en «Desinstalar.bat». Devuelve tu archivo original y borra lo que añadió el mod.
+ Tus partidas no se tocan ni al instalar ni al quitar.
+
+SI STEAM ACTUALIZA EL JUEGO O USAS «VERIFICAR INTEGRIDAD DE LOS ARCHIVOS»
+------------------------------------------------------------------------
+ Steam volverá a poner su archivo original y el mod dejará de verse (no se rompe nada).
+ Vuelve a ejecutar «Instalar.bat». Si el juego cambió de versión, el instalador lo detecta, no toca
+ nada y te avisa de que hace falta una versión nueva del mod.
+
+QUÉ TIENE DENTRO ESTE PAQUETE
+-----------------------------
+ Ningún archivo del juego. Solo un parche (las diferencias), las tablas de idioma y de sonidos
+ (parche\mods\...) y el instalador. Necesitas tu propia copia original del juego.
+
+ Las tablas son texto y se pueden abrir con el Bloc de notas:
+   parche\mods\30_espanol\lang\es.json   -> todas las frases en español
+   parche\mods\31_idiomas\lang\<código>.json -> los demás idiomas (it, pt, fr, de, ru, ja, zh_hans, zh_hant)
+   parche\mods\20_volumen\sonidos.json   -> qué sonido va en cada grupo de volumen
+
+PARA MODS FUTUROS
+-----------------
+ El mod trae una capa común («núcleo») pensada para añadir cosas sin pisarse:
+ cada mod es una carpeta dentro de Data\mods (idiomas nuevos, grupos de sonido, extras).
+ Un idioma nuevo es solo un archivo más: Data\mods\<carpeta>\lang\<código>.json.
+
+CAMBIOS DE LA 1.0.1
+-------------------
+ * Historia inicial y final: cada renglón cabe entero (antes se cortaban palabras).
+ * Ajustes: todo queda dentro del panel; las etiquetas ya no pisan los iconos.
+ * Ayuda: los textos caben en el papel; los iconos metidos en el texto (gema, trébol, engranaje)
+   siguen dentro de su hueco; el título de cada tema vuelve a cambiar al cambiar de tema.
+ * «Mango» en lugar de «Empuñadura»/«Empuñ.»; el conjunto pasa a llamarse «agarre».
+ * Zonas del mapa traducidas: Tierras Bajas, Manantiales de Ceniza, Cresta Alpina, Dunas de Huesos,
+   Bosque Sombrío, Valle Amargo, Ruinas del Castillo.
+
+CAMBIOS DE LA 1.0.2
+-------------------
+ * Rótulos DIBUJADOS traducidos con la misma letra del original, y cambian con el idioma al momento:
+   Tienda, Menú, Atrás, Saltar, Nivel, «Tienes» (tienda e inventario), Tira (cadena de la fragua), Guardar,
+   estandartes Espada/Arco/Escudo/Hacha/Lanza/Maza, libros Ayuda/Bestias/Diseños, Nuevo, Sí/No de Ajustes,
+   puntuaciones (¡Perfecto!, Genial, Muy bien, Bien, Regular, Mmm..., Qué mal, ¡Bien!, ¡Genial!),
+   «¡Preparando la Batalla!», «Diseños de armas épicas», el cartel RECOMPENSA de la historia y la pantalla
+   de desbloqueo: Nueva Arma / Nueva Bala de Cañón / ¡Cuidado! / Nuevo en la Tienda.
+ * «Pulsa D para ver tus diseños»: el recuadro de la tecla ya no tapa la palabra de al lado.
+ * Ayuda > Ajustes: el engranaje ya no pisa el texto.
+ * Sin tocar a propósito: los logotipos (JACKSMITH, Weapons and Warriors, Flipline Studios), los nombres de
+   enemigos (decisión tuya) y el nombre «DUDLEY» del cartel.
+
+CAMBIOS DE LA 1.0.3
+-------------------
+ * Ajustes > Salir: la pregunta «¿Seguro que quieres salir?» ya no queda tapada por las opciones de sonido.
+
+CAMBIOS DE LA 1.1.0 (TRADUCCIÓN A MÚLTIPLES IDIOMAS)
+---------------------------------------------------
+ * 8 idiomas nuevos: italiano, portugués (Brasil), francés, alemán, ruso, japonés, chino simplificado y chino
+   tradicional. Textos, menús, ayuda, historia, pedidos y también los rótulos DIBUJADOS (tienda, estandartes,
+   puntuaciones, Sí/No...) en cada idioma.
+ * Letras: a las fuentes del juego se les añadieron las que faltaban (cirílico, japonés y chino) con fuentes
+   libres (Noto Sans, Noto Sans JP/SC/TC; licencias en la carpeta «licencias»).
+ * Selector de idioma en dos columnas, con cada idioma escrito en su propio idioma.
+ * Cómo se tradujo: dos IA locales (TranslateGemma traduce tomando el español revisado como guía, Gemma 4
+   revisa) y Claude revisó a mano las dudas, el vocabulario fijo del juego y las frases que no cabían.
+
+LO QUE QUEDA PARA QUE LO PRUEBES TÚ
+-----------------------------------
+ * El tutorial completo de partida nueva (lo vi hasta verter el metal en el molde).
+ * Los tamaños 4:3 («clásica») y la pantalla completa con esta versión.
+ * Arrancar DESDE STEAM: logros, nube y superposición (Mayús+Tab). En mi prueba, con una copia aparte del
+   juego y Steam abierto sin conexión, el juego arrancó, leyó tu partida y no cambió ningún archivo tuyo.
+ * Batalla y fin de batalla jugando de verdad (solo los abrí forzados).
+

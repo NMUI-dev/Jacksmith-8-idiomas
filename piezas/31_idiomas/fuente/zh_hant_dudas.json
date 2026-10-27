@@ -1,0 +1,608 @@
+{
+ "Gives your soldiers a boost in attack power": {
+  "es": "Da a tus soldados más poder de ataque",
+  "gemma": "為你的士兵提供攻擊力強化",
+  "qwen": "為你的士兵提供攻擊力強化",
+  "gemma4": "為你的士兵提供攻擊力強化"
+ },
+ "Repairs your soldiers' weapons": {
+  "es": "Repara las armas de tus soldados",
+  "gemma": "修復你的士兵的武器",
+  "qwen": "修復你士兵的武器",
+  "gemma4": "修復你士兵的武器"
+ },
+ "Craft 10 Axes": {
+  "es": "Forja 10 hachas",
+  "gemma": "製作 10 隻斧",
+  "qwen": "製作 10 把斧",
+  "gemma4": "製作 10 把斧"
+ },
+ "Craft 10 Bows": {
+  "es": "Forja 10 arcos",
+  "gemma": "製作 10 隻弓",
+  "qwen": "製作 10 把弓",
+  "gemma4": "製作 10 把弓"
+ },
+ "Craft 10 Epic Weapons": {
+  "es": "Forja 10 armas épicas",
+  "gemma": "製作 10 隻史詩武器",
+  "qwen": "製作 10 把史詩武器",
+  "gemma4": "製作 10 把史詩武器"
+ },
+ "Craft 10 Maces": {
+  "es": "Forja 10 mazas",
+  "gemma": "製作 10 隻錘",
+  "qwen": "製作 10 把錘",
+  "gemma4": "製作 10 把錘"
+ },
+ "Craft 10 Pikes": {
+  "es": "Forja 10 lanzas",
+  "gemma": "製作 10 隻長槍",
+  "qwen": "製作 10 把長槍",
+  "gemma4": "製作 10 把長槍"
+ },
+ "Craft 10 Shields": {
+  "es": "Forja 10 escudos",
+  "gemma": "製作 10 隻盾",
+  "qwen": "製作 10 面盾",
+  "gemma4": "製作 10 面盾"
+ },
+ "Craft 10 Swords": {
+  "es": "Forja 10 espadas",
+  "gemma": "製作 10 隻劍",
+  "qwen": "製作 10 把劍",
+  "gemma4": "製作 10 把劍"
+ },
+ "Craft 20 Epic Weapons": {
+  "es": "Forja 20 armas épicas",
+  "gemma": "製作 20 支史詩武器",
+  "qwen": "製作 20 把史詩武器",
+  "gemma4": "製作 20 把史詩武器"
+ },
+ "Craft 5 weapons": {
+  "es": "Forja 5 armas",
+  "gemma": "製作 5 支武器",
+  "qwen": "製作 5 把武器",
+  "gemma4": "製作 5 把武器"
+ },
+ "Frequent Fletcher": {
+  "es": "Flechero frecuente",
+  "gemma": "經常的箭匠",
+  "qwen": "常客箭匠",
+  "gemma4": "常客箭匠"
+ },
+ "Get 100% Construction score on any 20 Axes, Shields, or Maces": {
+  "es": "Logra 100% en Construcción en 20 hachas, escudos o mazas",
+  "gemma": "在任意20把斧頭、盾牌或錘上，獲得100%的組裝分數",
+  "qwen": "在任意20把斧、盾或錘上，獲得100%的組裝分數",
+  "gemma4": "在任意20把斧、盾或錘上，獲得100%的組裝分數"
+ },
+ "Get 3 different Weapon Designs for Axes": {
+  "es": "Consigue 3 diseños distintos de hachas",
+  "gemma": "獲得3種不同的斧頭武器設計圖",
+  "qwen": "獲得3種不同的斧武器設計圖",
+  "gemma4": "獲得3種不同的斧武器設計圖"
+ },
+ "Golden Gear": {
+  "es": "Equipo dorado",
+  "gemma": "金屬裝備",
+  "qwen": "黃金裝備",
+  "gemma4": "黃金裝備"
+ },
+ "Golden Stats": {
+  "es": "Estadísticas de oro",
+  "gemma": "金屬屬性",
+  "qwen": "黃金屬性",
+  "gemma4": "黃金屬性"
+ },
+ "Repair your troops' weapons 10 times with your Repair Bomb": {
+  "es": "Repara las armas de tus tropas 10 veces con tu bomba reparadora",
+  "gemma": "使用「修理炸彈」為你的士兵修理武器 10 次",
+  "qwen": "使用「修理炸彈」為你的部隊修理武器 10 次",
+  "gemma4": "使用「修理炸彈」為你的部隊修理武器 10 次"
+ },
+ "Silver Starter": {
+  "es": "Inicio de plata",
+  "gemma": "銀色入門",
+  "qwen": "銀色新手包",
+  "gemma4": "銀色新手包"
+ },
+ "Sword Collection": {
+  "es": "Colección de espadas",
+  "gemma": "劍的收藏",
+  "qwen": "劍收藏",
+  "gemma4": "劍收藏"
+ },
+ "Trail of Shadows": {
+  "es": "Sendero de sombras",
+  "gemma": "暗影之路",
+  "qwen": "暗影道路",
+  "gemma4": "暗影道路"
+ },
+ "Unlock all types of Axes": {
+  "es": "Desbloquea cada tipo de hacha",
+  "gemma": "解鎖所有種類斧頭",
+  "qwen": "解鎖所有種類的斧頭",
+  "gemma4": "解鎖所有種類的斧頭"
+ },
+ "Unlock all types of Bows": {
+  "es": "Desbloquea cada tipo de arco",
+  "gemma": "解鎖所有種類弓",
+  "qwen": "解鎖所有種類的弓",
+  "gemma4": "解鎖所有種類的弓"
+ },
+ "Unlock all types of Maces": {
+  "es": "Desbloquea cada tipo de maza",
+  "gemma": "解鎖所有種類錘",
+  "qwen": "解鎖所有種類的錘",
+  "gemma4": "解鎖所有種類的錘"
+ },
+ "Unlock all types of Shields": {
+  "es": "Desbloquea cada tipo de escudo",
+  "gemma": "解鎖所有種類盾",
+  "qwen": "解鎖所有種類的盾",
+  "gemma4": "解鎖所有種類的盾"
+ },
+ "Unlock all types of Swords": {
+  "es": "Desbloquea cada tipo de espada",
+  "gemma": "解鎖所有種類劍",
+  "qwen": "解鎖所有種類的劍",
+  "gemma4": "解鎖所有種類的劍"
+ },
+ "Water Weapons": {
+  "es": "Armas de agua",
+  "gemma": "水屬性武器",
+  "qwen": "水武器",
+  "gemma4": "水武器"
+ },
+ "Wind Warriors": {
+  "es": "Guerreros del viento",
+  "gemma": "風屬性戰士",
+  "qwen": "風戰士",
+  "gemma4": "風戰士"
+ },
+ "XP to Next Level": {
+  "es": "XP al próximo nivel",
+  "gemma": "經驗值，升至下一等級",
+  "qwen": "距離下一等級的 XP",
+  "gemma4": "距離下一等級的 XP"
+ },
+ "Burning Longlegs": {
+  "es": "Patilargo ardiente",
+  "gemma": "燃燒的長腿怪",
+  "qwen": "燃燒長腿怪",
+  "gemma4": "燃燒長腿怪"
+ },
+ "Ice Dragon": {
+  "es": "Dragón de hielo",
+  "gemma": "冰霜巨龍",
+  "qwen": "冰龍",
+  "gemma4": "冰龍"
+ },
+ "Wind Dragon": {
+  "es": "Dragón de viento",
+  "gemma": "狂風巨龍",
+  "qwen": "風龍",
+  "gemma4": "風龍"
+ },
+ "% Complete": {
+  "es": "% completado",
+  "gemma": "完成度：%",
+  "qwen": "% 已完成",
+  "gemma4": "% 已完成"
+ },
+ "Boss": {
+  "es": "Jefe",
+  "gemma": "Boss (首領)",
+  "qwen": "Boss",
+  "gemma4": "Boss"
+ },
+ "Created": {
+  "es": "Creada",
+  "gemma": "已建立",
+  "qwen": "已製作",
+  "gemma4": "已製作"
+ },
+ "Day:": {
+  "es": "Día:",
+  "gemma": "第幾天：",
+  "qwen": "第...天：",
+  "gemma4": "第...天："
+ },
+ "Defeated!": {
+  "es": "¡Derrotado!",
+  "gemma": "擊敗！",
+  "qwen": "已擊敗！",
+  "gemma4": "已擊敗！"
+ },
+ "Killed": {
+  "es": "Derrotado",
+  "gemma": "消滅",
+  "qwen": "已擊殺",
+  "gemma4": "已擊殺"
+ },
+ "No Enemies Encountered": {
+  "es": "Sin enemigos encontrados",
+  "gemma": "尚未遭遇敵人",
+  "qwen": "未遭遇敵人",
+  "gemma4": "未遭遇敵人"
+ },
+ "None Created Yet": {
+  "es": "Ninguna creada aún",
+  "gemma": "尚未建立",
+  "qwen": "尚未製作",
+  "gemma4": "尚未製作"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "次數",
+  "qwen": "時間",
+  "gemma4": "時間"
+ },
+ "Times": {
+  "es": "veces",
+  "gemma": "幾次",
+  "qwen": "次數",
+  "gemma4": "次數"
+ },
+ "Sheepshearer": {
+  "es": "Esquilador",
+  "gemma": "羊毛剪輯師",
+  "qwen": "剪羊毛工",
+  "gemma4": "剪羊毛工"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "向左揮動",
+  "qwen": "剩餘揮擊次數",
+  "gemma4": "剩餘揮擊次數"
+ },
+ "Name Here": {
+  "es": "Tu nombre",
+  "gemma": "在此處輸入名字",
+  "qwen": "輸入名字",
+  "gemma4": "輸入名字"
+ },
+ "Quit App": {
+  "es": "Salir",
+  "gemma": "退出遊戲",
+  "qwen": "退出應用程式",
+  "gemma4": "退出應用程式"
+ },
+ "Too Much": {
+  "es": "Muy caro",
+  "gemma": "太貴了",
+  "qwen": "太多了",
+  "gemma4": "太多了"
+ },
+ "Any metals and parts you used will be\nsalvaged and returned to your inventory.": {
+  "es": "Los metales y piezas que usaste se recuperarán y volverán a tu inventario.",
+  "gemma": "你使用的所有金屬和零件將會被回收，並歸還到你的揹包。",
+  "qwen": "你使用的所有金屬和零件將會被回收，並歸還到你的物品欄。",
+  "gemma4": "你使用的所有金屬和零件將會被回收，並歸還到你的物品欄。"
+ },
+ "Are you sure you want\nto scrap this weapon?": {
+  "es": "¿Seguro que quieres desechar esta arma?",
+  "gemma": "你確定要拆解這個武器嗎？",
+  "qwen": "你確定要拆解這把武器嗎？",
+  "gemma4": "你確定要拆解這把武器嗎？"
+ },
+ "Jacksmith, who desperately needed the money, packed up\nthe Forge and hit the road to save Princess Liliana.": {
+  "es": "Jacksmith, que necesitaba mucho el dinero, empacó la fragua y salió al camino para salvar a la princesa Liliana.",
+  "gemma": "身無分文的傑克史密斯，收拾好他的鍛造爐，踏上了拯救公主莉莉安娜的旅程。",
+  "qwen": "Jacksmith 因為急需這筆錢，收拾好鍛造爐並踏上旅程，去拯救公主 Liliana。",
+  "gemma4": "Jacksmith 因為急需這筆錢，收拾好鍛造爐並踏上旅程，去拯救公主 Liliana。"
+ },
+ "on the trail during battles!": {
+  "es": "en el sendero durante las batallas.",
+  "gemma": "在戰鬥中，沿著道路！",
+  "qwen": "在戰鬥中的道路上！",
+  "gemma4": "在戰鬥中的道路上！"
+ },
+ "Epic Weapon Something": {
+  "es": "Arma épica (ejemplo)",
+  "gemma": "史詩武器 (範例)",
+  "qwen": "史詩武器 Something",
+  "gemma4": "史詩武器 Something"
+ },
+ "You have all of the parts!": {
+  "es": "¡Tienes todas las piezas!",
+  "gemma": "你已經收集齊所有零件了！",
+  "qwen": "你有齊所有零件了！",
+  "gemma4": "你有齊所有零件了！"
+ },
+ "You've called the local soldiers\nto your cause!": {
+  "es": "¡Los soldados de la zona\nse unen a tu causa!",
+  "gemma": "你已經召集了附近的士兵！",
+  "qwen": "你已經召集了當地的士兵！",
+  "gemma4": "你已經召集了當地的士兵！"
+ },
+ "You first need to choose a metal.\n\nYou'll earn metal ores to use later,\nbut right now you have an unlimited\nsupply of copper to use.": {
+  "es": "Primero debes elegir un metal.\n\nMás adelante ganarás minerales, pero por ahora tienes cobre ilimitado para usar.",
+  "gemma": "首先，你需要選擇一種金屬。 你會獲得金屬礦石，稍後才能使用，但現在你擁有無限量的銅可以使用的。",
+  "qwen": "首先，你需要選擇一種金屬。你之後會獲得金屬礦石，但現在你可以無限使用銅。",
+  "gemma4": "首先，你需要選擇一種金屬。你之後會獲得金屬礦石，但現在你可以無限使用銅。"
+ },
+ "If you complete the day's weapons quickly,any time remaining on your Bonus Meterwill reward you with Gems!": {
+  "es": "Si terminas rápido las armas del día, ¡el tiempo que quede en tu medidor de bonificación te dará gemas!",
+  "gemma": "如果你快速完成當天所需的武器，剩餘的獎勵槽時間會給你帶來寶石！",
+  "qwen": "如果你快速完成當天的武器，獎勵計時器的剩餘時間將會獎勵你寶石！",
+  "gemma4": "如果你快速完成當天的武器，獎勵計時器的剩餘時間將會獎勵你寶石！"
+ },
+ "Monsters will drop Loot when attacked.": {
+  "es": "Los monstruos sueltan botín al ser atacados.",
+  "gemma": "擊殺怪物時，牠們會掉落戰利品。",
+  "qwen": "攻擊怪物時，牠們會掉落戰利品。",
+  "gemma4": "攻擊怪物時，牠們會掉落戰利品。"
+ },
+ "Be sure to collect it!": {
+  "es": "¡No olvides recogerlo!",
+  "gemma": "記得收集它們！",
+  "qwen": "記得收集它！",
+  "gemma4": "記得收集它！"
+ },
+ "Swordsmen can use any type of sword, so choose whicheverone has the best Elemental Boosts for today's enemies.": {
+  "es": "Los espadachines usan cualquier espada: elige la que tenga las mejores mejoras elementales para los enemigos de hoy.",
+  "gemma": "劍士可以使用任何種類的劍，所以選擇哪一把劍，取決於今天敵人所擁有的最佳元素強化。",
+  "qwen": "劍士可以使用任何種類的劍，所以選擇哪一把劍，取決於今天敵人所擁有的最佳元素強化。 -> 劍士可以使用任何種類的劍，所以請選擇哪一把劍最適合對付今天的敵人。",
+  "gemma4": "劍士可以使用任何種類的劍，所以選擇哪一把劍，取決於今天敵人所擁有的最佳元素強化。 -> 劍士可以使用任何種類的劍，所以請選擇哪一把劍最適合對付今天的敵人。"
+ },
+ "You'll now see Water Enemies as well asFire Enemies.": {
+  "es": "Ahora verás enemigos de agua además de los de fuego.",
+  "gemma": "現在你也會看到水元素敵人，以及火焰敵人。",
+  "qwen": "現在你也會看到水元素敵人，以及火焰敵人。 -> 現在除了火焰敵人，你也會看到水元素敵人。",
+  "gemma4": "現在你也會看到水元素敵人，以及火焰敵人。 -> 現在除了火焰敵人，你也會看到水元素敵人。"
+ },
+ "You can now help your troops by\nfiring cannonballs!": {
+  "es": "¡Ahora puedes ayudar a tus tropas disparando balas de cañón!",
+  "gemma": "現在你可以透過發射砲彈來幫助你的士兵！",
+  "qwen": "現在你可以透過發射砲彈來幫助你的士兵！ -> 現在你可以透過發射砲彈來幫助你的部隊！",
+  "gemma4": "現在你可以透過發射砲彈來幫助你的士兵！ -> 現在你可以透過發射砲彈來幫助你的部隊！"
+ },
+ "You need to wait for your cannonball\nto recharge before you can fire again.": {
+  "es": "Debes esperar a que tu bala de cañón se recargue antes de volver a disparar.",
+  "gemma": "你需要等待砲彈的重新充能，才能再次發射。",
+  "qwen": "你需要等待砲彈重新充能後才能再次發射。",
+  "gemma4": "你需要等待砲彈重新充能後才能再次發射。"
+ },
+ "You now have two types of cannonballs!": {
+  "es": "¡Ahora tienes dos tipos de balas de cañón!",
+  "gemma": "現在你有兩種不同的砲彈！",
+  "qwen": "現在你有兩種砲彈了！",
+  "gemma4": "現在你有兩種砲彈了！"
+ },
+ "Click here to drop a Repair Pack onyour troops, which restores some durabilityto all weapons!": {
+  "es": "Haz clic aquí para lanzar un paquete de reparación a tus tropas; ¡devuelve algo de durabilidad a todas las armas!",
+  "gemma": "點選這裡，為你的士兵們放置一個維修包，它可以恢復所有武器的部分耐久度！",
+  "qwen": "點選這裡，為你的士兵放置一個維修包，它可以恢復所有武器的部分耐久度！",
+  "gemma4": "點選這裡，為你的士兵放置一個維修包，它可以恢復所有武器的部分耐久度！"
+ },
+ "You can Scrap a weapon at any time during crafting,which will destroy that weapon and restore allmetal and parts to your inventory.": {
+  "es": "Puedes desechar un arma en cualquier momento de la forja: se destruirá y todo el metal y las piezas volverán a tu inventario.",
+  "gemma": "你可以在製作的任何時候拆解武器，這樣該武器就會被摧毀，而所有的金屬和零件會被恢復到你的揹包中。",
+  "qwen": "你可以在製作過程中隨時拆解武器，這會摧毀該武器並將所有金屬和零件恢復到你的庫存中。",
+  "gemma4": "你可以在製作過程中隨時拆解武器，這會摧毀該武器並將所有金屬和零件恢復到你的庫存中。"
+ },
+ "Build the Axe Head by attaching all three parts to the center. Drag each blade and spike, and release when it's against the center. Keep them straight to get maximum Power for an Axe.": {
+  "es": "Arma la cabeza del hacha uniendo las tres piezas al centro. Arrastra cada hoja y púa, y suéltala cuando toque el centro. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "將斧頭的頭部組裝起來，將所有三個部件連線到中心。 拖曳每個刀刃和尖刺，當它們與中心對齊時鬆開。 保持它們的直線，以獲得斧頭的最大威力。",
+  "qwen": "組裝斧頭，將所有三個部件連接到中心。拖曳每個刀刃和尖刺，當它們與中心對齊時鬆開。保持它們筆直，以獲得斧頭的最大威力。",
+  "gemma4": "組裝斧頭，將所有三個部件連接到中心。拖曳每個刀刃和尖刺，當它們與中心對齊時鬆開。保持它們筆直，以獲得斧頭的最大威力。"
+ },
+ "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.": {
+  "es": "Puedes ver las piezas necesarias para forjar esta arma, y una marca si ya las tienes.",
+  "gemma": "你可以看到製作此武器所需的材料，以及你是否已經擁有這些材料。",
+  "qwen": "你可以看到製作此武器所需的材料，以及你是否已經擁有這些材料的標記。",
+  "gemma4": "你可以看到製作此武器所需的材料，以及你是否已經擁有這些材料的標記。"
+ },
+ "When you craft great weapons and earn points on a weapon's\nStar Meter, you can unlock extra Elemental Boosts\nfor each weapon type!": {
+  "es": "Si forjas grandes armas y ganas puntos en el medidor de estrellas de un arma, ¡desbloquearás mejoras elementales extra para cada tipo de arma!",
+  "gemma": "當你打造出優秀的武器，並在武器的星星計量條上獲得積分時，你可以解鎖額外的各種武器型別的強化效果！",
+  "qwen": "當你打造出優秀的武器，並在武器的星星計量條上獲得積分時，你可以解鎖每種武器型別的額外元素強化！",
+  "gemma4": "當你打造出優秀的武器，並在武器的星星計量條上獲得積分時，你可以解鎖每種武器型別的額外元素強化！"
+ },
+ "Sometimes you will encounter Elemental Enemies that are weak against a certain Elemental Boost. Build weapons that deal extra elemental damage for these enemies!": {
+  "es": "A veces encontrarás enemigos elementales, débiles ante cierta mejora elemental. ¡Forja armas que causen daño elemental extra contra ellos!",
+  "gemma": "有時候你會遇到具有屬性弱點的敵人，為他們打造能造成額外屬性傷害的武器！",
+  "qwen": "有時候你會遇到元素敵人，他們對特定的元素強化較弱。為這些敵人打造能造成額外元素傷害的武器吧！",
+  "gemma4": "有時候你會遇到元素敵人，他們對特定的元素強化較弱。為這些敵人打造能造成額外元素傷害的武器吧！"
+ },
+ "Soldiers in the area will help you, but they need weapons first!": {
+  "es": "Los soldados de la zona te ayudarán, ¡pero antes necesitan armas!",
+  "gemma": "附近的士兵會幫助你，但他們首先需要武器！",
+  "qwen": "區域內的士兵會幫助你，但他們首先需要武器！",
+  "gemma4": "區域內的士兵會幫助你，但他們首先需要武器！"
+ },
+ "The Power and Durability for a weapon come from the metal\nyou use to create it. Better metals have higher stats.": {
+  "es": "El poder y la durabilidad de un arma vienen del metal con que la creas. Los mejores metales dan más estadísticas.",
+  "gemma": "武器的威力（Power）和耐久度（Durability）取決於你用來製造它的金屬（Metal）。 更好的金屬具有更高的屬性值。",
+  "qwen": "武器的威力和耐久度取決於你用來製造它的金屬。更好的金屬具有更高的屬性值。",
+  "gemma4": "武器的威力和耐久度取決於你用來製造它的金屬。更好的金屬具有更高的屬性值。"
+ },
+ "Parts that you collect or buy will also have additional\nStat Boosts, to make your weapon even stronger.": {
+  "es": "Las piezas que reúnas o compres también tienen mejoras de estadísticas, para que tu arma sea aún más fuerte.",
+  "gemma": "你收集或購買的部件也會提供額外的屬性強化（Boost），讓你的武器更加強大。",
+  "qwen": "你收集或購買的部件也會提供額外的屬性強化，讓你的武器更加強大。",
+  "gemma4": "你收集或購買的部件也會提供額外的屬性強化，讓你的武器更加強大。"
+ },
+ "If you craft a weapon poorly, the stats will go down, and it\nwon't do as well in battle. Craft a great weapon to get the\nmaximum Power and Durability!": {
+  "es": "Si forjas mal un arma, sus estadísticas bajarán y rendirá menos en batalla. ¡Forja una gran arma para lograr el poder y la durabilidad máximos!",
+  "gemma": "如果你製作的武器質量不好，屬性值會下降，戰鬥表現也會變差。 製作出色的武器，才能獲得最高的威力（Power）和耐久度（Durability）！",
+  "qwen": "如果你製作的武器品質不好，屬性值會下降，戰鬥表現也會變差。製作出色的武器，才能獲得最高的威力和耐久度！",
+  "gemma4": "如果你製作的武器品質不好，屬性值會下降，戰鬥表現也會變差。製作出色的武器，才能獲得最高的威力和耐久度！"
+ },
+ "Power": {
+  "es": "Poder",
+  "gemma": "威力 (Power)",
+  "qwen": "威力",
+  "gemma4": "威力"
+ },
+ "Durability": {
+  "es": "Durabilidad",
+  "gemma": "耐久度 (Durability)",
+  "qwen": "耐久度",
+  "gemma4": "耐久度"
+ },
+ "If your overall Luck for your group of soldiers is high enough,\nenemies may drop more items and better metals!": {
+  "es": "Si la suerte total de tu grupo de soldados es bastante alta, ¡los enemigos pueden soltar más objetos y mejores metales!",
+  "gemma": "如果你士兵群體的整體幸運值（Luck）足夠高，敵人可能會掉落更多的物品和更好的金屬（Metal）！",
+  "qwen": "如果你士兵群體的整體幸運值足夠高，敵人可能會掉落更多的物品和更好的金屬！",
+  "gemma4": "如果你士兵群體的整體幸運值足夠高，敵人可能會掉落更多的物品和更好的金屬！"
+ },
+ "Some parts will have a Luck Stat:": {
+  "es": "Algunas piezas tienen suerte:",
+  "gemma": "有些部件會帶有幸運屬性（Luck Stat）：",
+  "qwen": "有些部件會帶有幸運屬性：",
+  "gemma4": "有些部件會帶有幸運屬性："
+ },
+ "Weapons and parts can also have Elemental Boostsin addition to their regular stats. Check the \"Element Chart\"section for more information.": {
+  "es": "Las armas y piezas también pueden tener mejoras elementales además de sus estadísticas. Consulta la sección \"Tabla de elementos\" para saber más.",
+  "gemma": "武器和部件還可以擁有額外的元素強化（Elemental Boost），除了常規屬性之外。 請檢視“元素圖表”部分以獲取更多資訊。",
+  "qwen": "武器和部件除了常規屬性外，還可能擁有元素強化。請參閱「元素圖表」部分以獲取更多資訊。",
+  "gemma4": "武器和部件除了常規屬性外，還可能擁有元素強化。請參閱「元素圖表」部分以獲取更多資訊。"
+ },
+ "Shop": {
+  "es": "Tienda",
+  "gemma": "商店 (Shop)",
+  "qwen": "商店",
+  "gemma4": "商店"
+ },
+ "Gander is a traveling salesman, so he can only carry\none of each part in stock each day.": {
+  "es": "Gander es un vendedor ambulante, así que cada día solo lleva una unidad de cada pieza.",
+  "gemma": "Gander 是一位巡迴商人，所以他每天只能攜帶一種部件。",
+  "qwen": "Gander 是一位巡迴商人，所以他每天每種部件僅能攜帶一個。",
+  "gemma4": "Gander 是一位巡迴商人，所以他每天每種部件僅能攜帶一個。"
+ },
+ "You need to hammer a Pike blade just like a Sword blade.\nPike blades are shaped differently, so make sure you hammer\non the edges that look like they should be sharp!": {
+  "es": "La hoja de una lanza se martilla igual que la de una espada. Tienen otra forma, ¡así que martilla en los bordes que deberían quedar afilados!",
+  "gemma": "你需要像鍛造劍一樣鍛造長槍的刀刃。長槍的刀刃形狀不同，所以請確保在看起來應該鋒利的邊緣上鍛造！",
+  "qwen": "你需要像鍛造劍的刀刃一樣鍛造長槍的刀刃。長槍的刀刃形狀不同，所以請確保在看起來應該鋒利的邊緣上鍛造！",
+  "gemma4": "你需要像鍛造劍的刀刃一樣鍛造長槍的刀刃。長槍的刀刃形狀不同，所以請確保在看起來應該鋒利的邊緣上鍛造！"
+ },
+ "You build a Pike handle just like an Axe handle, but it's\nmuch longer! You'll need to use more Poles and Grips\nto build one.": {
+  "es": "El agarre de una lanza se arma igual que el de un hacha, ¡pero es mucho más largo! Necesitarás más astas y mangos para armarlo.",
+  "gemma": "你可以像製作斧頭的握把一樣製作長槍的握把，但它要長得多！你需要使用更多的長柄和握把來製作一支。",
+  "qwen": "你可以像製作斧柄一樣製作長槍的長柄，但它要長得多！你需要使用更多的長柄和握把來製作一支。",
+  "gemma4": "你可以像製作斧柄一樣製作長槍的長柄，但它要長得多！你需要使用更多的長柄和握把來製作一支。"
+ },
+ "Drag all of the Pegs or Spikes onto the\nMace head to attach them.": {
+  "es": "Arrastra todos los clavos o púas a la cabeza de la maza para fijarlos.",
+  "gemma": "將所有的尖刺或釘子拖曳到錘頭上以固定它們。",
+  "qwen": "將所有的尖刺拖曳到錘頭上以固定它們。",
+  "gemma4": "將所有的尖刺拖曳到錘頭上以固定它們。"
+ },
+ "Fire Boosts only deal extra damage to\nFire Enemies": {
+  "es": "La mejora de fuego solo daña más a enemigos de fuego",
+  "gemma": "火焰強化只能對火焰敵人造成額外傷害",
+  "qwen": "火強化只能對火敵人造成額外傷害",
+  "gemma4": "火強化只能對火敵人造成額外傷害"
+ },
+ "Water Boosts only deal extra damage to\nWater Enemies": {
+  "es": "La mejora de agua solo daña más a enemigos de agua",
+  "gemma": "水元素強化只能對水元素敵人造成額外傷害",
+  "qwen": "水強化只能對水敵人造成額外傷害",
+  "gemma4": "水強化只能對水敵人造成額外傷害"
+ },
+ "Ice Boosts only deal extra damage to\nIce Enemies": {
+  "es": "La mejora de hielo solo daña más a enemigos de hielo",
+  "gemma": "冰元素強化只能對冰元素敵人造成額外傷害",
+  "qwen": "冰強化只能對冰敵人造成額外傷害",
+  "gemma4": "冰強化只能對冰敵人造成額外傷害"
+ },
+ "Wind Boosts only deal extra damage to\nWind Enemies": {
+  "es": "La mejora de viento solo daña más a enemigos de viento",
+  "gemma": "風元素強化只能對風元素敵人造成額外傷害",
+  "qwen": "風強化只能對風敵人造成額外傷害",
+  "gemma4": "風強化只能對風敵人造成額外傷害"
+ },
+ "Fire Boost +7": {
+  "es": "Mejora de fuego +7",
+  "gemma": "火焰強化 +7",
+  "qwen": "火強化 +7",
+  "gemma4": "火強化 +7"
+ },
+ "Weapon Boosts": {
+  "es": "Mejoras de armas",
+  "gemma": "武器強化效果",
+  "qwen": "武器強化",
+  "gemma4": "武器強化"
+ },
+ "Each weapon variation comes with different Elemental Boosts.": {
+  "es": "Cada variante de arma trae mejoras elementales distintas.",
+  "gemma": "每一種武器的變化都會帶有不同的元素強化。",
+  "qwen": "每種武器變體都帶有不同的元素強化。",
+  "gemma4": "每種武器變體都帶有不同的元素強化。"
+ },
+ "If you make a great weapon, that variation's Star Meter\nwill start to fill up. When the meter is completely full,\nyou will unlock EXTRA Elemental Boosts for that\nweapon variation!": {
+  "es": "Si haces una gran arma, el medidor de estrellas de esa variante se irá llenando. Cuando esté lleno del todo, ¡desbloquearás mejoras elementales EXTRA para esa variante!",
+  "gemma": "如果你製作出優秀的武器，該變化的星星計量條就會開始填滿。當計量條完全滿時，你將會解鎖該武器變化的額外元素強化！",
+  "qwen": "如果你製作出優秀的武器，該變體的星星計量條就會開始填滿。當計量條完全滿時，你將會解鎖該武器變體的額外元素強化！",
+  "gemma4": "如果你製作出優秀的武器，該變體的星星計量條就會開始填滿。當計量條完全滿時，你將會解鎖該武器變體的額外元素強化！"
+ },
+ "Each variation starts with one Boost,\nand has three extra Boosts to unlock\n(Bronze, Silver, and Gold)": {
+  "es": "Cada variante empieza con una mejora y tiene tres mejoras extra por desbloquear (bronce, plata y oro)",
+  "gemma": "每個變化一開始都帶有一個強化，並且有三個額外的強化可以解鎖（青銅、銀、金）",
+  "qwen": "每個變體一開始都帶有一個強化，並有三個額外的強化可供解鎖（青銅、銀、金）",
+  "gemma4": "每個變體一開始都帶有一個強化，並有三個額外的強化可供解鎖（青銅、銀、金）"
+ },
+ "Longswords deal extra damage to Fire Enemies,\nand the Gladius deals extra damage to Water Enemies.": {
+  "es": "Las espadas largas causan daño extra a los enemigos de fuego, y el gladius causa daño extra a los enemigos de agua.",
+  "gemma": "長劍對火屬性敵人造成額外傷害，而格拉迪烏斯對水屬性敵人造成額外傷害。",
+  "qwen": "長劍對火屬性敵人造成額外傷害，而 Gladius 對水屬性敵人造成額外傷害。",
+  "gemma4": "長劍對火屬性敵人造成額外傷害，而 Gladius 對水屬性敵人造成額外傷害。"
+ },
+ "These Elemental Boosts are added on top of the usual\nweapon Power and Durability.": {
+  "es": "Estas mejoras elementales se suman al poder y la durabilidad normales del arma.",
+  "gemma": "這些元素強化會疊加在武器的通常威力與耐久度之上。",
+  "qwen": "這些元素強化會疊加在武器原本的威力與耐久度之上。",
+  "gemma4": "這些元素強化會疊加在武器原本的威力與耐久度之上。"
+ },
+ "A: Soldiers' weapons and durability remaining\nB: Enemies on this trail\nC: Current enemy (highlighted)\nD: Enemy Health Bar\nE: Enemy Element\n(will flash when you deal Elemental Damage)\nF: Your cannonballs\nG: Recharging timer around a cannonball": {
+  "es": "A: Armas de los soldados y durabilidad restante\nB: Enemigos de este sendero\nC: Enemigo actual (resaltado)\nD: Barra de vida del enemigo\nE: Elemento del enemigo\n(parpadea cuando causas daño elemental)\nF: Tus balas de cañón\nG: Temporizador de recarga de la bala",
+  "gemma": "A：士兵的武器與剩餘耐久度 B：此道路上的敵人 C：目前敵人（高亮顯示） D：敵人血條 E：敵人屬性（造成元素傷害時會閃爍） F：你的砲彈 G：砲彈周圍的重新充填計時器",
+  "qwen": "A：士兵的武器與剩餘耐久度 B：此道路上的敵人 C：當前敵人（高亮顯示） D：敵人血條 E：敵人屬性（造成元素傷害時會閃爍） F：你的砲彈 G：砲彈周圍的充能計時器",
+  "gemma4": "A：士兵的武器與剩餘耐久度 B：此道路上的敵人 C：當前敵人（高亮顯示） D：敵人血條 E：敵人屬性（造成元素傷害時會閃爍） F：你的砲彈 G：砲彈周圍的充能計時器"
+ },
+ "Elemental Enemies are each weak against a certain Elemental Boost. Build weapons that deal extra elemental damage for these enemies!": {
+  "es": "Cada enemigo elemental es débil ante cierta mejora elemental. ¡Forja armas que causen daño elemental extra contra ellos!",
+  "gemma": "每個元素敵人都有其弱點，對應某種元素強化。製作能造成額外元素傷害的武器來對付這些敵人！",
+  "qwen": "每個元素敵人都有特定的元素強化弱點。製作能對這些敵人造成額外元素傷害的武器吧！",
+  "gemma4": "每個元素敵人都有特定的元素強化弱點。製作能對這些敵人造成額外元素傷害的武器吧！"
+ },
+ "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.": {
+  "es": "Consulta el libro \"Bestiario\" para ver todos los tipos de monstruos que ya encontraste.",
+  "gemma": "檢視「怪物」圖鑑，可以檢視你已經遇到的所有怪物型別。",
+  "qwen": "查看「野獸」圖鑑，可以查看你已經遇到的所有怪物種類。",
+  "gemma4": "查看「野獸」圖鑑，可以查看你已經遇到的所有怪物種類。"
+ },
+ "You will eventually unlock a Cannon for your wagon,\nso you can help your troops in battle!": {
+  "es": "Con el tiempo desbloquearás un cañón para tu carreta, ¡y podrás ayudar a tus tropas en batalla!",
+  "gemma": "你最終會解鎖一個大砲，安裝在你的馬車上，這樣你就可以幫助你的士兵在戰鬥中！",
+  "qwen": "你最終會為你的馬車解鎖一個大砲，這樣你就可以在戰鬥中幫助你的部隊！",
+  "gemma4": "你最終會為你的馬車解鎖一個大砲，這樣你就可以在戰鬥中幫助你的部隊！"
+ },
+ "You will unlock some cannonballs that fire at\nyour troops instead of the enemy!\n\nThe Repair Bomb will repair some of\nthe durability on all of your weapons.\n\nThe Booster Bomb will give all of your soldiers a\nboosted attack power for a limited time!": {
+  "es": "¡Desbloquearás balas de cañón que se disparan a tus tropas y no al enemigo!\n\nLa bomba reparadora repara parte de la durabilidad de todas tus armas.\n\n¡La bomba potenciadora da a todos tus soldados más poder de ataque por un tiempo!",
+  "gemma": "你將解鎖一些砲彈，它們會攻擊你的士兵，而不是敵人！「修理炸彈」會修復所有武器的部分耐久度。「增益炸彈」會暫時提升所有士兵的攻擊力！",
+  "qwen": "你將解鎖一些砲彈，它們會攻擊你的士兵，而不是敵人！「修理炸彈」會修復所有武器的部分耐久度。「增益炸彈」會暫時提升所有士兵的攻擊力！",
+  "gemma4": "你將解鎖一些砲彈，它們會攻擊你的士兵，而不是敵人！「修理炸彈」會修復所有武器的部分耐久度。「增益炸彈」會暫時提升所有士兵的攻擊力！"
+ },
+ "Each Epic Weapon design gives a Bonus Effect to ALL\nof the soldiers on that day if you build one.": {
+  "es": "Cada diseño de arma épica da un efecto extra a TODOS los soldados de ese día si forjas una.",
+  "gemma": "每個史詩武器的設計圖，如果你打造一件，就能為當天所有的士兵提供額外效果。",
+  "qwen": "每個史詩武器設計圖，如果你打造一件，就能為當天所有士兵提供額外效果。",
+  "gemma4": "每個史詩武器設計圖，如果你打造一件，就能為當天所有士兵提供額外效果。"
+ },
+ "Dragon Axe": {
+  "es": "Hacha dragón",
+  "gemma": "龍牙斧",
+  "qwen": "龍斧",
+  "gemma4": "龍斧"
+ },
+ "Jingles:": {
+  "es": "Melodías:",
+  "gemma": "鈴鐺聲：",
+  "qwen": "叮噹聲：",
+  "gemma4": "叮噹聲："
+ }
+}

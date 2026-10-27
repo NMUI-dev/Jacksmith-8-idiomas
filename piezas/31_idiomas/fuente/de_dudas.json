@@ -1,0 +1,440 @@
+{
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20 Stretches",
+  "qwen": "20 Dehnungen",
+  "gemma4": "20 Dehnungen"
+ },
+ "Assembler": {
+  "es": "Ensamblador",
+  "gemma": "Zusammenbauer",
+  "qwen": "Montierer",
+  "gemma4": "Montierer"
+ },
+ "Attack 30 Shadow Enemies with Shadow-boosted weapons": {
+  "es": "Ataca a 30 enemigos de sombra con mejoras de sombra",
+  "gemma": "Greife 30 Schatten-Feinde mit Waffen an, die mit Schatten-Bonus verstärkt sind",
+  "qwen": "Greife 30 Schatten-Feinde mit Schatten-verstärkten Waffen an",
+  "gemma4": "Greife 30 Schatten-Feinde mit Schatten-verstärkten Waffen an"
+ },
+ "Batch of Bronze": {
+  "es": "Lote de bronce",
+  "gemma": "Bronze-Lieferung",
+  "qwen": "Bronze-Charge",
+  "gemma4": "Bronze-Charge"
+ },
+ "Boosted Builder": {
+  "es": "Forjador mejorado",
+  "gemma": "Bonus-Experte",
+  "qwen": "Bonus-Schmied",
+  "gemma4": "Bonus-Schmied"
+ },
+ "Bronze Beginning": {
+  "es": "Inicio de bronce",
+  "gemma": "Bronze-Anfang",
+  "qwen": "Bronze-Beginn",
+  "gemma4": "Bronze-Beginn"
+ },
+ "Expert Forger": {
+  "es": "Forjador experto",
+  "gemma": "Experter Schmied",
+  "qwen": "Experteschmied",
+  "gemma4": "Experteschmied"
+ },
+ "Expert Handling": {
+  "es": "Manejo experto",
+  "gemma": "Experte Handhabung",
+  "qwen": "Expertenhandhabung",
+  "gemma4": "Expertenhandhabung"
+ },
+ "Exterminator": {
+  "es": "Exterminador",
+  "gemma": "Jäger",
+  "qwen": "Vernichter",
+  "gemma4": "Vernichter"
+ },
+ "Fill a mold's Star Meter and unlock an extra Element Boost on any weapon": {
+  "es": "Llena el medidor de estrellas de un molde y desbloquea una mejora elemental extra",
+  "gemma": "Fülle die Sternanzeige einer Gussform und schalte einen zusätzlichen Elementbonus für jede Waffe frei",
+  "qwen": "Fülle die Sternanzeige einer Gussform und schalte einen zusätzlichen Elementbonus für eine Waffe frei",
+  "gemma4": "Fülle die Sternanzeige einer Gussform und schalte einen zusätzlichen Elementbonus für eine Waffe frei"
+ },
+ "Find a scroll with an Epic Weapon Design": {
+  "es": "Encuentra un pergamino con un diseño épico",
+  "gemma": "Finde einen Schriftrolle mit einem epischen Waffenentwurf",
+  "qwen": "Finde eine Schriftrolle mit einem epischen Waffenentwurf",
+  "gemma4": "Finde eine Schriftrolle mit einem epischen Waffenentwurf"
+ },
+ "Finish off 10 enemies using your basic Cannonball": {
+  "es": "Remata a 10 enemigos con tu bala de cañón básica",
+  "gemma": "Besiege 10 Gegner mit deiner normalen Kanonenkugel",
+  "qwen": "Vernichte 10 Gegner mit deiner normalen Kanonenkugel",
+  "gemma4": "Vernichte 10 Gegner mit deiner normalen Kanonenkugel"
+ },
+ "Finishing Blow": {
+  "es": "Golpe final",
+  "gemma": "Letzter Schlag",
+  "qwen": "Gnadenstoß",
+  "gemma4": "Gnadenstoß"
+ },
+ "Maxed Out": {
+  "es": "Al máximo",
+  "gemma": "Maximal verbessert",
+  "qwen": "Maximal",
+  "gemma4": "Maximal"
+ },
+ "Overkill": {
+  "es": "Excesivo",
+  "gemma": "Übertreibung",
+  "qwen": "Überwältigend",
+  "gemma4": "Überwältigend"
+ },
+ "Pike Possibilities": {
+  "es": "Lanzas posibles",
+  "gemma": "Spieß-Möglichkeiten",
+  "qwen": "Spieß-Optionen",
+  "gemma4": "Spieß-Optionen"
+ },
+ "Powered Up": {
+  "es": "Potenciado",
+  "gemma": "Aufladung",
+  "qwen": "Verstärkt",
+  "gemma4": "Verstärkt"
+ },
+ "Repair your troops' weapons 10 times with your Repair Bomb": {
+  "es": "Repara las armas de tus tropas 10 veces con tu bomba reparadora",
+  "gemma": "Repariere die Waffen deiner Truppen 10 Mal mit deiner Reparaturbombe",
+  "qwen": "Repariere die Waffen deiner Truppen 10-mal mit deiner Reparaturbombe",
+  "gemma4": "Repariere die Waffen deiner Truppen 10-mal mit deiner Reparaturbombe"
+ },
+ "Silver Stats": {
+  "es": "Estadísticas de plata",
+  "gemma": "Silber-Statistiken",
+  "qwen": "Silber-Stats",
+  "gemma4": "Silber-Stats"
+ },
+ "Storm the Castle": {
+  "es": "Asalta el castillo",
+  "gemma": "Stürme das Schloss!",
+  "qwen": "Stürme die Burg!",
+  "gemma4": "Stürme die Burg!"
+ },
+ "Unlock all types of Pikes": {
+  "es": "Desbloquea cada tipo de lanza",
+  "gemma": "Schalte alle Spieße-Typen frei",
+  "qwen": "Schalte alle Spieß-Typen frei",
+  "gemma4": "Schalte alle Spieß-Typen frei"
+ },
+ "Unlock the Silver Element Boost on 9 weapons": {
+  "es": "Desbloquea la mejora elemental de plata en 9 armas",
+  "gemma": "Aktiviere den Silber-Elementbonus für 9 Waffen",
+  "qwen": "Schalte den Silber-Elementbonus auf 9 Waffen frei",
+  "gemma4": "Schalte den Silber-Elementbonus auf 9 Waffen frei"
+ },
+ "Unlock the Silver Element Boost on any weapon": {
+  "es": "Desbloquea la mejora elemental de plata en un arma",
+  "gemma": "Aktiviere den Silber-Elementbonus für eine beliebige Waffe",
+  "qwen": "Schalte den Silber-Elementbonus auf einer beliebigen Waffe frei",
+  "gemma4": "Schalte den Silber-Elementbonus auf einer beliebigen Waffe frei"
+ },
+ "Pine Recluse": {
+  "es": "Reclusa del pino",
+  "gemma": "Kiefernnymphe",
+  "qwen": "Pinien-Einsiedler",
+  "gemma4": "Pinien-Einsiedler"
+ },
+ "Storm Dragon": {
+  "es": "Dragón de tormenta",
+  "gemma": "Sturm-Drache",
+  "qwen": "Sturmdrache",
+  "gemma4": "Sturmdrache"
+ },
+ "% Complete": {
+  "es": "% completado",
+  "gemma": "% Fertigstellung",
+  "qwen": "% abgeschlossen",
+  "gemma4": "% abgeschlossen"
+ },
+ "Basic Enemy": {
+  "es": "Enemigo básico",
+  "gemma": "Grundlegender Gegner",
+  "qwen": "Basis-Gegner",
+  "gemma4": "Basis-Gegner"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "Versuch",
+  "qwen": "Zeit",
+  "gemma4": "Zeit"
+ },
+ "Times": {
+  "es": "veces",
+  "gemma": "Versuche",
+  "qwen": "Zeiten",
+  "gemma4": "Zeiten"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "Linke Schwünge",
+  "qwen": "Verbleibende Schwünge",
+  "gemma4": "Verbleibende Schwünge"
+ },
+ "THIS FILE CANNOT RUN\nIN FLASH PLAYER!": {
+  "es": "¡ESTE ARCHIVO NO FUNCIONA EN FLASH PLAYER!",
+  "gemma": "DIESE DATE KANN NICHT IM FLASH-PLAYER AUSGEFÜHRT WERDEN!",
+  "qwen": "DIESE DATEI KANN NICHT IM FLASH PLAYER AUSGEFÜHRT WERDEN!",
+  "gemma4": "DIESE DATEI KANN NICHT IM FLASH PLAYER AUSGEFÜHRT WERDEN!"
+ },
+ "Empty Slot": {
+  "es": "Ranura vacía",
+  "gemma": "Leerer Platz",
+  "qwen": "Leeres Feld",
+  "gemma4": "Leeres Feld"
+ },
+ "Save a Backup": {
+  "es": "Guardar copia",
+  "gemma": "Backup speichern",
+  "qwen": "Sicherung speichern",
+  "gemma4": "Sicherung speichern"
+ },
+ "Load Backup": {
+  "es": "Cargar copia",
+  "gemma": "Backup laden",
+  "qwen": "Sicherung laden",
+  "gemma4": "Sicherung laden"
+ },
+ "Are you sure\nyou want to\nerase this game?": {
+  "es": "¿Seguro que quieres borrar esta partida?",
+  "gemma": "Bist du sicher, dass du dieses Spiel löschen möchtest?",
+  "qwen": "Bist du sicher, dass du diesen Spielstand löschen möchtest?",
+  "gemma4": "Bist du sicher, dass du diesen Spielstand löschen möchtest?"
+ },
+ "Your save slot is\nempty, but a backup\nfrom a previous save\nis available.": {
+  "es": "Tu ranura está\nvacía, pero hay una\ncopia de una partida\nanterior.",
+  "gemma": "Dein Speicherplatz ist leer, aber eine Sicherungskopie einer vorherigen Speicherung ist verfügbar.",
+  "qwen": "Dein Speicherplatz ist leer, aber eine Sicherung eines vorherigen Spielstands ist verfügbar.",
+  "gemma4": "Dein Speicherplatz ist leer, aber eine Sicherung eines vorherigen Spielstands ist verfügbar."
+ },
+ "Check back later!": {
+  "es": "¡Vuelve más tarde!",
+  "gemma": "Bitte später erneut versuchen!",
+  "qwen": "Schau später wieder vorbei!",
+  "gemma4": "Schau später wieder vorbei!"
+ },
+ "Enemies Today:": {
+  "es": "Enemigos de hoy:",
+  "gemma": "Monster heute:",
+  "qwen": "Gegner heute:",
+  "gemma4": "Gegner heute:"
+ },
+ "Spike\nDesign": {
+  "es": "Diseño de púas",
+  "gemma": "Spikentwurf",
+  "qwen": "Entwurf mit Stacheln",
+  "gemma4": "Entwurf mit Stacheln"
+ },
+ "Description of the badge goes here with more text in here and more and more.": {
+  "es": "Aquí va la descripción de la insignia, con más texto aquí y más y más.",
+  "gemma": "Hier folgt die Beschreibung der Abzeichen, mit mehr Text und noch mehr.",
+  "qwen": "Hier steht die Beschreibung des Abzeichens mit mehr Text und noch mehr.",
+  "gemma4": "Hier steht die Beschreibung des Abzeichens mit mehr Text und noch mehr."
+ },
+ "My family is sincerely\nthankful for your hand\nin bringing Princess\nLiliana back to\nPlumpfeather Castle.": {
+  "es": "Mi familia agradece\nde corazón tu ayuda\npara traer a Liliana\nde vuelta al\ncastillo Plumpfeather.",
+  "gemma": "Meine Familie ist Ihnen sehr dankbar für Ihren Beitrag zur Rückführung von Prinzessin Liliana ins Schloss Plumpfeather.",
+  "qwen": "Meine Familie ist dir von Herzen dankbar, dass du uns geholfen hast, Prinzessin Liliana zurück zur Burg Dickfeder zu bringen.",
+  "gemma4": "Meine Familie ist dir von Herzen dankbar, dass du uns geholfen hast, Prinzessin Liliana zurück zur Burg Dickfeder zu bringen."
+ },
+ "Spike Sharpener": {
+  "es": "Afilapúas",
+  "gemma": "Spitzenverlängerung",
+  "qwen": "Spitzenschärfer",
+  "gemma4": "Spitzenschärfer"
+ },
+ "Game Design, Art, Animation,\nand Character Design": {
+  "es": "Diseño, arte, animación y diseño de personajes",
+  "gemma": "Spieldesign, Grafik, Animation und Charakterdesign",
+  "qwen": "Spieldesign, Grafik, Animation und Entwurf",
+  "gemma4": "Spieldesign, Grafik, Animation und Entwurf"
+ },
+ "EASY-TO-DRAG": {
+  "es": "FÁCIL DE ARRASTRAR",
+  "gemma": "LEICHT ZU VEREINFACHEN",
+  "qwen": "EINFACH ZU ZIEHEN",
+  "gemma4": "EINFACH ZU ZIEHEN"
+ },
+ "You'll need to craft him a sword.": {
+  "es": "Tendrás que forjarle una espada.",
+  "gemma": "Du musst ihm eine Waffe herstellen.",
+  "qwen": "Du musst ihm ein Schwert herstellen.",
+  "gemma4": "Du musst ihm ein Schwert herstellen."
+ },
+ "You need to hammer a sword to sharpen its edges. Click along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "Du musst ein Schwert schmieden, um seine Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu schmieden.",
+  "qwen": "Du musst ein Schwert hämmern, um seine Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu hämmern.",
+  "gemma4": "Du musst ein Schwert hämmern, um seine Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu hämmern."
+ },
+ "You can only swing the hammer 18 times, so try to space your hammering to make it all the way around the sword blade!": {
+  "es": "Solo puedes dar 18 golpes de martillo, ¡así que repártelos para cubrir todo el contorno de la hoja!",
+  "gemma": "Du kannst nur 18 Mal schlagen, also versuche, deine Schläge zu verteilen, damit du die gesamte Klinge bearbeitest!",
+  "qwen": "Du kannst den Hammer nur 18 Mal schwingen, also versuche, dein Hämmern zu verteilen, um die gesamte Klinge zu bearbeiten!",
+  "gemma4": "Du kannst den Hammer nur 18 Mal schwingen, also versuche, dein Hämmern zu verteilen, um die gesamte Klinge zu bearbeiten!"
+ },
+ "If you build the handle crooked,your sword won't have as muchDurability in battle.": {
+  "es": "Si armas el agarre torcido, tu espada no tendrá tanta durabilidad en batalla.",
+  "gemma": "Wenn du den Griffstück schief anbringst, hat dein Schwert im Kampf nicht so viel Haltbarkeit.",
+  "qwen": "Wenn du das Griffstück schief anbringst, hat dein Schwert im Kampf nicht so viel Haltbarkeit.",
+  "gemma4": "Wenn du das Griffstück schief anbringst, hat dein Schwert im Kampf nicht so viel Haltbarkeit."
+ },
+ "Move your Mouse over the dropped items\nto collect them!": {
+  "es": "¡Pasa el ratón sobre los objetos caídos para recogerlos!",
+  "gemma": "Bewege deine Maus über die heruntergefallenen Gegenstände, um sie aufzusammeln!",
+  "qwen": "Bewege deine Maus über die fallenen Gegenstände, um sie aufzusammeln!",
+  "gemma4": "Bewege deine Maus über die fallenen Gegenstände, um sie aufzusammeln!"
+ },
+ "You'll earn Experience Points (XP) whena monster is defeated, and they spray extraloot further down the trail!": {
+  "es": "Ganarás puntos de experiencia (XP) al derrotar a un monstruo, ¡y este lanzará más botín por el sendero!",
+  "gemma": "Du erhältst Erfahrungspunkte (EP), wenn ein Monster besiegt wird, und sie schleudern zusätzliche Beute weiter den Pfad entlang!",
+  "qwen": "Du erhältst Erfahrungspunkte (XP), wenn ein Monster besiegt wird, und es schleudert zusätzliche Beute weiter den Pfad entlang!",
+  "gemma4": "Du erhältst Erfahrungspunkte (XP), wenn ein Monster besiegt wird, und es schleudert zusätzliche Beute weiter den Pfad entlang!"
+ },
+ "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!": {
+  "es": "Si derrotas a todos los monstruos del sendero del día, ¡obtendrás un diseño de arma épica y sus piezas de un cofre del tesoro!",
+  "gemma": "Wenn du alle Monster eines Tages besiegt hast, kannst du einen epischen Waffenentwurf und seine Teile aus einer Truhe erhalten!",
+  "qwen": "Wenn du alle Monster eines Tages auf dem Pfad besiegt hast, kannst du einen epischen Waffenentwurf und seine Teile aus einer Schatztruhe erhalten!",
+  "gemma4": "Wenn du alle Monster eines Tages auf dem Pfad besiegt hast, kannst du einen epischen Waffenentwurf und seine Teile aus einer Schatztruhe erhalten!"
+ },
+ "Swordsmen can use any type of sword, so choose whicheverone has the best Elemental Boosts for today's enemies.": {
+  "es": "Los espadachines usan cualquier espada: elige la que tenga las mejores mejoras elementales para los enemigos de hoy.",
+  "gemma": "Schwerter können von jedem Schwertkämpfer verwendet werden, also wähle die, die die besten elementaren Boni für die heutigen Gegner hat.",
+  "qwen": "Schwertkämpfer können jede Art von Schwert benutzen, also wähle dasjenige mit den besten elementaren Boni für die heutigen Gegner.",
+  "gemma4": "Schwertkämpfer können jede Art von Schwert benutzen, also wähle dasjenige mit den besten elementaren Boni für die heutigen Gegner."
+ },
+ "You’ll earn Experience Points (XP) when a monster is defeated,\nand they spray extra loot down the trail.": {
+  "es": "Ganarás puntos de experiencia (XP) al derrotar a un monstruo, y este lanzará más botín por el sendero.",
+  "gemma": "Du erhältst Erfahrungspunkte (EP), wenn ein Monster besiegt wird, und es wirft zusätzliche Beute auf den Pfad.",
+  "qwen": "Du erhältst Erfahrungspunkte (XP), wenn ein Monster besiegt wird, und es wirft zusätzliche Beute auf den Pfad.",
+  "gemma4": "Du erhältst Erfahrungspunkte (XP), wenn ein Monster besiegt wird, und es wirft zusätzliche Beute auf den Pfad."
+ },
+ "Don't leave your metal melting for too long! If it's overdone,\nthe metal will form cracks when it cools, and not be\nas durable in battle.": {
+  "es": "¡No dejes el metal fundiéndose demasiado! Si se pasa, se agrietará al enfriarse y durará menos en batalla.",
+  "gemma": "Lasse das Metall nicht zu lange schmelzen! Wenn es zu lange drin ist, bilden sich beim Abkühlen Risse, und es ist im Kampf nicht so haltbar.",
+  "qwen": "Lass das Metall nicht zu lange schmelzen! Wenn es zu lange drin ist, bilden sich beim Abkühlen Risse und es ist im Kampf nicht so haltbar.",
+  "gemma4": "Lass das Metall nicht zu lange schmelzen! Wenn es zu lange drin ist, bilden sich beim Abkühlen Risse und es ist im Kampf nicht so haltbar."
+ },
+ "You need to hammer a sword to sharpen its edges.\nClick along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "Du musst ein Schwert schmieden, um die Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu schmieden.",
+  "qwen": "Du musst ein Schwert hämmern, um die Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu hämmern.",
+  "gemma4": "Du musst ein Schwert hämmern, um die Kanten zu schärfen. Klicke entlang der Kanten des Schwertes, um zu hämmern."
+ },
+ "If you hammer poorly, the sword won't have as much\nPower in battle. Hammer evenly around the edges to get\nthe maximum Power for your sword.": {
+  "es": "Si martillas mal, la espada no tendrá tanto poder en batalla. Martilla parejo por los bordes para lograr el poder máximo de tu espada.",
+  "gemma": "Wenn du schlecht schmiedest, hat das Schwert im Kampf nicht so viel Kraft. Schmiede gleichmäßig entlang der Kanten, um die maximale Kraft für dein Schwert zu erhalten.",
+  "qwen": "Wenn du schlecht hämmerst, hat das Schwert im Kampf nicht so viel Kraft. Hämmer gleichmäßig entlang der Kanten, um die maximale Kraft für dein Schwert zu erhalten.",
+  "gemma4": "Wenn du schlecht hämmerst, hat das Schwert im Kampf nicht so viel Kraft. Hämmer gleichmäßig entlang der Kanten, um die maximale Kraft für dein Schwert zu erhalten."
+ },
+ "Crafting Axes": {
+  "es": "Forjar hachas",
+  "gemma": "Axt herstellen",
+  "qwen": "Äxte herstellen",
+  "gemma4": "Äxte herstellen"
+ },
+ "Drag each blade and spike, and release when it's against\nthe center piece. Keep them straight to get maximum\nPower for the axe.": {
+  "es": "Arrastra cada hoja y púa, y suéltala cuando toque la pieza central. Mantenlas rectas para lograr el poder máximo del hacha.",
+  "gemma": "Ziehe jede Klinge und jeden Dorn und lass los, wenn sie auf dem mittleren Teil liegen. Halte sie gerade, um maximale Kraft für die Axt zu erhalten.",
+  "qwen": "Ziehe jede Klinge und jeden Dorn und lass sie los, wenn sie auf dem mittleren Teil liegen. Halte sie gerade, um maximale Kraft für die Axt zu erhalten.",
+  "gemma4": "Ziehe jede Klinge und jeden Dorn und lass sie los, wenn sie auf dem mittleren Teil liegen. Halte sie gerade, um maximale Kraft für die Axt zu erhalten."
+ },
+ "Crafting Shields": {
+  "es": "Forjar escudos",
+  "gemma": "Schild herstellen",
+  "qwen": "Schilde herstellen",
+  "gemma4": "Schilde herstellen"
+ },
+ "Keep dragging and painting until the \"Paint Meter\" above\nthe Shield is completely empty. Don't leave any blank spots!": {
+  "es": "Sigue arrastrando y pintando hasta que el \"medidor de pintura\" sobre el escudo quede vacío. ¡No dejes huecos sin pintar!",
+  "gemma": "Ziehe und male weiter, bis der \"Farb-Messbalken\" über dem Schild vollständig leer ist. Lass keine leeren Stellen!",
+  "qwen": "Ziehe und male weiter, bis der „Farb-Messbalken“ über dem Schild komplett leer ist. Lass keine Lücken!",
+  "gemma4": "Ziehe und male weiter, bis der „Farb-Messbalken“ über dem Schild komplett leer ist. Lass keine Lücken!"
+ },
+ "Crafting Pikes": {
+  "es": "Forjar lanzas",
+  "gemma": "Spieß herstellen",
+  "qwen": "Speere herstellen",
+  "gemma4": "Speere herstellen"
+ },
+ "Fire Boosts only deal extra damage to\nFire Enemies": {
+  "es": "La mejora de fuego solo daña más a enemigos de fuego",
+  "gemma": "Feuer-Boosts verursachen nur zusätzlichen Schaden bei Feuer-Gegnern",
+  "qwen": "Feuer-Boni verursachen nur zusätzlichen Schaden bei Feuer-Gegnern",
+  "gemma4": "Feuer-Boni verursachen nur zusätzlichen Schaden bei Feuer-Gegnern"
+ },
+ "Water Boosts only deal extra damage to\nWater Enemies": {
+  "es": "La mejora de agua solo daña más a enemigos de agua",
+  "gemma": "Wasser-Boosts verursachen nur zusätzlichen Schaden bei Wasser-Gegnern",
+  "qwen": "Wasser-Boni verursachen nur zusätzlichen Schaden bei Wasser-Gegnern",
+  "gemma4": "Wasser-Boni verursachen nur zusätzlichen Schaden bei Wasser-Gegnern"
+ },
+ "Ice Boosts only deal extra damage to\nIce Enemies": {
+  "es": "La mejora de hielo solo daña más a enemigos de hielo",
+  "gemma": "Eis-Boosts verursachen nur zusätzlichen Schaden bei Eis-Gegnern",
+  "qwen": "Eis-Boni verursachen nur zusätzlichen Schaden bei Eis-Gegnern",
+  "gemma4": "Eis-Boni verursachen nur zusätzlichen Schaden bei Eis-Gegnern"
+ },
+ "Stone Boosts only deal extra damage to\nStone Enemies": {
+  "es": "La mejora de piedra solo daña más a enemigos de piedra",
+  "gemma": "Stein-Boosts verursachen nur zusätzlichen Schaden bei Stein-Gegnern",
+  "qwen": "Stein-Boni verursachen nur zusätzlichen Schaden bei Stein-Gegnern",
+  "gemma4": "Stein-Boni verursachen nur zusätzlichen Schaden bei Stein-Gegnern"
+ },
+ "Wind Boosts only deal extra damage to\nWind Enemies": {
+  "es": "La mejora de viento solo daña más a enemigos de viento",
+  "gemma": "Wind-Boosts verursachen nur zusätzlichen Schaden bei Wind-Gegnern",
+  "qwen": "Wind-Boni verursachen nur zusätzlichen Schaden bei Wind-Gegnern",
+  "gemma4": "Wind-Boni verursachen nur zusätzlichen Schaden bei Wind-Gegnern"
+ },
+ "Lightning Boosts only deal extra damage to\nLightning Enemies": {
+  "es": "La mejora de rayo solo daña más a enemigos de rayo",
+  "gemma": "Blitz-Boosts verursachen nur zusätzlichen Schaden bei Blitz-Gegnern",
+  "qwen": "Blitz-Boni verursachen nur zusätzlichen Schaden bei Blitz-Gegnern",
+  "gemma4": "Blitz-Boni verursachen nur zusätzlichen Schaden bei Blitz-Gegnern"
+ },
+ "If you craft stronger weapons, enemies may drop\nbetter metal ores as loot! When you start crafting Bronze\nweapons, enemies will start dropping some Iron Ore.": {
+  "es": "Si forjas armas más fuertes, ¡los enemigos pueden soltar mejores minerales! Cuando empieces a forjar armas de bronce, los enemigos soltarán algo de mineral de hierro.",
+  "gemma": "Wenn du stärkere Waffen herstellst, können Feinde bessere Metallerze als Beute fallen lassen! Wenn du anfängst, Bronzewaffen herzustellen, werden Feinde anfänglich etwas Eisen erz fallen lassen.",
+  "qwen": "Wenn du anfängst, Bronzewaffen herzustellen, werden Feinde etwas Eisenerz fallen lassen.",
+  "gemma4": "Wenn du anfängst, Bronzewaffen herzustellen, werden Feinde etwas Eisenerz fallen lassen."
+ },
+ "If you defeat all of the enemies on a trail, you'll reach\na Treasure Chest that has special loot: An Epic Weapon Design\nand the parts required to build it!": {
+  "es": "Si derrotas a todos los enemigos de un sendero, llegarás a un cofre del tesoro con botín especial: ¡un diseño de arma épica y las piezas para forjarla!",
+  "gemma": "Wenn du alle Feinde auf einem Pfad besiegst, erreichst du eine Truhe mit einem besonderen Schatz: Einem epischen Waffenentwurf und den Teilen, die benötigt werden, um ihn herzustellen!",
+  "qwen": "Wenn du alle Feinde auf einem Pfad besiegst, erreichst du eine Schatzkiste mit besonderer Beute: einen epischen Waffenentwurf und die Teile, die zum Bauen benötigt werden!",
+  "gemma4": "Wenn du alle Feinde auf einem Pfad besiegst, erreichst du eine Schatzkiste mit besonderer Beute: einen epischen Waffenentwurf und die Teile, die zum Bauen benötigt werden!"
+ },
+ "You won't always reach the Treasure Chest if your\nweapons break, so you won't always get a new Epic Weapon.": {
+  "es": "Si tus armas se rompen no siempre llegarás al cofre del tesoro, así que no siempre obtendrás un arma épica nueva.",
+  "gemma": "Wenn deine Waffen kaputt gehen, erreichst du möglicherweise nicht immer die Truhe, und bekommst dann auch keine neue epische Waffe.",
+  "qwen": "Wenn deine Waffen kaputtgehen, erreichst du nicht immer die Schatzkiste und bekommst daher nicht immer eine neue epische Waffe.",
+  "gemma4": "Wenn deine Waffen kaputtgehen, erreichst du nicht immer die Schatzkiste und bekommst daher nicht immer eine neue epische Waffe."
+ },
+ "Be sure to collect all of the parts that pour out of the\nTreasure Chest, including the Design Scroll!": {
+  "es": "¡Recoge todas las piezas que salgan del cofre del tesoro, incluido el pergamino del diseño!",
+  "gemma": "Sammle unbedingt alle Teile, die aus der Truhe fallen, einschließlich des Entwurfs-Scrolls!",
+  "qwen": "Sammle unbedingt alle Teile, die aus der Schatzkiste fallen, einschließlich der Design-Rolle!",
+  "gemma4": "Sammle unbedingt alle Teile, die aus der Schatzkiste fallen, einschließlich der Design-Rolle!"
+ },
+ "If you disable \"Screen Shake\", the screen will no longer\nshake when hammering weapons or during battle.": {
+  "es": "Si desactivas \"Sacudir pantalla\", la pantalla ya no temblará al martillar armas ni durante la batalla.",
+  "gemma": "Wenn du \"Bildschirmzittern\" deaktivierst, zittert der Bildschirm nicht mehr, wenn du Waffen bearbeitest oder während des Kampfes.",
+  "qwen": "Wenn du „Bildschirmwackeln“ deaktivierst, wackelt der Bildschirm nicht mehr beim Hämmern von Waffen oder während der Schlacht.",
+  "gemma4": "Wenn du „Bildschirmwackeln“ deaktivierst, wackelt der Bildschirm nicht mehr beim Hämmern von Waffen oder während der Schlacht."
+ },
+ "Battle Mace": {
+  "es": "Maza de batalla",
+  "gemma": "Kampffeuer",
+  "qwen": "Kampfkeule",
+  "gemma4": "Kampfkeule"
+ }
+}

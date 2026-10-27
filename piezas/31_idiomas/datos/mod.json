@@ -1,0 +1,6 @@
+{
+ "id": "31_idiomas",
+ "nombre": "Jacksmith: italiano, português, français, deutsch, русский, 日本語, 中文",
+ "version": "1.0.0",
+ "requiere": ["00_nucleo"]
+}

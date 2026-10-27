@@ -1,0 +1,102 @@
+[
+ [
+  "^Day: (\\d+)$",
+  "День: $1"
+ ],
+ [
+  "^Day (\\d+) Complete!$",
+  "День $1 пройден!"
+ ],
+ [
+  "^End of Day (\\d+)$",
+  "Конец дня $1"
+ ],
+ [
+  "^Page (\\d+) ?/ ?(\\d+)$",
+  "Страница $1/$2"
+ ],
+ [
+  "^(\\d+)% [Cc]omplete$",
+  "Готово: $1%"
+ ],
+ [
+  "^Created 1 Times?$",
+  "Создано: 1 раз"
+ ],
+ [
+  "^Created (\\d+) Times?$",
+  "Создано раз: $1"
+ ],
+ [
+  "^Killed 1 Times?$",
+  "Побеждён: 1 раз"
+ ],
+ [
+  "^Killed (\\d+) Times?$",
+  "Побеждён раз: $1"
+ ],
+ [
+  "^Weak to (\\w+) Boosts$",
+  "Уязвим к усилениям: {1l}"
+ ],
+ [
+  "^-(Grip|Cap|Guard|Pole|Arrowhead|Fletching|Paint|Crest) #(.+)$",
+  "-{1} #$2"
+ ],
+ [
+  "^-(Copper|Bronze|Iron|Steel|Gold|Crystal) (.+)$",
+  "-{2} ({1l})"
+ ],
+ [
+  "^\\+ ?(\\d+) [Ff]or (ALL|all) soldiers!$",
+  "+$1 для ВСЕХ солдат"
+ ],
+ [
+  "^\\+ ?(\\d+) for this weapon!$",
+  "+$1 для этого оружия"
+ ],
+ [
+  "^You crafted the (.+)!$",
+  "Выковано: {1}!"
+ ],
+ [
+  "^You crafted (.+)!$",
+  "Выковано: {1}!"
+ ],
+ [
+  "^([\\d,]+) XP to Next Level$",
+  "$1 опыта до след. уровня"
+ ],
+ [
+  "^Version (.+)$",
+  "Версия $1"
+ ],
+ [
+  "^Build (.+)$",
+  "Сборка $1"
+ ],
+ [
+  "^Design (.+)$",
+  "Чертёж $1"
+ ],
+ [
+  "^(Copper|Bronze|Iron|Steel|Gold|Crystal) x (\\d+)$",
+  "{1} x $2"
+ ],
+ [
+  "^(Badges|Bestiary|Designs|Weapon Boosts): (.+)$",
+  "{1}: $2"
+ ],
+ [
+  "^(Fire|Water|Ice|Stone|Wind|Lightning|Plant|Shadow) Boost \\+(\\d+)$",
+  "Усиление «{1}» +$2"
+ ],
+ [
+  "^You own (\\d+) of these$",
+  "У тебя: $1"
+ ],
+ [
+  "^(.+) (\\(\\d+/\\d+\\))$",
+  "{1} $2"
+ ]
+]

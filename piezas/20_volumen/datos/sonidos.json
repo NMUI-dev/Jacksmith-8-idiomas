@@ -1,0 +1,25 @@
+{
+ "_nota": "Grupos de volumen. 'sonidos' asigna cada id de sonido (sin .wav) a un grupo; un * al final vale como prefijo. Lo no listado cae en 'ui' (o en 'jingles' si el juego lo lanza con playMusicClip). Otros mods pueden traer su propio sonidos.json para añadir grupos o reasignar sonidos.",
+ "grupos": [
+  {"id": "music",   "en": "Music",     "def": 0.5, "sample": null},
+  {"id": "jingles", "en": "Jingles",   "def": 0.6, "sample": "addpart_great.wav"},
+  {"id": "ui",      "en": "Interface", "def": 0.6, "sample": "popclick6.wav"},
+  {"id": "forge",   "en": "Workshop",  "def": 0.6, "sample": "hammer1.wav"},
+  {"id": "battle",  "en": "Battle",    "def": 0.6, "sample": "battle_sword1.wav"}
+ ],
+ "sonidos": {
+  "addpart_*": "jingles", "jacksmith_give_*": "jingles", "jacksmith_xpfilling": "jingles", "unlock_music": "jingles",
+  "getbadge": "jingles", "revealxp": "jingles", "jacksmith_horn": "jingles",
+
+  "buttonclick": "ui", "popclick*": "ui", "slide": "ui", "slide_metal": "ui", "click_shelf": "ui", "talkbubble": "ui",
+  "dropticket": "ui", "open_map": "ui", "intro_pageturn": "ui", "press_forge_button": "ui", "clickcannon": "ui",
+  "wagon_door_open": "ui", "wagon_door_close": "ui", "scrapping": "ui", "customer_*": "ui",
+
+  "hammer*": "forge", "pow": "forge", "impact_*": "forge", "bellows_blow*": "forge", "boil_loop": "forge",
+  "fire_loop": "forge", "cauldron_*": "forge", "chain_*": "forge", "drop_blade": "forge", "grab_blade": "forge",
+  "grab_spike*": "forge", "part_*": "forge", "stretch*": "forge", "painting": "forge",
+
+  "battle_*": "battle", "cannon_impact": "battle", "gems_*": "battle", "loot_pitch*": "battle",
+  "pickup_loot_*": "battle", "openchest": "battle", "rolling_wagon": "battle"
+ }
+}

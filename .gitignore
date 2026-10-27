@@ -1,0 +1,11 @@
+# game files, disassembly and build output (never commit)
+original/
+game/
+work/
+out/
+*.assets
+*.swf
+*.abc
+# third-party tools (download them, see README)
+tools/
+__pycache__/

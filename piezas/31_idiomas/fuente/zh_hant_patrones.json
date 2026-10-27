@@ -1,0 +1,102 @@
+[
+ [
+  "^Day: (\\d+)$",
+  "天數：$1"
+ ],
+ [
+  "^Day (\\d+) Complete!$",
+  "第$1天完成！"
+ ],
+ [
+  "^End of Day (\\d+)$",
+  "第$1天結束"
+ ],
+ [
+  "^Page (\\d+) ?/ ?(\\d+)$",
+  "第$1/$2頁"
+ ],
+ [
+  "^(\\d+)% [Cc]omplete$",
+  "已完成$1%"
+ ],
+ [
+  "^Created 1 Times?$",
+  "已製作1次"
+ ],
+ [
+  "^Created (\\d+) Times?$",
+  "已製作$1次"
+ ],
+ [
+  "^Killed 1 Times?$",
+  "已擊敗1次"
+ ],
+ [
+  "^Killed (\\d+) Times?$",
+  "已擊敗$1次"
+ ],
+ [
+  "^Weak to (\\w+) Boosts$",
+  "弱點：{1}強化"
+ ],
+ [
+  "^-(Grip|Cap|Guard|Pole|Arrowhead|Fletching|Paint|Crest) #(.+)$",
+  "-{1} #$2"
+ ],
+ [
+  "^-(Copper|Bronze|Iron|Steel|Gold|Crystal) (.+)$",
+  "-{1}{2}"
+ ],
+ [
+  "^\\+ ?(\\d+) [Ff]or (ALL|all) soldiers!$",
+  "全體士兵+$1"
+ ],
+ [
+  "^\\+ ?(\\d+) for this weapon!$",
+  "此武器+$1"
+ ],
+ [
+  "^You crafted the (.+)!$",
+  "你鍛造了：{1}！"
+ ],
+ [
+  "^You crafted (.+)!$",
+  "你鍛造了：{1}！"
+ ],
+ [
+  "^([\\d,]+) XP to Next Level$",
+  "距下一級還需$1經驗"
+ ],
+ [
+  "^Version (.+)$",
+  "版本 $1"
+ ],
+ [
+  "^Build (.+)$",
+  "組建 $1"
+ ],
+ [
+  "^Design (.+)$",
+  "設計 $1"
+ ],
+ [
+  "^(Copper|Bronze|Iron|Steel|Gold|Crystal) x (\\d+)$",
+  "{1} x $2"
+ ],
+ [
+  "^(Badges|Bestiary|Designs|Weapon Boosts): (.+)$",
+  "{1}：$2"
+ ],
+ [
+  "^(Fire|Water|Ice|Stone|Wind|Lightning|Plant|Shadow) Boost \\+(\\d+)$",
+  "{1}強化 +$2"
+ ],
+ [
+  "^You own (\\d+) of these$",
+  "擁有$1個"
+ ],
+ [
+  "^(.+) (\\(\\d+/\\d+\\))$",
+  "{1} $2"
+ ]
+]

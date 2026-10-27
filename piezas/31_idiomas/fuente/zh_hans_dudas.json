@@ -1,0 +1,734 @@
+{
+ "Repairs your soldiers' weapons": {
+  "es": "Repara las armas de tus soldados",
+  "gemma": "修复你的士兵的武器",
+  "qwen": "修复士兵的武器",
+  "gemma4": "修复士兵的武器"
+ },
+ "20 Stretches": {
+  "es": "20 tensados",
+  "gemma": "20 次强化",
+  "qwen": "20 次拉伸",
+  "gemma4": "20 次拉伸"
+ },
+ "Arms of Steel": {
+  "es": "Brazos de acero",
+  "gemma": "钢铁武器",
+  "qwen": "钢铁之臂",
+  "gemma4": "钢铁之臂"
+ },
+ "Attack 10 Water Enemies with Water-boosted weapons": {
+  "es": "Ataca a 10 enemigos de agua con mejoras de agua",
+  "gemma": "使用水强化武器攻击 10 个水元素敌人",
+  "qwen": "使用水强化武器攻击 10 个水敌人",
+  "gemma4": "使用水强化武器攻击 10 个水敌人"
+ },
+ "Attack 15 Ice Enemies with Ice-boosted weapons": {
+  "es": "Ataca a 15 enemigos de hielo con mejoras de hielo",
+  "gemma": "使用冰强化武器攻击 15 个冰元素敌人",
+  "qwen": "使用冰强化武器攻击 15 个冰敌人",
+  "gemma4": "使用冰强化武器攻击 15 个冰敌人"
+ },
+ "Attack 20 Wind Enemies with Wind-boosted weapons": {
+  "es": "Ataca a 20 enemigos de viento con mejoras de viento",
+  "gemma": "使用风强化武器攻击 20 个风元素敌人",
+  "qwen": "使用风强化武器攻击 20 个风敌人",
+  "gemma4": "使用风强化武器攻击 20 个风敌人"
+ },
+ "Batch of Bronze": {
+  "es": "Lote de bronce",
+  "gemma": "青铜材料一批",
+  "qwen": "一批青铜",
+  "gemma4": "一批青铜"
+ },
+ "Boosted Builder": {
+  "es": "Forjador mejorado",
+  "gemma": "强化大师",
+  "qwen": "强化建筑师",
+  "gemma4": "强化建筑师"
+ },
+ "Bow Builder": {
+  "es": "Forjador de arcos",
+  "gemma": "弓箭制造者",
+  "qwen": "弓制造者",
+  "gemma4": "弓制造者"
+ },
+ "Bronze Builder": {
+  "es": "Forjador de bronce",
+  "gemma": "青铜大师",
+  "qwen": "青铜锻造师",
+  "gemma4": "青铜锻造师"
+ },
+ "Cannonballistic": {
+  "es": "Balística total",
+  "gemma": "炮弹狂潮",
+  "qwen": "炮弹弹道",
+  "gemma4": "炮弹弹道"
+ },
+ "Clear a trail on 5 days without breaking any weapons": {
+  "es": "Despeja un sendero 5 días sin romper ningún arma",
+  "gemma": "在 5 天内，不损坏任何武器，清理一条道路",
+  "qwen": "在 5 天内清理道路，且不损坏任何武器",
+  "gemma4": "在 5 天内清理道路，且不损坏任何武器"
+ },
+ "Craft 20 Epic Weapons": {
+  "es": "Forja 20 armas épicas",
+  "gemma": "制作 20 个史诗武器",
+  "qwen": "制作 20 把史诗武器",
+  "gemma4": "制作 20 把史诗武器"
+ },
+ "Craft 5 weapons": {
+  "es": "Forja 5 armas",
+  "gemma": "制作 5 个武器",
+  "qwen": "制作 5 把武器",
+  "gemma4": "制作 5 把武器"
+ },
+ "Craft all weapons out of Gold on a single day": {
+  "es": "Forja todas las armas de oro en un mismo día",
+  "gemma": "在一天内制作所有黄金武器",
+  "qwen": "在一天内制作所有金武器",
+  "gemma4": "在一天内制作所有金武器"
+ },
+ "Craft any 10 weapons using Iron": {
+  "es": "Forja 10 armas usando hierro",
+  "gemma": "使用铁制作任意 10 个武器",
+  "qwen": "使用铁制作任意 10 把武器",
+  "gemma4": "使用铁制作任意 10 把武器"
+ },
+ "Craft any 15 weapons using Steel": {
+  "es": "Forja 15 armas usando acero",
+  "gemma": "使用钢制作任意 15 个武器",
+  "qwen": "使用钢制作任意 15 把武器",
+  "gemma4": "使用钢制作任意 15 把武器"
+ },
+ "Craft any 20 weapons using Gold": {
+  "es": "Forja 20 armas usando oro",
+  "gemma": "使用黄金制作任意 20 个武器",
+  "qwen": "使用金制作任意 20 把武器",
+  "gemma4": "使用金制作任意 20 把武器"
+ },
+ "Craft any 25 weapons using Crystal": {
+  "es": "Forja 25 armas usando cristal",
+  "gemma": "使用水晶制作任意 25 个武器",
+  "qwen": "使用水晶制作任意 25 把武器",
+  "gemma4": "使用水晶制作任意 25 把武器"
+ },
+ "Craft any 5 weapons using Bronze": {
+  "es": "Forja 5 armas usando bronce",
+  "gemma": "使用青铜制作任意 5 个武器",
+  "qwen": "使用青铜制作任意 5 把武器",
+  "gemma4": "使用青铜制作任意 5 把武器"
+ },
+ "Frequent Fletcher": {
+  "es": "Flechero frecuente",
+  "gemma": "经常制作弓箭的人",
+  "qwen": "资深箭手",
+  "gemma4": "资深箭手"
+ },
+ "Get 100% Arrows score on any 20 Bows": {
+  "es": "Logra 100% en Flechas en 20 arcos",
+  "gemma": "在任意20把弓上，获得100%的箭支评分",
+  "qwen": "在任意20把弓上获得100%的箭评分",
+  "gemma4": "在任意20把弓上获得100%的箭评分"
+ },
+ "Get 100% Construction score on any 20 Axes, Shields, or Maces": {
+  "es": "Logra 100% en Construcción en 20 hachas, escudos o mazas",
+  "gemma": "在任意20把斧头、盾牌或锤上，获得100%的组装评分",
+  "qwen": "在任意20把斧、盾或锤上获得100%的组装评分",
+  "gemma4": "在任意20把斧、盾或锤上获得100%的组装评分"
+ },
+ "Get 100% Forging score on any 20 weapons": {
+  "es": "Logra 100% en Forjado en 20 armas",
+  "gemma": "在任意20件武器上，获得100%的锻造评分",
+  "qwen": "在任意20件武器上获得100%的锻造评分",
+  "gemma4": "在任意20件武器上获得100%的锻造评分"
+ },
+ "Get 100% Hammering score on any 20 Swords or Pikes": {
+  "es": "Logra 100% en Martillado en 20 espadas o lanzas",
+  "gemma": "在任意20把剑或长枪上，获得100%的锤炼评分",
+  "qwen": "在任意20把剑或长枪上获得100%的锤炼评分",
+  "gemma4": "在任意20把剑或长枪上获得100%的锤炼评分"
+ },
+ "Get 100% Handle score on any 20 weapons": {
+  "es": "Logra 100% en Agarre en 20 armas",
+  "gemma": "在任意20件武器上，获得100%的柄评分",
+  "qwen": "在任意20件武器上获得100%的柄评分",
+  "gemma4": "在任意20件武器上获得100%的柄评分"
+ },
+ "Get 100% Painting score on any 20 Shields": {
+  "es": "Logra 100% en Pintura en 20 escudos",
+  "gemma": "在任意20个盾牌上，获得100%的涂装评分",
+  "qwen": "在任意20个盾牌上获得100%的涂装评分",
+  "gemma4": "在任意20个盾牌上获得100%的涂装评分"
+ },
+ "Get 100% Stretching score on any 20 Bows": {
+  "es": "Logra 100% en Tensado en 20 arcos",
+  "gemma": "在任意20把弓上，获得100%的拉弦评分",
+  "qwen": "在任意20把弓上获得100%的拉弦评分",
+  "gemma4": "在任意20把弓上获得100%的拉弦评分"
+ },
+ "Get 3 different Weapon Designs for Axes": {
+  "es": "Consigue 3 diseños distintos de hachas",
+  "gemma": "获得3种不同的斧头武器设计图",
+  "qwen": "获得3种不同的斧武器设计图",
+  "gemma4": "获得3种不同的斧武器设计图"
+ },
+ "Get 3 different Weapon Designs for Bows": {
+  "es": "Consigue 3 diseños distintos de arcos",
+  "gemma": "获得3种不同的弓的武器设计图",
+  "qwen": "获得3种不同的弓武器设计图",
+  "gemma4": "获得3种不同的弓武器设计图"
+ },
+ "Get 3 different Weapon Designs for Maces": {
+  "es": "Consigue 3 diseños distintos de mazas",
+  "gemma": "获得3种不同的锤的武器设计图",
+  "qwen": "获得3种不同的锤武器设计图",
+  "gemma4": "获得3种不同的锤武器设计图"
+ },
+ "Get 3 different Weapon Designs for Pikes": {
+  "es": "Consigue 3 diseños distintos de lanzas",
+  "gemma": "获得3种不同的长枪的武器设计图",
+  "qwen": "获得3种不同的长枪武器设计图",
+  "gemma4": "获得3种不同的长枪武器设计图"
+ },
+ "Get 3 different Weapon Designs for Shields": {
+  "es": "Consigue 3 diseños distintos de escudos",
+  "gemma": "获得3种不同的盾的武器设计图",
+  "qwen": "获得3种不同的盾武器设计图",
+  "gemma4": "获得3种不同的盾武器设计图"
+ },
+ "Get 3 different Weapon Designs for Swords": {
+  "es": "Consigue 3 diseños distintos de espadas",
+  "gemma": "获得3种不同的剑的武器设计图",
+  "qwen": "获得3种不同的剑武器设计图",
+  "gemma4": "获得3种不同的剑武器设计图"
+ },
+ "Getting Started": {
+  "es": "Primeros pasos",
+  "gemma": "快速开始",
+  "qwen": "入门指南",
+  "gemma4": "入门指南"
+ },
+ "Go for the Gold": {
+  "es": "Tras el oro",
+  "gemma": "追求金币",
+  "qwen": "赢取金币",
+  "gemma4": "赢取金币"
+ },
+ "Mace Collection": {
+  "es": "Colección de mazas",
+  "gemma": "锤的收集",
+  "qwen": "锤收藏",
+  "gemma4": "锤收藏"
+ },
+ "Mace Designer": {
+  "es": "Diseñador de mazas",
+  "gemma": "锤的设计师",
+  "qwen": "锤子设计师",
+  "gemma4": "锤子设计师"
+ },
+ "Powered Up": {
+  "es": "Potenciado",
+  "gemma": "能量提升",
+  "qwen": "强化",
+  "gemma4": "强化"
+ },
+ "Repair your troops' weapons 10 times with your Repair Bomb": {
+  "es": "Repara las armas de tus tropas 10 veces con tu bomba reparadora",
+  "gemma": "使用修理炸弹，可以为你的士兵修理武器 10 次",
+  "qwen": "使用修理炸弹为你的部队修理 10 次武器",
+  "gemma4": "使用修理炸弹为你的部队修理 10 次武器"
+ },
+ "Set of Silver": {
+  "es": "Juego de plata",
+  "gemma": "银制套装",
+  "qwen": "银套装",
+  "gemma4": "银套装"
+ },
+ "Silver Starter": {
+  "es": "Inicio de plata",
+  "gemma": "银制入门",
+  "qwen": "银入门",
+  "gemma4": "银入门"
+ },
+ "Silver Stats": {
+  "es": "Estadísticas de plata",
+  "gemma": "银制属性",
+  "qwen": "银属性",
+  "gemma4": "银属性"
+ },
+ "Steel Set": {
+  "es": "Juego de acero",
+  "gemma": "钢制套装",
+  "qwen": "钢套装",
+  "gemma4": "钢套装"
+ },
+ "Sword Collection": {
+  "es": "Colección de espadas",
+  "gemma": "剑的收集",
+  "qwen": "剑收藏",
+  "gemma4": "剑收藏"
+ },
+ "Sword Designer": {
+  "es": "Diseñador de espadas",
+  "gemma": "剑的设计师",
+  "qwen": "剑的设计",
+  "gemma4": "剑的设计"
+ },
+ "Trail of Shadows": {
+  "es": "Sendero de sombras",
+  "gemma": "暗影之路",
+  "qwen": "暗影道路",
+  "gemma4": "暗影道路"
+ },
+ "Use your Fire, Ice, and Lightning Bombs on the same enemy at the same time": {
+  "es": "Usa tus bombas de fuego, hielo y rayo sobre el mismo enemigo a la vez",
+  "gemma": "同时使用你的火焰炸弹、冰冻炸弹和闪电炸弹攻击同一个敌人",
+  "qwen": "同时对同一敌人使用火、冰和闪电炸弹",
+  "gemma4": "同时对同一敌人使用火、冰和闪电炸弹"
+ },
+ "XP to Next Level": {
+  "es": "XP al próximo nivel",
+  "gemma": "经验值，升级到下一级",
+  "qwen": "距离下一级还差",
+  "gemma4": "距离下一级还差"
+ },
+ "Burning Longlegs": {
+  "es": "Patilargo ardiente",
+  "gemma": "燃烧的长腿怪",
+  "qwen": "燃烧长腿怪",
+  "gemma4": "燃烧长腿怪"
+ },
+ "% Complete": {
+  "es": "% completado",
+  "gemma": "完成度：%",
+  "qwen": "% 已完成",
+  "gemma4": "% 已完成"
+ },
+ "Boss": {
+  "es": "Jefe",
+  "gemma": "Boss (Boss 敌人)",
+  "qwen": "首领",
+  "gemma4": "首领"
+ },
+ "Time": {
+  "es": "vez",
+  "gemma": "次数",
+  "qwen": "时间",
+  "gemma4": "时间"
+ },
+ "Axe Grinder": {
+  "es": "Afilahachas",
+  "gemma": "斧头磨刀工",
+  "qwen": "磨斧工",
+  "gemma4": "磨斧工"
+ },
+ "Battle Booster": {
+  "es": "Potenciador",
+  "gemma": "战斗强化",
+  "qwen": "战斗强化师",
+  "gemma4": "战斗强化师"
+ },
+ "Shield Champion": {
+  "es": "Campeón del escudo",
+  "gemma": "盾牌大师",
+  "qwen": "盾牌冠军",
+  "gemma4": "盾牌冠军"
+ },
+ "Trainee": {
+  "es": "Aprendiz",
+  "gemma": "训练兵",
+  "qwen": "学徒",
+  "gemma4": "学徒"
+ },
+ "Jumbo Classic": {
+  "es": "Gigante clásica",
+  "gemma": "超大经典",
+  "qwen": "经典大号",
+  "gemma4": "经典大号"
+ },
+ "Jumbo Widescreen": {
+  "es": "Gigante panorámica",
+  "gemma": "超大宽屏",
+  "qwen": "宽屏大号",
+  "gemma4": "宽屏大号"
+ },
+ "Large Classic": {
+  "es": "Grande clásica",
+  "gemma": "大经典",
+  "qwen": "经典大号",
+  "gemma4": "经典大号"
+ },
+ "Small Classic": {
+  "es": "Pequeña clásica",
+  "gemma": "小经典",
+  "qwen": "经典小号",
+  "gemma4": "经典小号"
+ },
+ "No Soldiers can\nuse this weapon!": {
+  "es": "¡Ningún soldado\nusa esta arma!",
+  "gemma": "没有士兵可以使用这个武器！",
+  "qwen": "没有士兵可以使用此武器！",
+  "gemma4": "没有士兵可以使用此武器！"
+ },
+ "+ 999 For all soldiers!": {
+  "es": "¡+ 999 para todos los soldados!",
+  "gemma": "增加 999 给所有士兵！",
+  "qwen": "所有士兵 + 999！",
+  "gemma4": "所有士兵 + 999！"
+ },
+ "Swings\nLeft": {
+  "es": "Golpes restantes",
+  "gemma": "向左挥动",
+  "qwen": "剩余挥击次数",
+  "gemma4": "剩余挥击次数"
+ },
+ "Erase Game": {
+  "es": "Borrar partida",
+  "gemma": "删除游戏",
+  "qwen": "删除存档",
+  "gemma4": "删除存档"
+ },
+ "Your save slot is\nempty, but a backup\nfrom a previous save\nis available.": {
+  "es": "Tu ranura está\nvacía, pero hay una\ncopia de una partida\nanterior.",
+  "gemma": "你的存档空间是空的，但有一个以前存档的备份可用。",
+  "qwen": "存档位是空的，但有之前的存档备份可用。",
+  "gemma4": "存档位是空的，但有之前的存档备份可用。"
+ },
+ "Yes": {
+  "es": "Sí",
+  "gemma": "确定",
+  "qwen": "是",
+  "gemma4": "是"
+ },
+ "Name Here": {
+  "es": "Tu nombre",
+  "gemma": "名字在此处",
+  "qwen": "输入名字",
+  "gemma4": "输入名字"
+ },
+ "DEVELOPED BY:": {
+  "es": "DESARROLLADO POR:",
+  "gemma": "开发商：",
+  "qwen": "开发：",
+  "gemma4": "开发："
+ },
+ "Quit App": {
+  "es": "Salir",
+  "gemma": "退出游戏",
+  "qwen": "退出应用",
+  "gemma4": "退出应用"
+ },
+ "Too Much": {
+  "es": "Muy caro",
+  "gemma": "太贵了",
+  "qwen": "太多了",
+  "gemma4": "太多了"
+ },
+ "I've got some items\nin stock if you need\nto buy anything!": {
+  "es": "¡Tengo algunos artículos en venta por si necesitas comprar algo!",
+  "gemma": "如果你需要购买任何东西，我有一些商品在售！",
+  "qwen": "如果你需要买东西，我这里有现货！",
+  "gemma4": "如果你需要买东西，我这里有现货！"
+ },
+ "eet Jacksmith, a very talented Blacksmith,\nand his furry apprentice, Scout.": {
+  "es": "ira a Jacksmith, un herrero muy talentoso, y a su peludo aprendiz, Scout.",
+  "gemma": "欢迎来到 Jacksmith 的世界，他是一位非常有才华的铁匠，还有他毛茸茸的学徒 Scout。",
+  "qwen": "认识一下 Jacksmith，一位非常有才华的铁匠，还有他毛茸茸的学徒 Scout。",
+  "gemma4": "认识一下 Jacksmith，一位非常有才华的铁匠，还有他毛茸茸的学徒 Scout。"
+ },
+ "The King set a reward for any brave soul\nwho could save his daughter.": {
+  "es": "El rey ofreció una recompensa al valiente que salvara a su hija.",
+  "gemma": "国王为任何能够拯救他女儿的勇敢之人设置了奖励。",
+  "qwen": "国王为任何能够拯救他女儿的勇士提供奖励。",
+  "gemma4": "国王为任何能够拯救他女儿的勇士提供奖励。"
+ },
+ "on the trail during battles!": {
+  "es": "en el sendero durante las batallas.",
+  "gemma": "在战斗中，沿着道路！",
+  "qwen": "在战斗中的道路上！",
+  "gemma4": "在战斗中的道路上！"
+ },
+ "You have all of the parts!": {
+  "es": "¡Tienes todas las piezas!",
+  "gemma": "你已经收集齐所有部件了！",
+  "qwen": "你拥有所有部件了！",
+  "gemma4": "你拥有所有部件了！"
+ },
+ "Killed 99 times": {
+  "es": "Derrotado 99 veces",
+  "gemma": "击杀次数：99",
+  "qwen": "已击杀 99 次",
+  "gemma4": "已击杀 99 次"
+ },
+ "100% complete": {
+  "es": "100% completado",
+  "gemma": "进度：100%",
+  "qwen": "已完成 100%",
+  "gemma4": "已完成 100%"
+ },
+ "Any progress you've made since the start\nof this crafting day will be lost!": {
+  "es": "¡Perderás todo el progreso hecho desde el inicio de este día de forja!",
+  "gemma": "从今天开始制作的所有进度都会丢失！",
+  "qwen": "从今天开始的制作进度都将丢失！",
+  "gemma4": "从今天开始的制作进度都将丢失！"
+ },
+ "You first need to choose a metal.\n\nYou'll earn metal ores to use later,\nbut right now you have an unlimited\nsupply of copper to use.": {
+  "es": "Primero debes elegir un metal.\n\nMás adelante ganarás minerales, pero por ahora tienes cobre ilimitado para usar.",
+  "gemma": "首先，你需要选择一种金属。 你会获得矿石来以后使用，但现在你拥有无限量的铜。",
+  "qwen": "首先，你需要选择一种金属。你之后会获得矿石，但现在你可以无限使用铜。",
+  "gemma4": "首先，你需要选择一种金属。你之后会获得矿石，但现在你可以无限使用铜。"
+ },
+ "Wait for the copper to melt!\n\nYou can also pump the bellows to make\nthe metal melt faster.": {
+  "es": "¡Espera a que el cobre se funda!\n\nTambién puedes accionar el fuelle para que el metal se funda más rápido.",
+  "gemma": "等待铜融化！ 你也可以用鼓风机加速金属的融化。",
+  "qwen": "等待铜融化！你也可以操作风箱来加速金属融化。",
+  "gemma4": "等待铜融化！你也可以操作风箱来加速金属融化。"
+ },
+ "The metal is ready! Slowly pull the chain downwards to pour into the sword mold.": {
+  "es": "¡El metal está listo! Tira despacio de la cadena hacia abajo para verterlo en el molde.",
+  "gemma": "金属已经准备好！ 慢慢地拉动链条，将金属倒入剑的模具中。",
+  "qwen": "金属准备好了！慢慢向下拉动链条，将其倒入剑的模具中。",
+  "gemma4": "金属准备好了！慢慢向下拉动链条，将其倒入剑的模具中。"
+ },
+ "You need to hammer a sword to sharpen its edges. Click along the edges of the sword to hammer.": {
+  "es": "Debes martillar la espada para afilar sus bordes. Haz clic a lo largo de los bordes para martillar.",
+  "gemma": "你需要用锤子敲打剑，以磨利其边缘。 点击剑的边缘进行敲打。",
+  "qwen": "你需要锤炼剑以磨利其边缘。点击剑的边缘进行锤炼。",
+  "gemma4": "你需要锤炼剑以磨利其边缘。点击剑的边缘进行锤炼。"
+ },
+ "You can only swing the hammer 18 times, so try to space your hammering to make it all the way around the sword blade!": {
+  "es": "Solo puedes dar 18 golpes de martillo, ¡así que repártelos para cubrir todo el contorno de la hoja!",
+  "gemma": "你只能挥动锤子 18 次，所以尽量均匀地敲打，让它覆盖整个剑刃！",
+  "qwen": "你只能挥动锤子 18 次，所以尽量均匀地锤炼，让它覆盖整个剑刃！",
+  "gemma4": "你只能挥动锤子 18 次，所以尽量均匀地锤炼，让它覆盖整个剑刃！"
+ },
+ "You build the handle of a sword by dropping parts onto it. First drag and release a Guard onto the sword's end.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una guarda en el extremo.",
+  "gemma": "你可以通过将部件放置在剑柄上，来制作剑柄。 首先，将一个护手拖动并释放到剑的末端。",
+  "qwen": "你可以通过将部件放置在剑上来制作剑柄。首先，将一个护手拖动并释放到剑的末端。",
+  "gemma4": "你可以通过将部件放置在剑上来制作剑柄。首先，将一个护手拖动并释放到剑的末端。"
+ },
+ "Next drop a Grip onto the sword. Try to line up the parts correctly to make the sword more durable.": {
+  "es": "Ahora suelta un mango. Alinea bien las piezas para que la espada sea más duradera.",
+  "gemma": "接下来，将一个握把放置在剑上。 尽量对齐部件，使剑更耐用。",
+  "qwen": "接下来，将一个握把放置在剑上。尽量对齐部件，使剑更耐用。",
+  "gemma4": "接下来，将一个握把放置在剑上。尽量对齐部件，使剑更耐用。"
+ },
+ "Next drop a Cap onto the sword to finish the hilt.": {
+  "es": "Ahora suelta un pomo para terminar el agarre.",
+  "gemma": "接下来，将一个柄头放置在剑上，以完成剑柄。",
+  "qwen": "接下来，将一个柄头放置在剑上以完成剑柄。",
+  "gemma4": "接下来，将一个柄头放置在剑上以完成剑柄。"
+ },
+ "Click Finish to deliver this sword to a waiting swordsman!": {
+  "es": "¡Haz clic en Terminar para entregar la espada al espadachín que espera!",
+  "gemma": "点击“完成”按钮，将这把剑交付给等待的士兵！",
+  "qwen": "点击“完成”将这把剑交给等待的士兵！",
+  "gemma4": "点击“完成”将这把剑交给等待的士兵！"
+ },
+ "You'll wait for three soldiers today.\nTake this soldier's order, and start\nbuilding another sword!": {
+  "es": "Hoy esperarás a tres soldados. ¡Toma el pedido de este soldado y empieza otra espada!",
+  "gemma": "今天你会等待三个士兵。 接受这个士兵的订单，开始制作另一把剑！",
+  "qwen": "今天你会接待三个士兵。接受这个士兵的订单，开始制作另一把剑！",
+  "gemma4": "今天你会接待三个士兵。接受这个士兵的订单，开始制作另一把剑！"
+ },
+ "How long it lasts\nbefore breaking": {
+  "es": "Cuánto dura antes de romperse",
+  "gemma": "它在损坏前的持续时间",
+  "qwen": "在损坏前的持续时间",
+  "gemma4": "在损坏前的持续时间"
+ },
+ "If you hammer poorly, the swordwon't have as much Power in battle.": {
+  "es": "Si martillas mal, la espada no tendrá tanto poder en batalla.",
+  "gemma": "如果你锻造不均匀，剑在战斗中的威力会降低。",
+  "qwen": "如果锻造不当，剑在战斗中的威力就会降低。",
+  "gemma4": "如果锻造不当，剑在战斗中的威力就会降低。"
+ },
+ "If you complete the day's weapons quickly,any time remaining on your Bonus Meterwill reward you with Gems!": {
+  "es": "Si terminas rápido las armas del día, ¡el tiempo que quede en tu medidor de bonificación te dará gemas!",
+  "gemma": "如果你快速完成当天的武器制作，剩余的奖励时间会奖励你宝石！",
+  "qwen": "如果你快速完成当天的武器制作，奖励进度条上的剩余时间将为你提供宝石！",
+  "gemma4": "如果你快速完成当天的武器制作，奖励进度条上的剩余时间将为你提供宝石！"
+ },
+ "Monsters will drop Loot when attacked.": {
+  "es": "Los monstruos sueltan botín al ser atacados.",
+  "gemma": "击杀怪物时，它们会掉落战利品。",
+  "qwen": "攻击怪物时，它们会掉落战利品。",
+  "gemma4": "攻击怪物时，它们会掉落战利品。"
+ },
+ "Be sure to collect it!": {
+  "es": "¡No olvides recogerlo!",
+  "gemma": "记得拾取它们！",
+  "qwen": "记得拾取它！",
+  "gemma4": "记得拾取它！"
+ },
+ "If you defeat all of the monsters on a day's trail,you can collect an Epic Weapon Design and its parts from a treasure chest!": {
+  "es": "Si derrotas a todos los monstruos del sendero del día, ¡obtendrás un diseño de arma épica y sus piezas de un cofre del tesoro!",
+  "gemma": "如果你在一天的道路上击败了所有怪物，你可以从宝箱中获得史诗武器设计图和其部件！",
+  "qwen": "如果你在一天的道路上击败了所有怪物，你就可以从宝箱中获得史诗武器设计图及其零件！",
+  "gemma4": "如果你在一天的道路上击败了所有怪物，你就可以从宝箱中获得史诗武器设计图及其零件！"
+ },
+ "You need to wait for your cannonball\nto recharge before you can fire again.": {
+  "es": "Debes esperar a que tu bala de cañón se recargue antes de volver a disparar.",
+  "gemma": "你需要等待炮弹的冷却时间，才能再次发射。",
+  "qwen": "你需要等待炮弹充能完毕才能再次发射。",
+  "gemma4": "你需要等待炮弹充能完毕才能再次发射。"
+ },
+ "You can see the parts needed\nto build this weapon, and a\nif you have the parts already.": {
+  "es": "Puedes ver las piezas necesarias para forjar esta arma, y una marca si ya las tienes.",
+  "gemma": "你可以看到制作该武器所需的材料，以及你是否已经拥有这些材料。",
+  "qwen": "你可以看到制作该武器所需的零件，如果你已经拥有这些零件，还会显示标记。",
+  "gemma4": "你可以看到制作该武器所需的零件，如果你已经拥有这些零件，还会显示标记。"
+ },
+ "When you craft great weapons and earn points on a weapon's\nStar Meter, you can unlock extra Elemental Boosts\nfor each weapon type!": {
+  "es": "Si forjas grandes armas y ganas puntos en el medidor de estrellas de un arma, ¡desbloquearás mejoras elementales extra para cada tipo de arma!",
+  "gemma": "当你制作出优秀的武器，并在武器的星星计量条上获得积分时，你可以解锁额外的各种武器类型的强化效果！",
+  "qwen": "当你制作出优秀的武器并在武器的星星计量条上获得积分时，你可以为每种武器类型解锁额外的元素强化！",
+  "gemma4": "当你制作出优秀的武器并在武器的星星计量条上获得积分时，你可以为每种武器类型解锁额外的元素强化！"
+ },
+ "Don't worry if you don't reach the\nTreasure Chest each day!": {
+  "es": "¡No te preocupes si no llegas al cofre del tesoro cada día!",
+  "gemma": "不用担心你每天都无法获得宝箱！",
+  "qwen": "如果你每天没能拿到宝藏，也不要担心！",
+  "gemma4": "如果你每天没能拿到宝藏，也不要担心！"
+ },
+ "As you travel down the road, many different enemies\nwill be blocking your path!": {
+  "es": "Al viajar por el camino, ¡muchos enemigos distintos te cerrarán el paso!",
+  "gemma": "在旅途中，许多不同的敌人会阻挡你的道路！",
+  "qwen": "在旅途中，许多不同的敌人会阻挡你的去路！",
+  "gemma4": "在旅途中，许多不同的敌人会阻挡你的去路！"
+ },
+ "The Power and Durability for a weapon come from the metal\nyou use to create it. Better metals have higher stats.": {
+  "es": "El poder y la durabilidad de un arma vienen del metal con que la creas. Los mejores metales dan más estadísticas.",
+  "gemma": "武器的威力（Power）和耐久度（Durability）取决于你用来制作它的金属。 更好的金属拥有更高的属性值。",
+  "qwen": "武器的威力和耐久度取决于你用来制作它的金属。更好的金属拥有更高的属性值。",
+  "gemma4": "武器的威力和耐久度取决于你用来制作它的金属。更好的金属拥有更高的属性值。"
+ },
+ "Parts that you collect or buy will also have additional\nStat Boosts, to make your weapon even stronger.": {
+  "es": "Las piezas que reúnas o compres también tienen mejoras de estadísticas, para que tu arma sea aún más fuerte.",
+  "gemma": "你收集或购买的部件也会提供额外的属性强化（Stat Boosts），让你的武器更加强大。",
+  "qwen": "你收集或购买的部件也会提供额外的属性强化，让你的武器更加强大。",
+  "gemma4": "你收集或购买的部件也会提供额外的属性强化，让你的武器更加强大。"
+ },
+ "If you craft a weapon poorly, the stats will go down, and it\nwon't do as well in battle. Craft a great weapon to get the\nmaximum Power and Durability!": {
+  "es": "Si forjas mal un arma, sus estadísticas bajarán y rendirá menos en batalla. ¡Forja una gran arma para lograr el poder y la durabilidad máximos!",
+  "gemma": "如果你制作的武器质量不好，属性值会下降，战斗表现也会变差。 制作出优秀的武器，才能获得最高的威力（Power）和耐久度（Durability）！",
+  "qwen": "如果你制作的武器质量不好，属性值会下降，战斗表现也会变差。制作出优秀的武器，才能获得最高的威力和耐久度！",
+  "gemma4": "如果你制作的武器质量不好，属性值会下降，战斗表现也会变差。制作出优秀的武器，才能获得最高的威力和耐久度！"
+ },
+ "Power": {
+  "es": "Poder",
+  "gemma": "威力 (Power)",
+  "qwen": "威力",
+  "gemma4": "威力"
+ },
+ "Durability": {
+  "es": "Durabilidad",
+  "gemma": "耐久度 (Durability)",
+  "qwen": "耐久度",
+  "gemma4": "耐久度"
+ },
+ "Some parts will have a Luck Stat:": {
+  "es": "Algunas piezas tienen suerte:",
+  "gemma": "有些部件会带有幸运属性 (Luck Stat)：",
+  "qwen": "有些部件会带有幸运属性：",
+  "gemma4": "有些部件会带有幸运属性："
+ },
+ "Weapons and parts can also have Elemental Boostsin addition to their regular stats. Check the \"Element Chart\"section for more information.": {
+  "es": "Las armas y piezas también pueden tener mejoras elementales además de sus estadísticas. Consulta la sección \"Tabla de elementos\" para saber más.",
+  "gemma": "武器和部件还可以拥有额外的元素强化（Elemental Boosts），除了常规属性之外。 更多信息请查看“元素图表”部分。",
+  "qwen": "武器和部件除了常规属性外，还可以拥有元素强化。更多信息请查看“元素图表”部分。",
+  "gemma4": "武器和部件除了常规属性外，还可以拥有元素强化。更多信息请查看“元素图表”部分。"
+ },
+ "Shop": {
+  "es": "Tienda",
+  "gemma": "商店 (Shop)",
+  "qwen": "商店",
+  "gemma4": "商店"
+ },
+ "Use the Gems you collect ( ) to buy\nweapon parts from Gander’s shop.": {
+  "es": "Usa tus gemas (             ) para comprar piezas en la tienda de Gander.",
+  "gemma": "使用你收集的宝石来在Gander的商店购买武器部件。",
+  "qwen": "使用你收集的宝石 ( ) 在Gander的商店购买武器部件。",
+  "gemma4": "使用你收集的宝石 ( ) 在Gander的商店购买武器部件。"
+ },
+ "Gander is a traveling salesman, so he can only carry\none of each part in stock each day.": {
+  "es": "Gander es un vendedor ambulante, así que cada día solo lleva una unidad de cada pieza.",
+  "gemma": "Gander是一个流动商人，所以他每天只能携带一种部件。",
+  "qwen": "Gander是一个流动商人，所以他每天每种部件只能携带一个。",
+  "gemma4": "Gander是一个流动商人，所以他每天每种部件只能携带一个。"
+ },
+ "The Falchion only needs to be sharpened on one side,\nbut you can't swing the hammer as many times.": {
+  "es": "El sable solo se afila por un lado, pero no puedes dar tantos golpes de martillo.",
+  "gemma": "弯刀只需要在一侧进行打磨，但你不能挥动锤子那么多下。",
+  "qwen": "弯刀只需要在一侧进行锤炼，但你不能挥动锤子那么多下。",
+  "gemma4": "弯刀只需要在一侧进行锤炼，但你不能挥动锤子那么多下。"
+ },
+ "You build the handle of a sword by dropping parts onto it.\nFirst drag and release a GUARD onto the sword's end,\nthen a GRIP, then a CAP.": {
+  "es": "El agarre de una espada se arma soltando piezas sobre ella. Primero arrastra y suelta una GUARDA en el extremo, luego un MANGO y luego un POMO.",
+  "gemma": "剑柄由部件组成，你需要将这些部件放置在剑柄上。首先将护手拖动到剑的末端，然后是握把，最后是柄头。",
+  "qwen": "通过将部件放置在剑上来制作剑柄。首先将护手拖动到剑的末端，然后是握把，最后是柄头。",
+  "gemma4": "通过将部件放置在剑上来制作剑柄。首先将护手拖动到剑的末端，然后是握把，最后是柄头。"
+ },
+ "Water Boosts only deal extra damage to\nWater Enemies": {
+  "es": "La mejora de agua solo daña más a enemigos de agua",
+  "gemma": "水强化只能对水元素敌人造成额外伤害",
+  "qwen": "水强化只能对水敌人造成额外伤害",
+  "gemma4": "水强化只能对水敌人造成额外伤害"
+ },
+ "Ice Boosts only deal extra damage to\nIce Enemies": {
+  "es": "La mejora de hielo solo daña más a enemigos de hielo",
+  "gemma": "冰强化只能对冰元素敌人造成额外伤害",
+  "qwen": "冰强化只能对冰敌人造成额外伤害",
+  "gemma4": "冰强化只能对冰敌人造成额外伤害"
+ },
+ "Wind Boosts only deal extra damage to\nWind Enemies": {
+  "es": "La mejora de viento solo daña más a enemigos de viento",
+  "gemma": "风强化只能对风元素敌人造成额外伤害",
+  "qwen": "风强化只能对风敌人造成额外伤害",
+  "gemma4": "风强化只能对风敌人造成额外伤害"
+ },
+ "Check the \"Beasts\" Book to see all of the types of\nmonsters you've already encountered.": {
+  "es": "Consulta el libro \"Bestiario\" para ver todos los tipos de monstruos que ya encontraste.",
+  "gemma": "查看“怪物图鉴”来查看你已经遇到的所有怪物类型。",
+  "qwen": "查看“野兽”书以查看你已经遇到的所有怪物类型。",
+  "gemma4": "查看“野兽”书以查看你已经遇到的所有怪物类型。"
+ },
+ "Each Epic Weapon design gives a Bonus Effect to ALL\nof the soldiers on that day if you build one.": {
+  "es": "Cada diseño de arma épica da un efecto extra a TODOS los soldados de ese día si forjas una.",
+  "gemma": "每个史诗武器的设计图，如果你制作一件，会给当天所有的士兵提供一个额外效果。",
+  "qwen": "如果你制作一件史诗武器设计图，它会给当天所有的士兵提供一个额外效果。",
+  "gemma4": "如果你制作一件史诗武器设计图，它会给当天所有的士兵提供一个额外效果。"
+ },
+ "Molds will also show a Bookmark icon if they're bookmarked,\nand Metal Ores will show an icon and the amount needed.": {
+  "es": "Los moldes también muestran el icono de marcador si están marcados, y los minerales muestran un icono y la cantidad necesaria.",
+  "gemma": "模具会显示一个标记图标，如果已标记；金属矿石会显示一个图标以及所需的数量。",
+  "qwen": "如果模具已标记，也会显示标记图标；金属矿石会显示图标及所需数量。",
+  "gemma4": "如果模具已标记，也会显示标记图标；金属矿石会显示图标及所需数量。"
+ },
+ "Any parts that are used in an Epic Weapon Design\nyou have collected, even if it isn't currently\nbookmarked, will also show this icon:": {
+  "es": "Toda pieza usada en un diseño de arma épica que hayas conseguido, aunque no esté marcado ahora, también mostrará este icono:",
+  "gemma": "即使你没有标记，任何用于史诗武器设计的部件，也会显示这个图标",
+  "qwen": "即使当前未标记，任何用于你已收集的史诗武器设计的部件也会显示此图标：",
+  "gemma4": "即使当前未标记，任何用于你已收集的史诗武器设计的部件也会显示此图标："
+ },
+ "If a part is used in Epic Weapon Designs you have\ncollected, but you've already made those designs at\nleast once, it will instead show this icon:": {
+  "es": "Si una pieza se usa en diseños de armas épicas que conseguiste, pero ya forjaste esos diseños al menos una vez, mostrará este otro icono:",
+  "gemma": "如果某个部件用于你已收集的史诗武器设计，但你已经至少制作过这些设计，它会显示这个图标",
+  "qwen": "如果某个部件用于你已收集的史诗武器设计，但你已经至少制作过一次这些设计，它将显示此图标：",
+  "gemma4": "如果某个部件用于你已收集的史诗武器设计，但你已经至少制作过一次这些设计，它将显示此图标："
+ },
+ "When forging metals, the Pull Chain is tailored for easy\nmouse controls, especially when playing at full screen.": {
+  "es": "Al forjar metales, la cadena está adaptada para un control fácil con el ratón, sobre todo en pantalla completa.",
+  "gemma": "锻造金属时，拉链设计便于鼠标操作，尤其是在全屏模式下。",
+  "qwen": "锻造金属时，拉链经过优化，便于鼠标操作，尤其是在全屏模式下。",
+  "gemma4": "锻造金属时，拉链经过优化，便于鼠标操作，尤其是在全屏模式下。"
+ },
+ "If you'd like to make the chain follow your mouse exactly,\nor if you're using a touch screen, you can disable\nthe \"Easy-to-Drag Forge Chain\" option.": {
+  "es": "Si prefieres que la cadena siga tu ratón con exactitud, o si usas pantalla táctil, puedes desactivar la opción \"Cadena de fragua fácil de arrastrar\".",
+  "gemma": "如果你想让拉链完全跟随鼠标，或者你使用的是触摸屏，你可以禁用“易于拖动的锻造链”选项。",
+  "qwen": "如果你想让链条完全跟随鼠标，或者你使用的是触摸屏，可以禁用“易于拖动的锻造链”选项。",
+  "gemma4": "如果你想让链条完全跟随鼠标，或者你使用的是触摸屏，可以禁用“易于拖动的锻造链”选项。"
+ }
+}
