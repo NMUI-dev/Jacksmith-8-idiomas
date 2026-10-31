@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Jacksmith-8-idiomas/releases/latest)** (`Jacksmith - traduccion multiples idiomas v1.1.0.zip`), descomprímelo en una carpeta, haz doble clic en **`Instalar.bat`** y sigue lo que diga la ventana. El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Jacksmith-8-idiomas/releases/latest)** (`Jacksmith.-.traduccion.multiples.idiomas.v1.1.0.zip`), descomprímelo en una carpeta, haz doble clic en **`Instalar.bat`** y sigue lo que diga la ventana. El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Jacksmith-8-idiomas/releases/latest)**, unzip it into a folder, double-click **`Instalar.bat`** and follow the window. The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
