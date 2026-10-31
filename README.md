@@ -6,6 +6,8 @@
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Jacksmith-8-idiomas/releases/latest)**, unzip it into a folder, double-click **`Instalar.bat`** and follow the window. The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
+**Compilar / Build / Compilare / Compiler / Kompilieren / Сборка / ビルド / 编译 / 編譯:** [Español](docs/compilar/es.md) · [English](docs/compilar/en.md) · [Italiano](docs/compilar/it.md) · [Português (Brasil)](docs/compilar/pt-BR.md) · [Français](docs/compilar/fr.md) · [Deutsch](docs/compilar/de.md) · [Русский](docs/compilar/ru.md) · [日本語](docs/compilar/ja.md) · [简体中文](docs/compilar/zh-Hans.md) · [繁體中文](docs/compilar/zh-Hant.md). **`PREPARAR TODO.bat`** downloads everything needed at once (Python packages, RABCDAsm, Flex SDK, Java, fonts) and checks every file.
+
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code for the fan-made translation mod of *Jacksmith: Weapons and Warriors* (Steam, PC, Adobe AIR):
